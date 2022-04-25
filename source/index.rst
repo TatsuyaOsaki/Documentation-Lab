@@ -10,10 +10,12 @@ Welcome to Documentation-Lab's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   hello
 
 
 
-hello
+
+
 Indices and tables
 ==================
 
