@@ -9,8 +9,6 @@
 - Knockout Serum Replacement
 - DMEM /F12
 - Neurobasal medium
--
--
 
 ## Preparation
 

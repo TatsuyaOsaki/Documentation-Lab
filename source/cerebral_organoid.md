@@ -1,4 +1,4 @@
-## Differentiation of cerebral orgnaoid
+# Differentiation of cerebral orgnaoid
 
 ## Reagent
 - Cell
