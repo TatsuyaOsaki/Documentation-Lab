@@ -1,4 +1,4 @@
-# AMED_cancer microfludic device with AIM chip
+# Migration assay for AMED project
 
 ## Materials & Reagent
 - Cancer cell (H2122, A549 etc)
@@ -51,3 +51,6 @@
 
 ---
 ## Protocol
+1. 
+2. 
+3. 
