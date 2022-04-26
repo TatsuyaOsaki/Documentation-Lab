@@ -1,4 +1,4 @@
-# Cell Culture Basis
+## Differentiation of cerebral orgnaoid
 
 ## Reagent
 - Cell
@@ -11,18 +11,9 @@
 - Neurobasal medium
 -
 -
-
+---
 ## Preparation
 
-### Cell cutlure medium
-
-| Reagent | Volume |
-| :----:  | :----: |
-| DMEM    | 450 ml |
-| FBS     |  50 ml |
-| P/S     |   5 ml |
-| Total   | 505 ml |
----
 ### Differentiation medium for cerebral orgnaoid Stage1
 | Reagent | Volume |
 | :----   | ----: |
@@ -78,12 +69,3 @@
 | BDNF              | 20 ng\ml |
 |
 | Total   | 100 ml |
-
-```Bash
-
-```
-## Primary neuron
-
-
-## iPS cell
-## Endothelial cell

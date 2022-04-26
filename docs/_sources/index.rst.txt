@@ -10,9 +10,14 @@ Welcome to Documentation-Lab's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   CellCulture
-   Dev
-   Immunostaining
+   cell_culture
+   immunostaining
+   plasmid
+   cerebral_organoid
+   AMED_cancer
+   brinbow
+   closed_loop_system
+   dev
 .. WesternBlotting
 
 .. scRNA
