@@ -12,7 +12,7 @@ Welcome to Documentation-Lab's documentation!
 
    CellCulture
    Dev
-.. Immunostaining
+   Immunostaining
 .. WesternBlotting
 
 .. scRNA
