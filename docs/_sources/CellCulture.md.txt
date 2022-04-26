@@ -6,6 +6,11 @@
 - Fetal bovine serum
 - TrypLE Express
 - Penicillin/Streptomycin
+- 
+-
+-
+-
+-
 
 ## Preparation
 
