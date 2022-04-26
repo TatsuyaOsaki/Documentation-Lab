@@ -15,7 +15,7 @@ Welcome to Documentation-Lab's documentation!
    plasmid
    cerebral_organoid
    AMED_cancer
-   brinbow
+   brainbow
    closed_loop_system
    dev
 .. WesternBlotting

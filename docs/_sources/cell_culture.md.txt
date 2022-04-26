@@ -21,6 +21,7 @@
 | DMEM    | 450 ml |
 | FBS     |  50 ml |
 | P/S     |   5 ml |
+|
 | Total   | 505 ml |
 ---
 ### Differentiation medium for cerebral orgnaoid Stage1
