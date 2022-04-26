@@ -11,13 +11,12 @@ Welcome to Documentation-Lab's documentation!
    :caption: Contents:
 
    cell_culture
-   immunostaining
    plasmid
    cerebral_organoid
    AMED_cancer
    brainbow
    closed_loop_system
-   dev
+   development
 .. WesternBlotting
 
 .. scRNA

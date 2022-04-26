@@ -16,6 +16,7 @@ pip install sphinx-rtd-theme
 pip install myst-parser
 pip install sphinx-autobuild
 
+
 pip install mathjax
 pip install sphinx-autodoc-variants
 pip install sphinxcontrib-bibtex
