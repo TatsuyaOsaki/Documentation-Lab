@@ -12,6 +12,7 @@ Welcome to Documentation-Lab's documentation!
 
    cell_culture
    plasmid
+   immunostaining
    cerebral_organoid
    AMED_cancer
    brainbow
