@@ -1,21 +1,24 @@
 # Sur Lab room and equipment
 
-## Cell culture room ()
+## Cell culture room (46-6296, PCLM Wet Lab)
 
 - Cell culture
 - iPS culture
 - Organoid culture
+- Basic mnupluation of molecular biology
 - Cell observation
 - Flowcytometry
 - Cell sorting
-
+  
 ### Equipment
 
 ```
 4 × Cell culture incubator 
 4 × Biosafety cabinet
 Inverted fluorescent microscope
+Ordinary observation microscope
 BD FACS meolody
+Centrifuge
 Electropolator
 
 ```
@@ -35,7 +38,14 @@ Electropolator
 ### Equipment
 
 ```
-
+Centrifuge
+Western blotting 
+Xcell
+Nano drop
+Qubit
+E-gel imager
+Real-time PCR system Applied Biosystems (Quant Studio 3)
+Shaker with incubator (For E.coli culture)
 
 
 ```
