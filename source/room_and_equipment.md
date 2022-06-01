@@ -31,6 +31,7 @@
 - DNA&RNA purification
 - DNA&RNA quantification
 - SDS PAGE
+- NuPAGE Bis-Tris
 - Plasmid cloning
 ```
 ### Equipment
@@ -39,9 +40,9 @@ Real-time PCR system Applied Biosystems (Quant Studio 3)
 Western blotting Xcell II Blot Module
 
 - Centrifuge
-- Western blotting 
+- Western blotting
 - 2×Xcell Sure Lock (Thormo Fisher Scienctific)
-- Nano drop 2000c
+- [Mini-gel Tank](https://www.thermofisher.com/order/catalog/product/A25977)
 - [Thormal cycler ProFlex](https://www.thermofisher.com/us/en/home/life-science/pcr/thermal-cyclers-realtime-instruments/thermal-cyclers/proflex-pcr-system.html)
 - [ FastPrep-24™ Classic bead beating grinder and lysis system](https://www.mpbio.com/us/fastprep-24-classic-instrument-1-each)
 - E-gel imager
