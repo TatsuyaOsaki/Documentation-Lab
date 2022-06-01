@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "15c2ef54a7301893",
+    "type": "split",
+    "children": [
+      {
+        "id": "0586f8fd565346ca",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cerebral_organoid.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1988a08e1c8e40f6",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ab9ded3f2c79c56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb4b19be6ab816af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ed2b9a6c3f8eb455",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ec72667445bf0837",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c010648edba2d9f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d0a4991ad0d39f9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cerebral_organoid.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "0586f8fd565346ca",
+  "lastOpenFiles": [
+    "cerebral_organoid.md",
+    "brainbow.md",
+    "AMED_cancer.md",
+    "closed_loop_system.md",
+    "cell_culture.md"
+  ]
+}
