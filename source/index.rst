@@ -10,6 +10,7 @@ Welcome to Documentation-Lab's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   room_and_equipment
    cell_culture
    plasmid
    immunostaining
