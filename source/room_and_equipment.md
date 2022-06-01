@@ -1,30 +1,28 @@
 # Sur Lab room and equipment
 
 ## Cell culture room (46-6296, PCLM Wet Lab)
-
+```
 - Cell culture
 - iPS culture
 - Organoid culture
-- Basic mnupluation of molecular biology
+- Basic manupulation of molecular biology
 - Cell observation
 - Flowcytometry
 - Cell sorting
-  
+```
 ### Equipment
 
-```
-4 × Cell culture incubator 
-4 × Biosafety cabinet
-Inverted fluorescent microscope
-Ordinary observation microscope
-BD FACS meolody
-Centrifuge
-Electropolator
+- 4 × Cell culture incubator 
+- 4 × Biosafety cabinet
+- Inverted fluorescent microscope
+- Ordinary observation microscope
+- BD FACS meolody
+- Centrifuge
+- Electropolator
 
-```
-  
+
 ## Molucular biology room (46-6066)
-
+```
 - Western bolotting
 - PCR
 - RT-PCR
@@ -34,29 +32,35 @@ Electropolator
 - DNA&RNA quantification
 - SDS PAGE
 - Plasmid cloning
-
+```
 ### Equipment
 
-```
-Centrifuge
-Western blotting 
-Xcell
-Nano drop
-Qubit
-E-gel imager
 Real-time PCR system Applied Biosystems (Quant Studio 3)
-Shaker with incubator (For E.coli culture)
+Western blotting Xcell II Blot Module
 
-
-```
-
+- Centrifuge
+- Western blotting 
+- 2×Xcell Sure Lock (Thormo Fisher Scienctific)
+- Nano drop 2000c
+- [Thormal cycler ProFlex](https://www.thermofisher.com/us/en/home/life-science/pcr/thermal-cyclers-realtime-instruments/thermal-cyclers/proflex-pcr-system.html)
+- [ FastPrep-24™ Classic bead beating grinder and lysis system](https://www.mpbio.com/us/fastprep-24-classic-instrument-1-each)
+- E-gel imager
+- Real-time PCR system Applied Biosystems (Quant Studio 3)
+- Shaker with incubator (For E.coli culture)
 
 ## Histlogy room (46-6213)
-```bash
 
 ```
+- 3D printing
+- Cyosectioning
+```
+### Equipment
+
+- Form 2 3D printer
+-  
 ## Slice preparation room (46-6215)
-```bash
+
+```
 
 ```
 
