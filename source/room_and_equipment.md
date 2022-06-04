@@ -12,9 +12,10 @@
 ```
 ### Equipment
 
-- 4 × Cell culture incubator 
+- 4 × Cell culture incubator
 - 4 × Biosafety cabinet
-- Inverted fluorescent microscope
+- Inverted fluorescent microscope (Olympus IX81)
+  ![](./picture/IX81.jpg)
 - Ordinary observation microscope
 - BD FACS meolody
 - Centrifuge
