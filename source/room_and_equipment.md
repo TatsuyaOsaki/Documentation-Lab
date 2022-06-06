@@ -14,7 +14,7 @@
 
 - 4 × Cell culture incubator
 - 4 × Biosafety cabinet
-- Inverted fluorescent microscope (Olympus IX81)
+- Inverted fluorescent microscope (Olympus IX81 + Monocrome Camera Q-imaging)
   ![](./picture/IX81.jpg)
 - Ordinary observation microscope
 - BD FACS meolody
