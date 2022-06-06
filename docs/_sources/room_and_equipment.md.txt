@@ -13,7 +13,9 @@
 ### Equipment
 
 - 4 × Cell culture incubator
+![](./picture/incubator.jpg)
 - 4 × Biosafety cabinet
+![](./picture/BiosafetyCabinet.jpg)
 - Inverted fluorescent microscope (Olympus IX81 + Monocrome Camera Q-imaging)
   ![](./picture/IX81.jpg)
 - Ordinary observation microscope
