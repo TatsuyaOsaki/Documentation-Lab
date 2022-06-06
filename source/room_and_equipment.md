@@ -37,8 +37,6 @@
 ```
 ### Equipment
 
-Real-time PCR system Applied Biosystems (Quant Studio 3)
-Western blotting Xcell II Blot Module
 
 - Centrifuge
 - Western blotting
