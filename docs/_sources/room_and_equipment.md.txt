@@ -19,9 +19,9 @@
 - Inverted fluorescent microscope (Olympus IX81 + Monocrome Camera Q-imaging)
   ![](./picture/IX81.jpg)
 - Ordinary observation microscope
-- BD FACS meolody
+- BD FACS melody (iPSC Core)
 - Centrifuge
-- Electropolator
+- Electropolator (ECM 830)
 
 
 ## Molucular biology room (46-6066)
@@ -39,14 +39,15 @@
 ```
 ### Equipment
 
-
-- Centrifuge
-- Western blotting
+- Centrifuge (ThormoFisher)
+- iBlot2 (Dry western blotting)
+- iBind Flex (Antibody binidng)
 - 2×Xcell Sure Lock (Thormo Fisher Scienctific)
-- [Mini-gel Tank](https://www.thermofisher.com/order/catalog/product/A25977)
-- [Thormal cycler ProFlex](https://www.thermofisher.com/us/en/home/life-science/pcr/thermal-cyclers-realtime-instruments/thermal-cyclers/proflex-pcr-system.html)
+- [Mini-gel Tank (Bio-Rad)](https://www.thermofisher.com/order/catalog/product/A25977)
+- [Thermal cycler ProFlex](https://www.thermofisher.com/us/en/home/life-science/pcr/thermal-cyclers-realtime-instruments/thermal-cyclers/proflex-pcr-system.html)
 - [ FastPrep-24™ Classic bead beating grinder and lysis system](https://www.mpbio.com/us/fastprep-24-classic-instrument-1-each)
 - E-gel imager
+- E-gel Base
 - Real-time PCR system Applied Biosystems (Quant Studio 3)
 - Shaker with incubator (For E.coli culture)
 
