@@ -40,15 +40,20 @@
 ### Equipment
 
 - Centrifuge (ThormoFisher)
-- iBlot2 (Dry western blotting)
+- iBlot 2 (Dry western blotting)
+![](./picture/iBlot2.jpg)
 - iBind Flex (Antibody binidng)
+![](./picture/iBind_flex.jpg)
 - 2×Xcell Sure Lock (Thormo Fisher Scienctific)
 - [Mini-gel Tank (Bio-Rad)](https://www.thermofisher.com/order/catalog/product/A25977)
 - [Thermal cycler ProFlex](https://www.thermofisher.com/us/en/home/life-science/pcr/thermal-cyclers-realtime-instruments/thermal-cyclers/proflex-pcr-system.html)
+![](./picture/Proflex.jpg)
 - [ FastPrep-24™ Classic bead beating grinder and lysis system](https://www.mpbio.com/us/fastprep-24-classic-instrument-1-each)
 - E-gel imager
+![](./picture/E-gel_imager.jpg)
 - E-gel Base
 - Real-time PCR system Applied Biosystems (Quant Studio 3)
+![](./picture/Quantstudio3.jpg)
 - Shaker with incubator (For E.coli culture)
 
 ## Histlogy room (46-6213)
