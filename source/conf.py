@@ -55,11 +55,15 @@ html_theme = 'furo'
 # so a file named "default.css" will overwrite the builtin "default.css".
 # html_static_path = ['_static']
 html_static_path = []
-# html_static_path = ['_static']
+# html_static_path = ['docs/_static']
 
 
 html_logo = "./picture/logo_documentation.png"
 html_theme_options = {
     'logo_only': True,
-    'display_version': False,
+    'display_version': True,
+}
+
+html_theme_options = {
+    "navigation_with_keys": True,
 }
