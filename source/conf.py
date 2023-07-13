@@ -70,7 +70,7 @@ html_theme_options = {
 
 favicons = [
     "./picture/favicon-16x16.png",
-    "./picture/favicon-32x32.png",
+    #"./picture/favicon-32x32.png",
 ]
 
 html_sidebars = {
