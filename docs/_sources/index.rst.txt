@@ -15,11 +15,13 @@ Welcome to Documentation!
    plasmid
    immunostaining
    cerebral_organoid
-   AMED_cancer
-   brainbow
-   closed_loop_system
+..  AMED_cancer
+.. brainbow
+.. closed_loop_system
+
    development
    room_and_equipment
+   rathi_training
    
 .. WesternBlotting
 
