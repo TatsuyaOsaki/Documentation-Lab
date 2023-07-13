@@ -21,7 +21,6 @@ pip install sphinx-rtd-theme
 pip install myst-parser
 pip install sphinx-autobuild
 pip install sphinx-rtd-theme
-
 pip install furo
 ```
 
@@ -29,8 +28,11 @@ Then, to make html build
 
 ```Bash
 sphinx-build source docs
-
 or
-
 sphinx-autobuild source docs
+```
+
+Setting of this documentation can be edit
+```Bash
+con.py
 ```
