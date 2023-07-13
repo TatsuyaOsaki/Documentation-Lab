@@ -63,16 +63,12 @@ html_static_path = []
 
 html_logo = "./picture/logo_documentation.png"
 html_theme_options = {
-    'logo_only': True,
-    'display_version': False,
-    "navigation_with_keys": True,
-    "sidebar_hide_name": True,
     "logo": {
         "text": "Tatsuya Osaki",
     }
 }
 
 favicons = [
-    "favicon-16x16.png",
-    "favicon-32x32.png",
+    "./picture/favicon-16x16.png",
+    "./picture/favicon-32x32.png",
 ]
