@@ -28,7 +28,7 @@
 ---
 ## HEK293T cells for AAV packaging 
 
-1. fdwa
+1. Seed cell 
 2. fdwa
 3. fdwa
 

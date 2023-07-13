@@ -73,15 +73,15 @@
 
 ```
 
-## Two photon room #1 (46-6221)
+## Two-photon room #1 (46-6221)
 ```bash
 
 ```
-## Two photon room #2 (46-6222)
+## Two-photon room #2 (46-6222)
 ```bash
 
 ```
-## Two photon room #3 (46-6226)
+## Two-photon room #3 (46-6226)
 ```bash
 
 ```
@@ -89,5 +89,8 @@
 ```bash
 
 ```
+## Three-photon microscope room #
+```bash
 
+```
 
