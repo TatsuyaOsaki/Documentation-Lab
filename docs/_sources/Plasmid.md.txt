@@ -8,16 +8,17 @@
 ---
 
 ## Plasmid cloning technique
-1. Restriction enzyme
-2. Gateway cloning
-3. Gibson assembly
+
+- Restriction enzyme
+- Gateway cloning
+- Gibson assembly
 
 ---
 
-### __1. Restrction enzyme__
+### 1. Restrction enzyme
 
 
-### __2. Gateway cloning__
+### 2. Gateway cloning
 
 
 ### __3. Gibson assembly__

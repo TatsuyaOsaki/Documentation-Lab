@@ -1,7 +1,6 @@
 # About this documentation
 This is the Personal documentaion for Tatsuya Osaki
 
-
 To edit this documentation, you need sphinx pyhon package and markdown format. Please follow these instruction to set up the enviroment for editing markdown and sphinx document convertion.
 ## Installation of sphinx
 
