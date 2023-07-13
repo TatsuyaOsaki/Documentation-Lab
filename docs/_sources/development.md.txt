@@ -1,58 +1,5 @@
 # Development
 
-## Installation of sphinx
-
-### Sphinx + extensions
-
-Sphinx was initially developped to document Python sources but can also applied to several other sources thanks to extensions.
-Mainly based on the used of [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) (or Markdown with extensions) it allows the generation of html documentation easily. Using the autodoc function, documentation is generated from the docstrings in sources. Since it is Python based, package managing for installation as well as extensions are simple and port well.
-
-This is the installtion with conda package manager
-
-```Bash
-conda create -n sphinx
-conda activate sphinx
-conda install -c anaconda sphinx 
-
-pip install sphinx-rtd-theme
-pip install myst-parser
-pip install sphinx-autobuild
-pip install sphinx-rtd-theme
-
-pip install furo
-```
-
-Then, to make html build
-
-```Bash
-sphinx-build source docs
-
-or
-
-sphinx-autobuild source docs
-```
-
-If you have pip installed you can get through the installation of sphinx and extensions using the following commands.
-
-
-```Bash
-pip install Sphinx
-pip install sphinxcontrib-matlabdomain
-pip install sphinx-rtd-theme
-pip install myst-parser
-pip install sphinx-autobuild
-pip install mathjax
-pip install sphinx-autodoc-variants
-pip install sphinxcontrib-bibtex
-```
-
-On linux generated bin are located in user local so as you may want to create a symbolic link to your /bin.
-```Bash
-sudo ln -s /home/username/.local/bin/sphinx-autogen /bin/sphinx-autogen
-sudo ln -s /home/username/.local/bin/sphinx-quickstart /bin/sphinx-quickstart
-sudo ln -s /home/username/.local/bin/sphinx-apidoc /bin/sphinx-apidoc
-sudo ln -s /home/username/.local/bin/sphinx-build /bin/sphinx-build
-```
 
  
 [**Sphinx**](https://www.sphinx-doc.org/en/master/) + [**Read the docs theme**](https://pypi.org/project/sphinx-rtd-theme/) - [**Autodoc Matlab**](https://pypi.org/project/sphinxcontrib-matlabdomain/) - [**Markdown sourcing**](https://myst-parser.readthedocs.io/en/latest/sphinx/intro.html) - [**Math equations**](https://pypi.org/project/mathjax/)

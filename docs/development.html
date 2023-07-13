@@ -410,54 +410,7 @@ document.write(`
                   
   <section id="development">
 <h1>Development<a class="headerlink" href="#development" title="Permalink to this heading">#</a></h1>
-<section id="installation-of-sphinx">
-<h2>Installation of sphinx<a class="headerlink" href="#installation-of-sphinx" title="Permalink to this heading">#</a></h2>
-<section id="sphinx-extensions">
-<h3>Sphinx + extensions<a class="headerlink" href="#sphinx-extensions" title="Permalink to this heading">#</a></h3>
-<p>Sphinx was initially developped to document Python sources but can also applied to several other sources thanks to extensions.
-Mainly based on the used of <a class="reference external" href="https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html">reStructuredText</a> (or Markdown with extensions) it allows the generation of html documentation easily. Using the autodoc function, documentation is generated from the docstrings in sources. Since it is Python based, package managing for installation as well as extensions are simple and port well.</p>
-<p>This is the installtion with conda package manager</p>
-<div class="highlight-Bash notranslate"><div class="highlight"><pre><span></span>conda<span class="w"> </span>create<span class="w"> </span>-n<span class="w"> </span>sphinx
-conda<span class="w"> </span>activate<span class="w"> </span>sphinx
-conda<span class="w"> </span>install<span class="w"> </span>-c<span class="w"> </span>anaconda<span class="w"> </span>sphinx<span class="w"> </span>
-
-pip<span class="w"> </span>install<span class="w"> </span>sphinx-rtd-theme
-pip<span class="w"> </span>install<span class="w"> </span>myst-parser
-pip<span class="w"> </span>install<span class="w"> </span>sphinx-autobuild
-pip<span class="w"> </span>install<span class="w"> </span>sphinx-rtd-theme
-
-pip<span class="w"> </span>install<span class="w"> </span>furo
-</pre></div>
-</div>
-<p>Then, to make html build</p>
-<div class="highlight-Bash notranslate"><div class="highlight"><pre><span></span>sphinx-build<span class="w"> </span><span class="nb">source</span><span class="w"> </span>docs
-
-or
-
-sphinx-autobuild<span class="w"> </span><span class="nb">source</span><span class="w"> </span>docs
-</pre></div>
-</div>
-<p>If you have pip installed you can get through the installation of sphinx and extensions using the following commands.</p>
-<div class="highlight-Bash notranslate"><div class="highlight"><pre><span></span>pip<span class="w"> </span>install<span class="w"> </span>Sphinx
-pip<span class="w"> </span>install<span class="w"> </span>sphinxcontrib-matlabdomain
-pip<span class="w"> </span>install<span class="w"> </span>sphinx-rtd-theme
-pip<span class="w"> </span>install<span class="w"> </span>myst-parser
-pip<span class="w"> </span>install<span class="w"> </span>sphinx-autobuild
-pip<span class="w"> </span>install<span class="w"> </span>mathjax
-pip<span class="w"> </span>install<span class="w"> </span>sphinx-autodoc-variants
-pip<span class="w"> </span>install<span class="w"> </span>sphinxcontrib-bibtex
-</pre></div>
-</div>
-<p>On linux generated bin are located in user local so as you may want to create a symbolic link to your /bin.</p>
-<div class="highlight-Bash notranslate"><div class="highlight"><pre><span></span>sudo<span class="w"> </span>ln<span class="w"> </span>-s<span class="w"> </span>/home/username/.local/bin/sphinx-autogen<span class="w"> </span>/bin/sphinx-autogen
-sudo<span class="w"> </span>ln<span class="w"> </span>-s<span class="w"> </span>/home/username/.local/bin/sphinx-quickstart<span class="w"> </span>/bin/sphinx-quickstart
-sudo<span class="w"> </span>ln<span class="w"> </span>-s<span class="w"> </span>/home/username/.local/bin/sphinx-apidoc<span class="w"> </span>/bin/sphinx-apidoc
-sudo<span class="w"> </span>ln<span class="w"> </span>-s<span class="w"> </span>/home/username/.local/bin/sphinx-build<span class="w"> </span>/bin/sphinx-build
-</pre></div>
-</div>
 <p><a class="reference external" href="https://www.sphinx-doc.org/en/master/"><strong>Sphinx</strong></a> + <a class="reference external" href="https://pypi.org/project/sphinx-rtd-theme/"><strong>Read the docs theme</strong></a> - <a class="reference external" href="https://pypi.org/project/sphinxcontrib-matlabdomain/"><strong>Autodoc Matlab</strong></a> - <a class="reference external" href="https://myst-parser.readthedocs.io/en/latest/sphinx/intro.html"><strong>Markdown sourcing</strong></a> - <a class="reference external" href="https://pypi.org/project/mathjax/"><strong>Math equations</strong></a></p>
-</section>
-</section>
 <section id="matlab">
 <h2>Matlab<a class="headerlink" href="#matlab" title="Permalink to this heading">#</a></h2>
 <section id="vscode-plugins-alternative-to-matlab-editor">
@@ -599,10 +552,6 @@ sudo<span class="w"> </span>ln<span class="w"> </span>-s<span class="w"> </span>
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#installation-of-sphinx">Installation of sphinx</a><ul class="nav section-nav flex-column">
-<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#sphinx-extensions">Sphinx + extensions</a></li>
-</ul>
-</li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#matlab">Matlab</a><ul class="nav section-nav flex-column">
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#vscode-plugins-alternative-to-matlab-editor">VSCode + plugins : alternative to Matlab Editor</a><ul class="nav section-nav flex-column">
 <li class="toc-h4 nav-item toc-entry"><a class="reference internal nav-link" href="#useful-commands">Useful commands</a></li>
