@@ -26,8 +26,9 @@
 |
 | Total   | 505 ml |
 ---
-### HEK293T cells for 
+## HEK293T cells for AAV packaging 
 
+  
 
 ## Primary neuron
 

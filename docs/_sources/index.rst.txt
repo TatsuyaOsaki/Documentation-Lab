@@ -3,14 +3,14 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Documentation-Lab's documentation!
+Welcome to Documentation!
 =============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
-   room_and_equipment
+   about_documentation
    cell_culture
    plasmid
    immunostaining
@@ -19,6 +19,7 @@ Welcome to Documentation-Lab's documentation!
    brainbow
    closed_loop_system
    development
+   room_and_equipment
    
 .. WesternBlotting
 
