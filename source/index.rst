@@ -18,7 +18,7 @@ Welcome to Documentation!
    room_and_equipment
    rathi_training
    development
-..  AMED_cancer
+.. AMED_cancer
 .. brainbow
 .. closed_loop_system
 
