@@ -22,8 +22,6 @@ Welcome to Documentation!
 .. brainbow
 .. closed_loop_system
 
-
-   
 .. WesternBlotting
 
 .. scRNA
