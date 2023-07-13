@@ -204,8 +204,35 @@
           <section id="about-this-documentation">
 <h1>About this documentation<a class="headerlink" href="#about-this-documentation" title="Permalink to this heading">#</a></h1>
 <p>This is the Personal documentaion for Tatsuya Osaki</p>
-<section id="as">
-<h2>As<a class="headerlink" href="#as" title="Permalink to this heading">#</a></h2>
+<p>To edit this documentation, you need sphinx pyhon package and markdown format. Please follow these instruction to set up the enviroment for editing markdown and sphinx document convertion.</p>
+<section id="installation-of-sphinx">
+<h2>Installation of sphinx<a class="headerlink" href="#installation-of-sphinx" title="Permalink to this heading">#</a></h2>
+<section id="sphinx-extensions">
+<h3>Sphinx + extensions<a class="headerlink" href="#sphinx-extensions" title="Permalink to this heading">#</a></h3>
+<p>Sphinx was initially developped to document Python sources but can also applied to several other sources thanks to extensions.
+Mainly based on the used of <a class="reference external" href="https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html">reStructuredText</a> (or Markdown with extensions) it allows the generation of html documentation easily. Using the autodoc function, documentation is generated from the docstrings in sources. Since it is Python based, package managing for installation as well as extensions are simple and port well.</p>
+<p>This is the installtion with conda package manager</p>
+<div class="highlight-Bash notranslate"><div class="highlight"><pre><span></span>conda<span class="w"> </span>create<span class="w"> </span>-n<span class="w"> </span>sphinx
+conda<span class="w"> </span>activate<span class="w"> </span>sphinx
+conda<span class="w"> </span>install<span class="w"> </span>-c<span class="w"> </span>anaconda<span class="w"> </span>sphinx<span class="w"> </span>
+
+pip<span class="w"> </span>install<span class="w"> </span>sphinx-rtd-theme
+pip<span class="w"> </span>install<span class="w"> </span>myst-parser
+pip<span class="w"> </span>install<span class="w"> </span>sphinx-autobuild
+pip<span class="w"> </span>install<span class="w"> </span>sphinx-rtd-theme
+
+pip<span class="w"> </span>install<span class="w"> </span>furo
+</pre></div>
+</div>
+<p>Then, to make html build</p>
+<div class="highlight-Bash notranslate"><div class="highlight"><pre><span></span>sphinx-build<span class="w"> </span><span class="nb">source</span><span class="w"> </span>docs
+
+or
+
+sphinx-autobuild<span class="w"> </span><span class="nb">source</span><span class="w"> </span>docs
+</pre></div>
+</div>
+</section>
 </section>
 </section>
 
@@ -265,7 +292,10 @@
           <div class="toc-tree">
             <ul>
 <li><a class="reference internal" href="#">About this documentation</a><ul>
-<li><a class="reference internal" href="#as">As</a></li>
+<li><a class="reference internal" href="#installation-of-sphinx">Installation of sphinx</a><ul>
+<li><a class="reference internal" href="#sphinx-extensions">Sphinx + extensions</a></li>
+</ul>
+</li>
 </ul>
 </li>
 </ul>
