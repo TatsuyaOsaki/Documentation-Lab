@@ -31,6 +31,9 @@ html_theme = "pydata_sphinx_theme"
 #html_theme = 'sphinx_rtd_theme'
 #html_theme = 'furo'
 ```
+Pydata_sphinx_theme
+https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/branding.html
+
 
 Then, to make html build
 
