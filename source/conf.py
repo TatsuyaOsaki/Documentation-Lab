@@ -61,9 +61,15 @@ html_static_path = []
 html_logo = "./picture/logo_documentation.png"
 html_theme_options = {
     'logo_only': True,
-    'display_version': True,
+    'display_version': False,
+    "navigation_with_keys": True,
+    "sidebar_hide_name": True,
 }
 
 html_theme_options = {
-    "navigation_with_keys": True,
+    
+}
+
+html_theme_options = {
+    "sidebar_hide_name": True,
 }
