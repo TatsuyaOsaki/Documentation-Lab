@@ -63,5 +63,8 @@ html_theme_options = {
     'logo_only': True,
     'display_version': False,
     "navigation_with_keys": True,
-    "sidebar_hide_name": False,
+    "sidebar_hide_name": True,
+    "logo": {
+        "text": "Tatsuya Osaki",
+    }
 }
