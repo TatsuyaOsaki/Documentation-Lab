@@ -17,8 +17,8 @@ sys.path.insert(0, os.path.abspath('.'))
 
 # -- Project information -----------------------------------------------------
 
-project = 'Documentation-Lab'
-copyright = '2023, Tatsuya Osaki'
+project = 'Documentation_Tatsuya'
+copyright = '2022, Tatsuya Osaki'
 author = 'Tatsuya Osaki'
 
 # The full version, including alpha/beta/rc tags
