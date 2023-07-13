@@ -63,13 +63,5 @@ html_theme_options = {
     'logo_only': True,
     'display_version': False,
     "navigation_with_keys": True,
-    "sidebar_hide_name": True,
-}
-
-html_theme_options = {
-    
-}
-
-html_theme_options = {
-    "sidebar_hide_name": True,
+    "sidebar_hide_name": False,
 }
