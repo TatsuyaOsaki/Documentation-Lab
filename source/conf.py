@@ -57,7 +57,7 @@ html_static_path = []
 # html_static_path = ['_static']
 
 
-html_logo = "logo_documentation"
+html_logo = "logo_documentation.png"
 html_theme_options = {
     'logo_only': True,
     'display_version': False,
