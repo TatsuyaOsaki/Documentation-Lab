@@ -21,6 +21,15 @@ pip install myst-parser
 pip install sphinx-autobuild
 pip install sphinx-rtd-theme
 pip install furo
+pip install pydata-sphinx-theme
+conda install pydata-sphinx-theme --channel conda-forge
+```
+Then, set the theme
+```Bash
+html_theme = "pydata_sphinx_theme"
+#html_theme = 'alabaster'
+#html_theme = 'sphinx_rtd_theme'
+#html_theme = 'furo'
 ```
 
 Then, to make html build
