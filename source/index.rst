@@ -10,7 +10,7 @@ Welcome to Documentation!
    :maxdepth: 3
    :caption: Contents:
 
-   room_and_equipment
+   about_documentation
    cell_culture
    plasmid
    immunostaining
@@ -19,6 +19,7 @@ Welcome to Documentation!
    brainbow
    closed_loop_system
    development
+   room_and_equipment
    
 .. WesternBlotting
 
