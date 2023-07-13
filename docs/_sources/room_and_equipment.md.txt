@@ -64,6 +64,7 @@
 ```
 ### Equipment
 
+- Form 3 3D printer
 - Form 2 3D printer
 -  
 ## Slice preparation room (46-6215)
