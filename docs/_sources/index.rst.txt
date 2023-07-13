@@ -10,7 +10,7 @@ Welcome to Documentation!
    :maxdepth: 3
    :caption: Contents:
 
-   about_documentation
+   about
    cell_culture
    plasmid
    immunostaining
