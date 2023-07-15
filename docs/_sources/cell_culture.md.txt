@@ -49,9 +49,9 @@
 Gently homogenize using the pipette to evenly distribute cells
 
 9.  Aspirate gelatin from new culture dish and replace with media
-    a.     T75: 9-10mL
-    b.    6 well plate: 2mL/well
-9.  Add the appropriate volume of cells in suspension from falcon tube to each T75 flask or plate depending on your desired dilution
+- T75: 9-10mL
+- 6 well plate: 2mL/well
+10.  Add the appropriate volume of cells in suspension from falcon tube to each T75 flask or plate depending on your desired dilution
 
 ## Primary neuron
 
