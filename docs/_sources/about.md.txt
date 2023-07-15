@@ -33,6 +33,8 @@ html_theme = "pydata_sphinx_theme"
 #html_theme = 'furo'
 ```
 [Pydata_sphinx_theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/user_guide/web-components.html#)
+[Basic syntax Markdonw guite](https://www.markdownguide.org/basic-syntax/)
+[Sphinx design](https://sphinx-design.readthedocs.io/en/latest/index.html)
 
 Then, to make html build
 
