@@ -61,7 +61,7 @@ html_theme = "pydata_sphinx_theme"
 # html_static_path = ['docs/_static']
 
 
-html_logo = "./picture/logo_documentation.png"
+html_logo =[ "./picture/logo_documentation.png"]
 html_theme_options = {
     "logo": {
         "text": "Tatsuya Osaki",
