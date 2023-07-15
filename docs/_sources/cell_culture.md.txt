@@ -44,14 +44,12 @@
 6. Collect the 3mL trypsin + cells with a 5mL serological pipette, and place in a 15mL falcon tube
 7. Immediately add 7mL of culture media to the 15ml of falcon tube
 
-| :exclamation:  This is very important   |
-|-----------------------------------------|
 Gently homogenize using the pipette to evenly distribute cells
 
 8.  Aspirate gelatin from new culture dish and replace with media
 - T75: 9-10mL
 - 6 well plate: 2mL/well
-9.   Add the appropriate volume of cells in suspension from falcon tube to each T75 flask or plate depending on your desired dilution
+1.   Add the appropriate volume of cells in suspension from falcon tube to each T75 flask or plate depending on your desired dilution
 
 ## Primary neuron
 
