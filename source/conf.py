@@ -68,7 +68,7 @@ html_theme_options = {
     }
 }
 favicons = [
-    "./source/picture/favicon-16x16.png",
+    "favicon-16x16.png",
     "favicon-32x32.png",
 ]
 

@@ -2,9 +2,8 @@
 
 ## Plasmid list
 
-- [Tatsuya's plasmid list @Kamm @iis](https://docs.google.com/spreadsheets/d/16nens0hUJP0TD_Ag_wzMBrHVH514-HrzAc5D-BL2cto/edit#gid=1880615819&range=A1)
-- Tatsuya's Plasmid list
-- Tatsuya's Virus list
+- [Tatsuya's plasmid list @Picower](https://docs.google.com/spreadsheets/d/14_SagyhAMa9Ql1EqCd9vWOnZwws7f42UvFEUZizUepw/edit?usp=sharing)
+- [Tatsuya's Virus list](https://docs.google.com/spreadsheets/d/14_SagyhAMa9Ql1EqCd9vWOnZwws7f42UvFEUZizUepw/edit?usp=sharing)
 ---
 
 ## Plasmid cloning technique
