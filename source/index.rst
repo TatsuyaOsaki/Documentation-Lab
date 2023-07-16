@@ -3,23 +3,25 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Documentation-Lab's documentation!
+Welcome to Documentation!
 =============================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: Contents:
 
-   room_and_equipment
+   about
    cell_culture
    plasmid
    immunostaining
    cerebral_organoid
-   AMED_cancer
-   brainbow
-   closed_loop_system
+   room_and_equipment
+   rathi_training
    development
-   
+.. AMED_cancer
+.. brainbow
+.. closed_loop_system
+
 .. WesternBlotting
 
 .. scRNA

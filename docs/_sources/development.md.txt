@@ -1,60 +1,8 @@
 # Development
 
-## Documentation
 
-### Sphinx + extensions
-
-Sphinx was initially developped to document Python sources but can also applied to several other sources thanks to extensions.
-Mainly based on the used of [reStructuredText](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html) (or Markdown with extensions) it allows the generation of html documentation easily. Using the autodoc function, documentation is generated from the docstrings in sources. Since it is Python based, package managing for installation as well as extensions are simple and port well.
-
-If you have pip installed you can get through the installation of sphinx and extensions using the following commands.
-
-```Bash
-pip install Sphinx
-pip install sphinxcontrib-matlabdomain
-pip install sphinx-rtd-theme
-pip install myst-parser
-pip install sphinx-autobuild
-
-
-pip install mathjax
-pip install sphinx-autodoc-variants
-pip install sphinxcontrib-bibtex
-```
-
-On linux generated bin are located in user local so as you may want to create a symbolic link to your /bin.
-```Bash
-sudo ln -s /home/username/.local/bin/sphinx-autogen /bin/sphinx-autogen
-sudo ln -s /home/username/.local/bin/sphinx-quickstart /bin/sphinx-quickstart
-sudo ln -s /home/username/.local/bin/sphinx-apidoc /bin/sphinx-apidoc
-sudo ln -s /home/username/.local/bin/sphinx-build /bin/sphinx-build
-```
-
-### Doxygen
-
-As presented on their [website](https://www.doxygen.nl/index.html), Doxygen is the de facto standard tool for generating documentation from annotated C++ sources, but it also supports other popular programming languages such as C, Objective-C, C#, PHP, Java, Python, IDL (Corba, Microsoft, and UNO/OpenOffice flavors), Fortran, VHDL and to some extent D.
-
-The main drawback users found to Doxygen is its esthetic that is a little bit old fashioned. This introduces the next alternative.  
-
-### Doxygen + Breathe + Sphinx
-
-Breathe allows to get documentation generated from Doxygen with the html render of Sphinx. It does require a little bit more of configuration.
-
-### TerosHDL Documenter
-
-This solution is only for VHDL/Verilog documentation and allows to generate various documentation of your design though block diagram, state machin viewer and [waveform description](https://wavedrom.com/tutorial.html).
-
-### Links
-
+ 
 [**Sphinx**](https://www.sphinx-doc.org/en/master/) + [**Read the docs theme**](https://pypi.org/project/sphinx-rtd-theme/) - [**Autodoc Matlab**](https://pypi.org/project/sphinxcontrib-matlabdomain/) - [**Markdown sourcing**](https://myst-parser.readthedocs.io/en/latest/sphinx/intro.html) - [**Math equations**](https://pypi.org/project/mathjax/)
-
-[**Doxygen**](https://www.doxygen.nl/index.html)
-
-[**Breathe**](https://pypi.org/project/breathe/)
-
-[**Breathe documentation**](https://breathe.readthedocs.io/en/latest/index.html)
-
-[**TerosHDL documenter**](https://terostechnology.github.io/terosHDLdoc/features/documenter.html)
 
 ## Matlab
 
@@ -110,14 +58,6 @@ The alternative is the use of anaconda that a very complete platform that will a
 
 [**Anaconda**](https://www.anaconda.com/)
 
-## VHDL
-
-### VSCode + TerosHDL : alternative to Vivado editor
-
-Most of the target we use are from Xilinx, therefore enforcing the use of Vivado design suite.
-While it is a very complete IDE with many built-in features, its editor remains quite limited. A common workaround is to edit sources with an external editor letting Vivado updates its version once sources are saved in external editor.
-
-**VSCode** paired with **TerosHDL** is a very convenient setup that allows several time saving macros and syntax completions.
 
 #### VSCode Useful default shortcuts (Windows)
 >  * `Ctrl` + `Shift` + `Alt` + `Up/Down` : multi column selection
@@ -152,8 +92,4 @@ While it is a very complete IDE with many built-in features, its editor remains 
 
 ### Links
 
-[**VSCode**](https://code.visualstudio.com/) + [**TerosHDL**](https://marketplace.visualstudio.com/items?itemName=teros-technology.teroshdl) - [**Incremental selection**](https://marketplace.visualstudio.com/items?itemName=albymor.increment-selection)
-
-[**Vivado ML Standard 2021.2**](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2021-2.html) (currently transitioning)
-
-[**Vivado Design Suite & Vitis 2020.2**](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/archive.html)
+[**VSCode**](https://code.visualstudio.com/) 
