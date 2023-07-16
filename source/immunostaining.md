@@ -21,7 +21,7 @@
 
 - Filter the solution (vacuum bottles with 0.2um filter)
 
- ### Organoid preparation (sucrose gradient):
+### Organoid preparation (sucrose gradient):
 
 1. Incubate fixed organoids in sucrose 20% overnight
 2. Incubate in sucrose 30% for > 1h
