@@ -1,132 +1,60 @@
-# Immunostaining
-
-## Protocol
+# Morphological analysis
 
 
+## Organoid OCT embedding protocol for cryo-sectioning
 
-Organoid OCT embedding protocol for cryo-sectioning
 
- 
-
-Substance
+### Substance
 	
 
-Brand
-	
+- Sucrose (powder)
+- OCT compunds
 
-Reference
-	
+### Solution preparation:
 
-Location
+- Prepare 30% sucrose solution:
 
-Sucrose (powder)
-	
 
-Sigma
-	
+- Filter the solution (vacuum bottles with 0.2um filter)
 
-8501
-	
+- Prepare 20% sucrose solution:
 
-iPS powder shelf
+- Filter the solution (vacuum bottles with 0.2um filter)
 
-OCT
-	
+ ### Organoid preparation (sucrose gradient):
 
- 
-	
+1. Incubate fixed organoids in sucrose 20% overnight
+2. Incubate in sucrose 30% for > 1h
 
- 
-	
-
-iPS/Histology bench
-
- 
-
-Solution preparation:
-
--       Prepare 30% sucrose solution:
-
-Sucrose powder
-	
-
-300 g
-	
-
-150 g
-
-MilliQ water
-	
-
-1 L
-	
-
-500 mL
-
-Filter the solution (vacuum bottles with 0.2um filter)
-
- 
-
--       Prepare 20% sucrose solution:
-
-                           For 1L     For 500mL
-
-Sucrose 30%
-	
-
-666 mL
-	
-
-333 mL
-
-MilliQ water
-	
-
-333 mL
-	
-
-167 mL
-
-Filter the solution (vacuum bottles with 0.2um filter)
-
- 
-
-Organoid preparation (sucrose gradient):
-
-    Incubate fixed organoids in sucrose 20% overnight
-    Incubate in sucrose 30% for > 1h
-
- 
-
-Protocol:
-
-    Take either a 6 or 12 well plate
-        This depends on the number of different samples you are going to embed
-    Fill one well (or the first of each row) with 30% sucrose solution
+3. Take either a 6 or 12 well plate
+      - This depends on the number of different samples you are going to embed
+4. Fill one well (or the first of each row) with 30% sucrose solution
+      - Do not fill all the way, just enough to submerge the largest organoid
+5.  Fill the next two wells (or the next two of each row) with OCT
         Do not fill all the way, just enough to submerge the largest organoid
-    Fill the next two wells (or the next two of each row) with OCT
-        Do not fill all the way, just enough to submerge the largest organoid
-    Label a cryomold with the following
+6. Label a cryomold with the following
         Batch # and year
         Line #
         Any protein expressions
         Date
-    Fill the cryomold with OCT
+7. Fill the cryomold with OCT
         Do not overfill otherwise OCT will drip over the edges
-    Make sure organoids in the sample tube are all free (none sticking to the bottom)
-    Quickly dump organoids into the well filled with 30% sucrose
+8. Make sure organoids in the sample tube are all free (none sticking to the bottom)
+9. Quickly dump organoids into the well filled with 30% sucrose
         If an organoid gets stuck in the tube, take some sucrose from the well with a dropper, and place in tube to try to free the stuck organoid. Try to dump out the remaining organoid with the sucrose solution
-    After washing organoids in 30% sucrose, transfer each individually using microdissection forceps to the 1stwell filled with OCT
+10. After washing organoids in 30% sucrose, transfer each individually using microdissection forceps to the 1stwell filled with OCT
         Do not pinch organoid with forceps, rather place forceps underneath and lift
-    Gently wrap organoids in OCT, ensuring all surfaces are covered
-    Move organoids to second OCT well and repeat
-    Use forceps to place each organoid into the sample plate
+11. Gently wrap organoids in OCT, ensuring all surfaces are covered
+12. Move organoids to second OCT well and repeat
+13. Use forceps to place each organoid into the sample plate
         Place organoids on the surface, avoiding touching forceps to OCT
         Do not place organoids too close to the edge
         Tip: place smaller organoids first as they sink slower, while bigger organoids sink faster and could reach the bottom of the plate too soon 
         Don’t put more than 10/12 organoids in each mold.
-    Use forceps to push down appropriate organoids so that all organoids are on same plane
-    Once all organoids are submerged (but not at bottom), place sample plate in -80C freezer
+14. Use forceps to push down appropriate organoids so that all organoids are on same plane
+15. Once all organoids are submerged (but not at bottom), place sample plate in -80C freezer
+
+## Cryosectioning
 
 Cryostat: Leica CM2050 S
 
