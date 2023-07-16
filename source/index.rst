@@ -12,7 +12,7 @@ Welcome to Documentation!
 
    about
    cell_culture
-   plasmid
+   genome_editing
    immunostaining
    cerebral_organoid
    room_and_equipment
