@@ -17,7 +17,8 @@
 | Reagent | Volume |
 | :----  | ----: |
 | DI water    | 350 g |
-| Sucrose     |   150 g |
+| Sucrose     |  150 g |
+| P/S     |   1 % |
 |
 | Total   | 500 ml |
 
