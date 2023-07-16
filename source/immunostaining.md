@@ -13,7 +13,13 @@
 ### Solution preparation:
 
 - Prepare 30% sucrose solution:
-
+  
+| Reagent | Volume |
+| :----  | ----: |
+| DI water    | 350 g |
+| Sucrose     |   150 g |
+|
+| Total   | 500 ml |
 
 - Filter the solution (vacuum bottles with 0.2um filter)
 
