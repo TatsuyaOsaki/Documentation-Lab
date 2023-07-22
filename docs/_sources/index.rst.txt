@@ -24,12 +24,11 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       - Transfection
       - CRISPR/Cas9
 
-
     .. grid-item-card:: Wet analysis
       :img-top: ./picture/wet.png
       :link: wet_analysis/index
 
-      - Cryo/immunostaining
+      - Immunostaining
       - RT-PCR
       - WesternBlotting
 
