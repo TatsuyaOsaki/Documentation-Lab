@@ -25,7 +25,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       - CRISPR/Cas9
 
     .. grid-item-card:: Wet analysis
-      :img-top: ./picture/wet.png
+      :img-top: ./picture/biology.png
       :link: wet_analysis/index
 
       - Immunostaining
