@@ -22,7 +22,7 @@ copyright = '2022, Tatsuya Osaki'
 author = 'Tatsuya Osaki'
 
 # The full version, including alpha/beta/rc tags
-release = '2.04'
+release = '2.05'
 
 
 # -- General configuration ---------------------------------------------------
@@ -84,7 +84,7 @@ html_theme_options = {
             "name": "PyData",
             "url": "https://pydata.org",
             "icon": "https://raw.githubusercontent.com/pydata/pydata-sphinx-theme/main/docs/_static/pandas-square.svg",
-            "type": "local",
+            "type": "url",
             # Add additional attributes to the href link.
             # The defaults of target, rel, class, title and href may be overwritten.
             "attributes": {
