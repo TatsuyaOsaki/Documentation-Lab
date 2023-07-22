@@ -15,7 +15,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       Cell culture protocol
 
     .. grid-item-card:: Genome editing
-      :img-top: ./picture/dna.png
+      :img-top: ./picture/dna-color.png
       :link: genome_editing/index
 
 
