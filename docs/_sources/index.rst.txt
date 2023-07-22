@@ -20,7 +20,6 @@ Welcome to Documentation!
   cell_culture/index
   genome_editing/index
   wet_analysis/index
-  cerebral_organoid
   room_and_equipment
   rathi_training
   development
