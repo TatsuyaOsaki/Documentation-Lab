@@ -36,7 +36,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       Cell culture protocol
 
     .. grid-item-card:: Microfabrication
-      :img-top: ./picture/laser.png
+      :img-top: ./picture/3d-printer.png
       :link: microfabrication/index
 
       Cell culture protocol
