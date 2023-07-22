@@ -18,16 +18,13 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :img-top: ./picture/dna.png
       :link: genome_editing/index
 
-        
-
-        :bdg-primary:`example`
 
     .. grid-item-card:: Wet analysis
       :img-top: ./picture/wet.png
       :link: wet_analysis/index
 
     .. grid-item-card:: Computation
-      :img-top: ./picture/dry.png
+      :img-top: ./picture/program.png
       :link: dry_analysis/index
 
 .. grid::
@@ -38,7 +35,23 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 
       Cell culture protocol
 
+    .. grid-item-card:: Optics
+      :img-top: ./picture/laser.png
+      :link: cell_culture/index
 
+      Cell culture protocol
+
+    .. grid-item-card:: Optics
+      :img-top: ./picture/laser.png
+      :link: cell_culture/index
+
+      Cell culture protocol
+
+    .. grid-item-card:: Optics
+      :img-top: ./picture/laser.png
+      :link: cell_culture/index
+
+      Cell culture protocol
 .. toctree::
   :maxdepth: 3
   :caption: Contents
