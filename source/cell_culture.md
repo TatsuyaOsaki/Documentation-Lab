@@ -3,8 +3,8 @@
 ## Cell lines
 > Tatsuya's cell line list
 
-## Basic of cell culture
-## Reagent
+## Basic of cell culture, HEK293T cells for AAV packaging 
+### Reagent
 - Cell
 - DMEM (high glucose without L-glutamine)
 - Fetal bovine serum
@@ -14,7 +14,6 @@
 - DMEM /F12
 - Neurobasal medium
 
-## Preparation
 
 ### Cell cutlure medium
 
@@ -28,7 +27,7 @@
 |
 | Total   | 505 ml |
 ---
-## HEK293T cells for AAV packaging 
+### Protocols
 
 1. Coat new flask(s) with gelatin, and let sit for one hour in hood
 -  T75: 5mL
@@ -43,16 +42,25 @@
 - With HEK cells at 90-100% confluency, 5 min has worked well
 6. Collect the 3mL trypsin + cells with a 5mL serological pipette, and place in a 15mL falcon tube
 7. Immediately add 7mL of culture media to the 15ml of falcon tube
+   
+8. Gently homogenize using the pipette to evenly distribute cells
 
-Gently homogenize using the pipette to evenly distribute cells
+9. Aspirate gelatin from new culture dish and replace with media
+    ```
+    T75: 9-10mL
+    6 well plate: 2mL/well
+    ```
+10. Add the appropriate volume of cells in suspension from falcon tube to each T75 flask or plate depending on your desired dilution
 
-8.  Aspirate gelatin from new culture dish and replace with media
-- T75: 9-10mL
-- 6 well plate: 2mL/well
-1.   Add the appropriate volume of cells in suspension from falcon tube to each T75 flask or plate depending on your desired dilution
+---
+## iPS cell culture
 
-## Primary neuron
+### Reagent
+- mTeSR plus (Stem cell technolgies, culture meidum)
+- Matrigel ESC qualified
+- RereSr (Stem cell technolgies,)
+- Y-27632
+- CS10 freezing solution
 
-
-## iPS cell
-## Endothelial cell
+### Protocols
+- 

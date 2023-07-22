@@ -1,7 +1,6 @@
 # Morphological analysis
 
-
-## Organoid OCT embedding protocol for cryo-sectioning
+## Organoid OCT embedding
 
 
 ### Substance
@@ -18,115 +17,106 @@
 | :----  | ----: |
 | DI water    | 350 g |
 | Sucrose     |  150 g |
-| P/S     |   1 % |
 |
 | Total   | 500 ml |
 
-- Filter the solution (vacuum bottles with 0.2um filter)
 
 - Prepare 20% sucrose solution:
 
-- Filter the solution (vacuum bottles with 0.2um filter)
+| Reagent | Volume |
+| :----  | ----: |
+| DI water    | 400 g |
+| Sucrose     |  100 g |
+|
+| Total   | 500 ml |
 
+- Filter the both solution (vacuum bottles with 0.2um filter)
+
+---
 ### Organoid preparation (sucrose gradient):
 
 1. Incubate fixed organoids in sucrose 20% overnight
 2. Incubate in sucrose 30% for > 1h
 
 3. Take either a 6 or 12 well plate
-      - This depends on the number of different samples you are going to embed
+   ```
+   This depends on the number of different samples you are going to embed
+   ```
 4. Fill one well (or the first of each row) with 30% sucrose solution
-      - Do not fill all the way, just enough to submerge the largest organoid
+    ```
+    Do not fill all the way, just enough to submerge the largest organoid
+    ```
 5.  Fill the next two wells (or the next two of each row) with OCT
-        Do not fill all the way, just enough to submerge the largest organoid
+    ```
+    Do not fill all the way, just enough to submerge the largest organoid
+    ```
 6. Label a cryomold with the following
-        Batch # and year
-        Line #
-        Any protein expressions
-        Date
+       
 7. Fill the cryomold with OCT
-        Do not overfill otherwise OCT will drip over the edges
+    ```
+    Do not overfill otherwise OCT will drip over the edges
+    ```
 8. Make sure organoids in the sample tube are all free (none sticking to the bottom)
 9. Quickly dump organoids into the well filled with 30% sucrose
-        If an organoid gets stuck in the tube, take some sucrose from the well with a dropper, and place in tube to try to free the stuck organoid. Try to dump out the remaining organoid with the sucrose solution
-10. After washing organoids in 30% sucrose, transfer each individually using microdissection forceps to the 1stwell filled with OCT
+    ```
+    If an organoid gets stuck in the tube, take some sucrose from the well with a dropper, and place in tube to try to free the stuck organoid. Try to dump out the remaining organoid with the sucrose solution
+    ```
+10.  After washing organoids in 30% sucrose, transfer each individually using microdissection forceps to the 1stwell filled with OCT
+        ```
         Do not pinch organoid with forceps, rather place forceps underneath and lift
-11. Gently wrap organoids in OCT, ensuring all surfaces are covered
-12. Move organoids to second OCT well and repeat
-13. Use forceps to place each organoid into the sample plate
-        Place organoids on the surface, avoiding touching forceps to OCT
+        ```
+12.   Gently wrap organoids in OCT, ensuring all surfaces are covered
+13.  Move organoids to second OCT well and repeat
+14.  Use forceps to place each organoid into the sample plate
+        - Place organoids on the surface, avoiding touching forceps to OCT
         Do not place organoids too close to the edge
-        Tip: place smaller organoids first as they sink slower, while bigger organoids sink faster and could reach the bottom of the plate too soon 
-        Don’t put more than 10/12 organoids in each mold.
-14. Use forceps to push down appropriate organoids so that all organoids are on same plane
-15. Once all organoids are submerged (but not at bottom), place sample plate in -80C freezer
-
+            ```
+            Tip: place smaller organoids first as they sink slower, while bigger organoids sink faster and could reach the bottom of the plate too soon. Don’t put more than 10/12 organoids in each mold.
+            ```
+15. Use forceps to push down appropriate organoids so that all organoids are on same plane
+16. Once all organoids are submerged (but not at bottom), place sample plate in -80C freezer
+    
+---
 ## Cryosectioning
-
+```
 Cryostat: Leica CM2050 S
-
 Manual: https://www.americaninstrument.com/pdf/1779E-CRYOSTAT.pdf
 
 Cryostat settings:
-
     Thickness 10-25 um 
     Temperature approx. -20 C 
-
+```
 Preparing cryostat:
 
-    Place sample on flat surface inside cryostat (such as quick freeze surface (8)) while setting up
-    Place blade
-        Flip knife guard (if not done so already)
-        Rotate lever located directly right of stage to loosen blade holder
-        Place blade onto knife holder and slide in 
-        Check that blade is evenly placed
-        Push lever to tighten knife holder
+1. Place sample on flat surface inside cryostat (such as quick freeze surface (8)) while setting up
+2. Place blade and Flip knife guard (if not done so already)
+3. Rotate lever located directly right of stage to loosen blade holder
+4. Place blade onto knife holder and slide in 
+5. Check that blade is evenly placed
+6. ush lever to tighten knife holder
 
  
 
-    Free sample
-
-    Carefully free sample from sample plate, maintaining sample orientation, but do not completely remove
-
-    Add OCT and place sample
+7. Add OCT and place sample
         Add approx. ½ tablespoon of OCT onto specimen disk and quickly place sample, maintaining correct orientation 
         Add weight and let sit for >10 minutes
-    Prepare slides 
+8. Prepare slides 
         Lay out 20 slides on slide book
         Label 1st slide with:
 
-1.     Batch 
 
-2.     Line
-
-3.     Any manipulations done (Ad, proteins being expressed etc…)
-
-4.     Today’s date
-
-5.     Slide #1
-
-    Number remaining slides 2-20
-
-    Place sample
-        Remove weight and place specimen disk in specimen head 
-        Tighten 
-
- 
-
-Slicing
-
-    Use single down arrow or wheel to move specimen close to blade.
+9. Use single down arrow or wheel to move specimen close to blade.
     Begin by slicing/trimming OCT from top of sample (make sure anti-roll glass plate is flipped up)
-        Adjust sample angle appropriately to achieve even, whole slices
-        Brush away debris as needed
-        Once organoids become visible…
-            Replace glass anti-roll plate
-            Slowly slice to minimize sample rolling
-            Remove anti-roll glass plate slowly
-            Take test slide, and flip face down vertically, with label closest to specimen head
-            Delicately hold slide close to sliced specimen to allow specimen to adhere to the slide
+10. Adjust sample angle appropriately to achieve even, whole slices 
+11. Brush away debris as needed 
+12. Once organoids become visible…
+13. Replace glass anti-roll plate
+14. Slowly slice to minimize sample rolling
+15. Remove anti-roll glass plate slowly
+16. Take test slide, and flip face down vertically, with label closest to specimen head
+17. Delicately hold slide close to sliced specimen to allow specimen to adhere to the slide
             Examine slide for organoids
-                                                               i.     If none appear, keep trimming and perform another test
+ i.     If none appear, keep trimming and perform another test
             Once slices are whole and even, and organoids are apparent, add sample slices to slides
                 Add one slice to slides 1-20, followed by a second and then third.
                 Trim 2-4 times between taking samples
@@ -134,7 +124,7 @@ Slicing
                                                    ii.   Trim less between samples if organoids are at same level in OCT
 
  
-
+---
 Cleaning
 
     Remove specimen disk and remaining specimen and let thaw on paper towel
@@ -147,101 +137,60 @@ Cleaning
             Spray paper towel with 70% EtOH and clean remaining debris inside cryostat
             *DO NOT TURN CRYOSTAT OFF*
 
+---
 
-Solutions:
+### Immunostaining Protocol:
 
-Tris Buffer Solution- Triton (TBS-T) 10x (stock solution):
-
- 
-	
-
-Concentration
-	
-
-For 500 mL:
-
-Tris-HCl 1M (Teknova #T1095)
-	
-
-250mM
-	
-
-125 mL
-
-Triton  X-100, 10% (Thermo Fisher, #85111)
-	
-
-1%
-	
-
-5 mL
-
-NaCl sodium chloride
-	
-
-1.4M
-	
-
-40.9 g
-
-Dionized H2O
-	
-
--
-	
-
-370mL
-
- 
-
-TBS-T 1x (working solution):
-
-            50 mL of TBS-T 10x
-
-            450mL of milliQ water
-
- 
-
-Immunostaining Protocol:
-
-    Prepare TBS-T + 3% BSA solution
-        6g of BSA in 200mL of TBS-T 1x (BSA powder, Millipore Sigma A7906-100G, stored in iPSC 4C fridge)
-        BSA takes a little while to dissolve, so do this step early
-    Incubate slides in 1x Tris Buffer Solution – Triton (TBS-T) for 10 minutes
-    Incubate slides in the TBS-T + 3% BSA solution for 30min
-    Prepare primary antibody solution
-        250uL/slide * (n slides) = _X_mL TBS-T + 3%BSA
-        Add appropriate volume of antibody for desired dilution
-        *keep primary antibody in ice bucket and return to fridge immediately 
-    Add primary antibody solution to slides
-        Remove extra solution by tapping slide side on paper towel
-        Wipe edges of slide with kimwipe
-        Outline slide lightly with hydrophobic marker (PAP pen)
-        Place slides in large dish with wet kimwipes (2-4/dish) to maintain humidity
-        Transfer 250uL of primary antibody solution to conical microtubes (one for each slide)
-        Transfer primary antibody solution from conical microtube to sample slide using dropper (do not use 1000uL pipets as flow could detach the organoid slices)
-        Carefully tilt slides to spread solution evenly over slide
-        Place dish lid and let sit overnight in 4C fridge
-    Wash slides with 1xTBS-T for 10min
-        Prior, remove extra primary antibody solution by tapping slide edges on paper towel
-    Prepare secondary antibody solution
-        Centrifuge secondary antibody
-        Add appropriate volume of secondary antibody to X mL of TBS-T + 3% BSA for a 1:500 dilution
-    Add secondary antibody solution to slides
-        Remove extra TBS-T by tapping slide side on paper towel
-        Place slides back in large dishes with kim wipes
-        *If necessary, re-outline the slide with hydrophobic marker (usually not necessary)
-        Transfer 250uL of secondary antibody solution to conical microtubes (one for each slide)
-        Transfer secondary antibody solution from conical microtube to sample slide using dropper (do not use 1000uL pipets as flow could detach the organoid slices)
-        Carefully tilt slides to spread solution evenly over slide
-        Cover dishes with aluminum foil to protect from light, and let sit for 1hr at RT
-    Wash with TBS-T for 10min
-    Mount slides
-        Let slides partially dry on paper towel
-        *If necessary, re-outline the slide with hydrophobic marker
-        Add mounting media (~3 drops per slide) with DAPI and spread by tilting slide
-        Add coverslips and let sit for 10-15min or until mounting media is dry
-                                                           i.     Make sure to cover to protect from light
-        Seal with nail polish
-        Store in -20C freezer, image the following day.
-        Quality of the staining will degrade quickly so image all within a few days/ one week and then discard the slides in sharp biohazard container.
+1. Prepare TBS-T + 3% BSA solution
+    ```
+    6g of BSA in 200mL of TBS-T 1x (BSA powder, Millipore Sigma A7906-100G, stored in iPSC 4C fridge)
+    BSA takes a little while to dissolve, so do this step early
+    ```
+2. Incubate slides in 1x Tris Buffer Solution – Triton (TBS-T) for 10 minutes
+3. Incubate slides in the TBS-T + 3% BSA solution for 30min
+4. Prepare primary antibody solution
+    ```
+    250uL/slide * (n slides) = _X_mL TBS-T + 3%BSA
+    Add appropriate volume of antibody for desired dilution
+    *keep primary antibody in ice bucket and return to fridge immediately 
+    ```
+5. Add primary antibody solution to slides
+6. Remove extra solution by tapping slide side on paper towel
+7. Wipe edges of slide with kimwipe
+8. Outline slide lightly with hydrophobic marker (PAP pen)
+9. Place slides in large dish with wet kimwipes (2-4/dish) to maintain humidity
+10. Transfer 250uL of primary antibody solution to conical microtubes (one for each slide)
+11. Transfer primary antibody solution from conical microtube to sample slide using dropper (do not use 1000uL pipets as flow could detach the organoid slices)
+12. arefully tilt slides to spread solution evenly over slide
+13. Place dish lid and let sit overnight in 4C fridge
+14.  Wash slides with 1xTBS-T for 10min
+15. Prior, remove extra primary antibody solution by tapping slide edges on paper towel
+16. Prepare secondary antibody solution
+17. Centrifuge secondary antibody
+18. Add appropriate volume of secondary antibody to X mL of TBS-T + 3% BSA for a 1:500 dilution
+19. Add secondary antibody solution to slides
+20. Remove extra TBS-T by tapping slide side on paper towel
+21. Place slides back in large dishes with kim wipes
+    ```
+    *If necessary, re-outline the slide with hydrophobic marker (usually not necessary)
+    ```
+22. Transfer 250uL of secondary antibody solution to conical microtubes (one for each slide)
+23. Transfer secondary antibody solution from conical microtube to sample slide using dropper (do not use 1000uL pipets as flow could detach the organoid slices)
+24. Carefully tilt slides to spread solution evenly over slide
+25. Cover dishes with aluminum foil to protect from light, and let sit for 1hr at RT
+26. Wash with TBS-T for 10min
+27. Mount slides
+28. Let slides partially dry on paper towel
+    ```
+    *If necessary, re-outline the slide with hydrophobic marker
+    ```
+29. Add mounting media (~3 drops per slide) with DAPI and spread by tilting slide
+30. Add coverslips and let sit for 10-15min or until mounting media is dry
+     ```
+     Make sure to cover to protect from light
+     ```
+31. Seal with nail polish
+32. Store in -20C freezer, image the following day.
+    ```
+    Quality of the staining will degrade quickly so image all within a few days/ one week and then discard the slides in sharp biohazard container.
+    ```
