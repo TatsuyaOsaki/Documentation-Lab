@@ -67,7 +67,8 @@ html_theme_options = {
     "logo": {
         "text": "Tatsuya Osaki",
     },
-    "show_toc_level": 1,
+    "show_toc_level": 2,
+    
     "icon_links": [
         {
             "name": "GitHub",
