@@ -27,13 +27,15 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :img-top: ./picture/program.png
       :link: dry_analysis/index
 
-.. grid::
-
     .. grid-item-card:: Optics
       :img-top: ./picture/laser.png
       :link: optics/index
 
       Cell culture protocol
+
+.. grid::
+
+    
 
     .. grid-item-card:: Microfabrication
       :img-top: ./picture/3d-printer.png
