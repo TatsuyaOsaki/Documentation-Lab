@@ -10,7 +10,6 @@
 ### Solution preparation
 
 - Prepare 30% sucrose solution:
-
 | Reagent | Volume |
 | :----  | ----: |
 | DI water    | 350 g |
@@ -40,7 +39,8 @@
  `` This depends on the number of different samples you are going to embed``
 
 1. Fill one well (or the first of each row) with 30% sucrose solution
-   > Do not fill all the way, just enough to submerge the largest organoid
+    > **Note:**
+    > Do not fill all the way, just enough to submerge the largest organoid
 
 2. Fill the next two wells (or the next two of each row) with OCT
     > **Note:**
@@ -49,7 +49,8 @@
 3. Label a cryomold with the following
 
 4. Fill the cryomold with OCT
-    > Do not overfill otherwise OCT will drip over the edges
+     > **Note:**
+     > Do not overfill otherwise OCT will drip over the edges
 
 5. Make sure organoids in the sample tube are all free (none sticking to the bottom)
 6. Quickly dump organoids into the well filled with 30% sucrose
