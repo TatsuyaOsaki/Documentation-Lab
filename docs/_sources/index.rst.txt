@@ -12,16 +12,26 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :img-top: ./picture/neuron1.png
       :link: cell_culture/index
 
-      Cell culture protocol
+      - Cell culture
+      - iPS cell culture
+      - Organoids
 
     .. grid-item-card:: Genome editing
       :img-top: ./picture/dna-color.png
       :link: genome_editing/index
 
+      - Plasmid cloning
+      - Transfection
+      - CRISPR/Cas9
+
 
     .. grid-item-card:: Wet analysis
       :img-top: ./picture/wet.png
       :link: wet_analysis/index
+
+      - Cryo/immunostaining
+      - RT-PCR
+      - WesternBlotting
 
     .. grid-item-card:: Computation
       :img-top: ./picture/program.png
