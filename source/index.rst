@@ -31,25 +31,25 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 
     .. grid-item-card:: Optics
       :img-top: ./picture/laser.png
-      :link: cell_culture/index
+      :link: optics/index
 
       Cell culture protocol
 
-    .. grid-item-card:: Optics
+    .. grid-item-card:: Microfabrication
+      :img-top: ./picture/laser.png
+      :link: microfabrication/index
+
+      Cell culture protocol
+
+    .. grid-item-card:: Others
       :img-top: ./picture/laser.png
       :link: cell_culture/index
 
       Cell culture protocol
 
-    .. grid-item-card:: Optics
+    .. grid-item-card:: Development
       :img-top: ./picture/laser.png
-      :link: cell_culture/index
-
-      Cell culture protocol
-
-    .. grid-item-card:: Optics
-      :img-top: ./picture/laser.png
-      :link: cell_culture/index
+      :link: development
 
       Cell culture protocol
 .. toctree::
