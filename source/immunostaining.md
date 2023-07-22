@@ -44,16 +44,15 @@
    ```
 4. Fill one well (or the first of each row) with 30% sucrose solution
 
-    | :exclamation:  This is very important   |
-    |-----------------------------------------|
-    **Note:** Do not fill all the way, just enough to submerge the largest organoid
+> **Note**
+> Do not fill all the way, just enough to submerge the largest organoid
 
-5.  Fill the next two wells (or the next two of each row) with OCT
+1.  Fill the next two wells (or the next two of each row) with OCT
 > Do not fill all the way, just enough to submerge the largest organoid
 >
-6. Label a cryomold with the following
+1. Label a cryomold with the following
        
-7. Fill the cryomold with OCT
+2. Fill the cryomold with OCT
 > Do not overfill otherwise OCT will drip over the edges
 1.  Make sure organoids in the sample tube are all free (none sticking to the bottom)
 2.  Quickly dump organoids into the well filled with 30% sucrose
