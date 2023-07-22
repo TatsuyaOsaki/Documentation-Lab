@@ -40,36 +40,36 @@
     > This depends on the number of different samples you are going to embed
 
 4. Fill one well (or the first of each row) with 30% sucrose solution
+   > Do not fill all the way, just enough to submerge the largest organoid
 
-    > Do not fill all the way, just enough to submerge the largest organoid
-
-1. Fill the next two wells (or the next two of each row) with OCT
+5. Fill the next two wells (or the next two of each row) with OCT
     > **Note:**
     > Do not fill all the way, just enough to submerge the largest organoid
 
-2. Label a cryomold with the following
+6. Label a cryomold with the following
 
-3. Fill the cryomold with OCT
+7. Fill the cryomold with OCT
     > Do not overfill otherwise OCT will drip over the edges
 
-4. Make sure organoids in the sample tube are all free (none sticking to the bottom)
-5. Quickly dump organoids into the well filled with 30% sucrose
+8. Make sure organoids in the sample tube are all free (none sticking to the bottom)
+9. Quickly dump organoids into the well filled with 30% sucrose
     > If an organoid gets stuck in the tube, take some sucrose from the well with a dropper, and place in tube to try to free the stuck organoid. Try to dump out the remaining organoid with the sucrose solution
 
-6.  After washing organoids in 30% sucrose, transfer each individually using microdissection forceps to the 1stwell filled with OCT
+10. After washing organoids in 30% sucrose, transfer each individually using microdissection forceps to the 1stwell filled with OCT
     > Do not pinch organoid with forceps, rather place forceps underneath and lift.
-7.  Gently wrap organoids in OCT, ensuring all surfaces are covered
-8.  Move organoids to second OCT well and repeat
-9.  Use forceps to place each organoid into the sample plate
-10. Place organoids on the surface, avoiding touching forceps to OCT
+11. Gently wrap organoids in OCT, ensuring all surfaces are covered
+12. Move organoids to second OCT well and repeat
+13. Use forceps to place each organoid into the sample plate
+14. Place organoids on the surface, avoiding touching forceps to OCT
 
     > Do not place organoids too close to the edge
+
     ```
     Tip: place smaller organoids first as they sink slower, while bigger organoids sink faster and could reach the bottom of the plate too soon. Don’t put more than 10/12 organoids in each mold.
     ```
 
-11. Use forceps to push down appropriate organoids so that all organoids are on same plane
-12. Once all organoids are submerged (but not at bottom), place sample plate in -80C freezer
+15. Use forceps to push down appropriate organoids so that all organoids are on same plane
+16. Once all organoids are submerged (but not at bottom), place sample plate in -80C freezer
 
 ---
 
@@ -101,7 +101,7 @@ Preparing cryostat:
         Label 1st slide with:
 
 9. Use single down arrow or wheel to move specimen close to blade.
-    Begin by slicing/trimming OCT from top of sample (make sure anti-roll glass plate is flipped up)
+    > Begin by slicing/trimming OCT from top of sample (make sure anti-roll glass plate is flipped up)
 10. Adjust sample angle appropriately to achieve even, whole slices
 11. Brush away debris as needed
 12. Once organoids become visible…
@@ -144,44 +144,43 @@ Cleaning
 4. Prepare primary antibody solution
    - 250uL/slide * (n slides) = _X_mL TBS-T + 3%BSA
    - Add appropriate volume of antibody for desired dilution
-
     > *keep primary antibody in ice bucket and return to fridge immediately
-1. Add primary antibody solution to slides
-2. Remove extra solution by tapping slide side on paper towel
-3. Wipe edges of slide with kimwipe
-4. Outline slide lightly with hydrophobic marker (PAP pen)
-5. Place slides in large dish with wet kimwipes (2-4/dish) to maintain humidity
-6. Transfer 250uL of primary antibody solution to conical microtubes (one for each slide)
-7. Transfer primary antibody solution from conical microtube to sample slide using dropper (do not use 1000uL pipets as flow could detach the organoid slices)
-8. arefully tilt slides to spread solution evenly over slide
-9. Place dish lid and let sit overnight in 4C fridge
-10. Wash slides with 1xTBS-T for 10min
-11. Prior, remove extra primary antibody solution by tapping slide edges on paper towel
-12. Prepare secondary antibody solution
-13. Centrifuge secondary antibody
-14. Add appropriate volume of secondary antibody to X mL of TBS-T + 3% BSA for a 1:500 dilution
-15. Add secondary antibody solution to slides
-16. Remove extra TBS-T by tapping slide side on paper towel
-17. Place slides back in large dishes with kim wipes
+5. Add primary antibody solution to slides
+6. Remove extra solution by tapping slide side on paper towel
+7. Wipe edges of slide with kimwipe
+8. Outline slide lightly with hydrophobic marker (PAP pen)
+9. Place slides in large dish with wet kimwipes (2-4/dish) to maintain humidity
+10. Transfer 250uL of primary antibody solution to conical microtubes (one for each slide)
+11. Transfer primary antibody solution from conical microtube to sample slide using dropper (do not use 1000uL pipets as flow could detach the organoid slices)
+12. arefully tilt slides to spread solution evenly over slide
+13. Place dish lid and let sit overnight in 4C fridge
+14. Wash slides with 1xTBS-T for 10min
+15. Prior, remove extra primary antibody solution by tapping slide edges on paper towel
+16. Prepare secondary antibody solution
+17. Centrifuge secondary antibody
+18. Add appropriate volume of secondary antibody to X mL of TBS-T + 3% BSA for a 1:500 dilution
+19. Add secondary antibody solution to slides
+20. Remove extra TBS-T by tapping slide side on paper towel
+21. Place slides back in large dishes with kim wipes
 
     ```
     *If necessary, re-outline the slide with hydrophobic marker (usually not necessary)
     ```
 
-18. Transfer 250uL of secondary antibody solution to conical microtubes (one for each slide)
-19. Transfer secondary antibody solution from conical microtube to sample slide using dropper (do not use 1000uL pipets as flow could detach the organoid slices)
-20. Carefully tilt slides to spread solution evenly over slide
-21. Cover dishes with aluminum foil to protect from light, and let sit for 1hr at RT
-22. Wash with TBS-T for 10min
-23. Mount slides
-24. Let slides partially dry on paper towel
+22. Transfer 250uL of secondary antibody solution to conical microtubes (one for each slide)
+23. Transfer secondary antibody solution from conical microtube to sample slide using dropper (do not use 1000uL pipets as flow could detach the organoid slices)
+24. Carefully tilt slides to spread solution evenly over slide
+25. Cover dishes with aluminum foil to protect from light, and let sit for 1hr at RT
+26. Wash with TBS-T for 10min
+27. Mount slides
+28. Let slides partially dry on paper towel
 
     ```
     *If necessary, re-outline the slide with hydrophobic marker
     ```
 
-25. Add mounting media (~3 drops per slide) with DAPI and spread by tilting slide
-26. Add coverslips and let sit for 10-15min or until mounting media is dry
+29. Add mounting media (~3 drops per slide) with DAPI and spread by tilting slide
+30. Add coverslips and let sit for 10-15min or until mounting media is dry
 
 > Make sure to cover to protect from light
 
