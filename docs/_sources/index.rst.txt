@@ -5,7 +5,7 @@ Welcome to Documentation!
 
 .. toctree::
   :maxdepth: 2
-  :caption: Contents:
+  :caption: 
 
   about
   cell_culture/index
