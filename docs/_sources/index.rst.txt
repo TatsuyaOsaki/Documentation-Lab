@@ -3,12 +3,21 @@ Welcome to Documentation!
 =============
 
 
-.. grid:: 2
-  .. grid-item-card::  Title 1
+.. grid::
 
-  .. grid-item-card::  Title 2
+    .. grid-item-card:: Only heading
 
-        B
+    .. grid-item-card::
+
+        Only body.
+
+        But with multiple text paragraphs.
+
+    .. grid-item-card:: Heading and body
+
+        Content of the third card.
+
+        :bdg-primary:`example`
 
 .. toctree::
   :maxdepth: 3
