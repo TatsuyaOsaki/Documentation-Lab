@@ -11,52 +11,6 @@ Welcome to Documentation!
 `Q&A Support <https://stackoverflow.com/questions/tagged/pandas>`__ |
 `Mailing List <https://groups.google.com/g/pydata>`__
 
-.. grid::
-
-    .. grid-item-card:: Only heading
-
-    .. grid-item-card::
-
-        Only body.
-
-        But with multiple text paragraphs.
-
-    .. grid-item-card:: Heading and body
-
-        Content of the third card.
-
-        :bdg-primary:`example`
-
-.. grid::
-
-    .. grid-item-card:: A card with a dropdown menu
-
-        .. dropdown:: :fa:`eye me-1` third card
-
-            Hidden content
-
-    .. grid-item-card:: A clickable card
-        :link: https://example.com
-
-.. grid::
-
-    .. grid-item-card::
-
-        panel 1 header
-        ^^^^^^^^^^^^^^
-        panel 1 content
-        more content
-        ++++++++++++++
-        panel 1 footer
-
-    .. grid-item-card::
-
-        panel 2 header
-        ^^^^^^^^^^^^^^
-        panel 2 content
-        ++++++++++++++
-        panel 2 footer
-
 
 .. toctree::
   :maxdepth: 2
