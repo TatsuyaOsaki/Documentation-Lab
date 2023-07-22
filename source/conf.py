@@ -69,21 +69,12 @@ html_theme_options = {
     },
     "show_toc_level": 2,
     
-    "icon_links": [
-        {
-            "name": "GitHub",
-            "url": "https://github.com/TatsuyaOsaki/Documentation-Lab",  # required
-            "icon": "fa-brands fa-square-github",
-            # The type of image to be used (see below for details)
-            "type": "fontawesome",
-        }
-   ],
     
     "icon_links": [
         {
             "name": "PyData",
             "url": "https://pydata.org",
-            "icon": "https://raw.githubusercontent.com/pydata/pydata-sphinx-theme/main/docs/_static/pandas-square.svg",
+            "icon": "https://pydata-sphinx-theme.readthedocs.io/en/stable/_static/pydata-logo.png",
             "type": "url",
             # Add additional attributes to the href link.
             # The defaults of target, rel, class, title and href may be overwritten.
@@ -93,6 +84,15 @@ html_theme_options = {
                 "class": "nav-link custom-fancy-css"
             }
         },
+        
+        {
+        "name": "GitHub",
+        "url": "https://github.com/TatsuyaOsaki/Documentation-Lab",  # required
+        "icon": "fa-brands fa-square-github",
+        # The type of image to be used (see below for details)
+        "type": "fontawesome",
+    }  
+        
     ],
     
 }
