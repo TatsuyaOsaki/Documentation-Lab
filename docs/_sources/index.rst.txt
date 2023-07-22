@@ -11,8 +11,8 @@ Welcome to Documentation!
         B
 
 .. toctree::
-  :maxdepth: 2
-  :caption: List
+  :maxdepth: 3
+  :caption: Contents
 
   about
   cell_culture/index
