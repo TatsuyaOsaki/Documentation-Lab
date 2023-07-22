@@ -115,31 +115,30 @@ Preparing cryostat:
 15. Remove anti-roll glass plate slowly
 16. Take test slide, and flip face down vertically, with label closest to specimen head
 17. Delicately hold slide close to sliced specimen to allow specimen to adhere to the slide
-            Examine slide for organoids
- i.     If none appear, keep trimming and perform another test
+18. Examine slide for organoids
+- i.     If none appear, keep trimming and perform another test
             Once slices are whole and even, and organoids are apparent, add sample slices to slides
                 Add one slice to slides 1-20, followed by a second and then third.
                 Trim 2-4 times between taking samples
-                                                    i.   Trim more between samples if majority of organoids are in different planes in OCT
-                                                   ii.   Trim less between samples if organoids are at same level in OCT
+- i.   Trim more between samples if majority of organoids are in different planes in OCT
+- ii.   Trim less between samples if organoids are at same level in OCT
 
  
 ---
 Cleaning
-
-    Remove specimen disk and remaining specimen and let thaw on paper towel
-        Remove specimen from disk and clean disk with 70% EtOH
-        Dry and place back inside cryostat
-        Brush as much debris as possible into removable debris tray
-            Quickly remove tray and dump contents into biohazard bin (OCT will melt and stick instantly)
-            Wash debris remnants with 70% EtOH and let tray dry
-            Replace tray
-            Spray paper towel with 70% EtOH and clean remaining debris inside cryostat
-            *DO NOT TURN CRYOSTAT OFF*
+1. Remove specimen disk and remaining specimen and let thaw on paper towel
+2. Remove specimen from disk and clean disk with 70% EtOH
+3. Dry and place back inside cryostat
+4. Brush as much debris as possible into removable debris tray
+5. Quickly remove tray and dump contents into biohazard bin (OCT will melt and stick instantly)
+6. Wash debris remnants with 70% EtOH and let tray dry
+7. Replace tray
+8. Spray paper towel with 70% EtOH and clean remaining debris inside cryostat 
+        *DO NOT TURN CRYOSTAT OFF*
 
 ---
 
-### Immunostaining Protocol:
+## Immunostaining Protocol:
 
 1. Prepare TBS-T + 3% BSA solution
     ```
