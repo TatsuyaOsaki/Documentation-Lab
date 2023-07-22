@@ -33,6 +33,7 @@ release = '2.03'
 extensions = [
     "myst_parser",
     "sphinx_favicon",
+    "sphinx_markdown_tables",
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -65,7 +66,8 @@ html_logo = "./picture/logo_documentation.png"
 html_theme_options = {
     "logo": {
         "text": "Tatsuya Osaki",
-    }
+    },
+    "show_toc_level": 2
 }
 favicons = [
     "favicon-16x16.png",
