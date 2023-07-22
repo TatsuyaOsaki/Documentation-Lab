@@ -26,7 +26,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 
     .. grid-item-card:: Molecular biology
       :img-top: ./picture/biology.png
-      :link: wet_analysis/index
+      :link: molecular_bio/index
 
       - Immunostaining
       - RT-PCR

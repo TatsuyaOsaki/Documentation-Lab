@@ -6,7 +6,7 @@ myst:
       pydata-sphinx-theme.
 ---
 
-# Wet analysis
+# Molecular biology
 
 
 ```{important}
