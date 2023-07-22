@@ -7,7 +7,7 @@ Welcome to Documentation!
 =============================================
 
 
-.. toctree::
+```{toctree}
    :maxdepth: 2
    :caption: Contents:
 
@@ -19,6 +19,7 @@ Welcome to Documentation!
    room_and_equipment
    rathi_training
    development
+```
 
 ..  AMED_cancer
 .. brainbow
