@@ -63,7 +63,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
     .. grid-item-card:: Others
       :padding: 3
       :img-top: ./picture/list.png
-      :link: cell_culture/index
+      :link: room_and_equipment
 
 
     .. grid-item-card:: Development
