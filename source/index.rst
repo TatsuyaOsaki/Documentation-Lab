@@ -12,13 +12,13 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :img-top: ./picture/microscope.png
       :link: cell_culture/index
 
-      Bodyd
+      Cell culture protocol
 
     .. grid-item-card:: Genome editing
       :img-top: ./picture/dna.png
       :link: genome_editing/index
 
-        Content of the third card.
+        
 
         :bdg-primary:`example`
 
