@@ -48,7 +48,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       Cell culture protocol
 
     .. grid-item-card:: Development
-      :img-top: ./picture/laser.png
+      :img-top: ./picture/dev.png
       :link: development
 
       Cell culture protocol
