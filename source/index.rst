@@ -6,14 +6,11 @@ Welcome to Documentation!
 .. grid::
 
     .. grid-item-card:: Cell culture
+      :img-bottom: images/particle_background.jpg
+      :link: cell_culture/cell_culture
+      :link-type: ref
 
-    .. link-button:: Go to
-            :type: ref
-            :text: To the getting started guides
-            :classes: btn-block btn-secondary stretched-link
-
-
-
+      Body
 
     .. grid-item-card:: Heading and body
 
