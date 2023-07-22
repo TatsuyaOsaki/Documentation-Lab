@@ -21,5 +21,6 @@ This theme is still under active development, and we make no promises
 :caption: Genome editing
 
 plasmid
+genome_editing
 
 ```
