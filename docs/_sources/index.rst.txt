@@ -12,7 +12,7 @@ Welcome to Documentation!
    :caption: Contents:
 
    about
-   cell_culture
+   cell_culture/index
    genome_editing
    immunostaining
    cerebral_organoid
