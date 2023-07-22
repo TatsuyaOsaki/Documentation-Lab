@@ -24,7 +24,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       - Transfection
       - CRISPR/Cas9
 
-    .. grid-item-card:: Wet analysis
+    .. grid-item-card:: Molucular biology
       :img-top: ./picture/biology.png
       :link: wet_analysis/index
 
