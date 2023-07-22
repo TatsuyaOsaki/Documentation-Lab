@@ -23,12 +23,20 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
         :bdg-primary:`example`
 
     .. grid-item-card:: Wet analysis
-      :img-top: ./picture/microscope.png
+      :img-top: ./picture/wet.png
       :link: wet_analysis/index
 
     .. grid-item-card:: Computation
-      :img-top: ./picture/microscope.png
+      :img-top: ./picture/dry.png
       :link: dry_analysis/index
+
+.. grid::
+
+    .. grid-item-card:: Optics
+      :img-top: ./picture/laser.png
+      :link: cell_culture/index
+
+      Cell culture protocol
 
 
 .. toctree::
