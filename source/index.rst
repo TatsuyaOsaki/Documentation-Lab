@@ -5,13 +5,15 @@ Welcome to Documentation!
 
 .. grid::
 
-    .. grid-item-card:: Only heading
+    .. grid-item-card:: Cell culture
 
-    .. grid-item-card::
+    .. link-button:: Go to
+            :type: ref
+            :text: To the getting started guides
+            :classes: btn-block btn-secondary stretched-link
 
-        Only body.
 
-        But with multiple text paragraphs.
+
 
     .. grid-item-card:: Heading and body
 
