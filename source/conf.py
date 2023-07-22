@@ -73,7 +73,7 @@ html_theme_options = {
         {
             "name": "PyData",
             "url": "https://pydata.org",
-            "icon": "_static/pydata-logo-square.png",
+            "icon": "https://raw.githubusercontent.com/pydata/pydata-sphinx-theme/main/docs/_static/pandas-square.svg",
             "type": "local",
             # Add additional attributes to the href link.
             # The defaults of target, rel, class, title and href may be overwritten.
