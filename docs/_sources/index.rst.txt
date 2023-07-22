@@ -45,7 +45,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 
     .. grid-item-card:: Microfabrication
       :padding: 3
-      :img-top: ./picture/3d-printing.png
+      :img-top: ./picture/3d-printer2.png
       :link: microfabrication/index
 
     .. grid-item-card:: Others
