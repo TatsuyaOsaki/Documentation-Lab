@@ -6,7 +6,7 @@ Welcome to Documentation!
 .. grid::
 
     .. grid-item-card:: Cell culture
-      :img-bottom: images/particle_background.jpg
+      :img-bottom:  "./picture/microscope.png"
       :link: cell_culture/cell_culture
       :link-type: ref
 
