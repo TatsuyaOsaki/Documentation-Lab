@@ -55,15 +55,17 @@
 
 5. Make sure organoids in the sample tube are all free (none sticking to the bottom)
 6. Quickly dump organoids into the well filled with 30% sucrose
+    > **Note:**
     > If an organoid gets stuck in the tube, take some sucrose from the well with a dropper, and place in tube to try to free the stuck organoid. Try to dump out the remaining organoid with the sucrose solution
 
 7.  After washing organoids in 30% sucrose, transfer each individually using microdissection forceps to the 1stwell filled with OCT
+    > **Note:**
     > Do not pinch organoid with forceps, rather place forceps underneath and lift.
 8.  Gently wrap organoids in OCT, ensuring all surfaces are covered
 9.  Move organoids to second OCT well and repeat
 10. Use forceps to place each organoid into the sample plate
 11. Place organoids on the surface, avoiding touching forceps to OCT
-
+    > **Note:**
     > Do not place organoids too close to the edge
 
     ```
@@ -77,11 +79,11 @@
 
 ## Cryosectioning
 
-```
-Cryostat: Leica CM2050 S
+``Cryostat: Leica CM2050 S``
 Manual: https://www.americaninstrument.com/pdf/1779E-CRYOSTAT.pdf
 
-Cryostat settings:
+``Cryostat settings:``
+```
     Thickness 10-25 um 
     Temperature approx. -20 C 
 ```
@@ -103,6 +105,7 @@ Preparing cryostat:
         Label 1st slide with:
 
 9. Use single down arrow or wheel to move specimen close to blade.
+    > **Note:**
     > Begin by slicing/trimming OCT from top of sample (make sure anti-roll glass plate is flipped up)
 10. Adjust sample angle appropriately to achieve even, whole slices
 11. Brush away debris as needed
@@ -165,9 +168,8 @@ Cleaning
 20. Remove extra TBS-T by tapping slide side on paper towel
 21. Place slides back in large dishes with kim wipes
 
-    ```
-    *If necessary, re-outline the slide with hydrophobic marker (usually not necessary)
-    ```
+    > **Note:**
+    >*If necessary, re-outline the slide with hydrophobic marker (usually not necessary)
 
 22. Transfer 250uL of secondary antibody solution to conical microtubes (one for each slide)
 23. Transfer secondary antibody solution from conical microtube to sample slide using dropper (do not use 1000uL pipets as flow could detach the organoid slices)
@@ -177,16 +179,14 @@ Cleaning
 27. Mount slides
 28. Let slides partially dry on paper towel
 
-    ```
-    *If necessary, re-outline the slide with hydrophobic marker
-    ```
+    > **Note:**
+    >*If necessary, re-outline the slide with hydrophobic marker
 
 29. Add mounting media (~3 drops per slide) with DAPI and spread by tilting slide
 30. Add coverslips and let sit for 10-15min or until mounting media is dry
-
-> Make sure to cover to protect from light
+    > Make sure to cover to protect from light
 
 1. Seal with nail polish
 2. Store in -20C freezer, image the following day.
 
-> Quality of the staining will degrade quickly so image all within a few days/ one week and then discard the slides in sharp biohazard container.
+    > Quality of the staining will degrade quickly so image all within a few days/ one week and then discard the slides in sharp biohazard container.
