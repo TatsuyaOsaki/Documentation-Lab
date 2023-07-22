@@ -102,5 +102,5 @@ favicons = [
 ]
 
 html_sidebars = {
-    "<page_pattern>": ["list", "of", "templates"]
+    "**": ["sidebar-nav-bs", "sidebar-ethical-ads"]
 }
