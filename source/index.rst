@@ -2,13 +2,14 @@
 Welcome to Documentation!
 =============
 
+This is the Personal documentaion for Tatsuya Osaki
 
+To edit this documentation, you need sphinx pyhon package and markdown format. Please follow these instruction to set up the enviroment for editing markdown and sphinx document convertion.
 .. grid::
 
     .. grid-item-card:: Cell culture
       :img-top: ./picture/microscope.png
       :link: cell_culture/index
-      :link-type: ref
 
       Bodyd
 
@@ -23,12 +24,10 @@ Welcome to Documentation!
     .. grid-item-card:: Cell culture
       :img-top: ./picture/microscope.png
       :link: cell_culture/index
-      :link-type: ref
 
     .. grid-item-card:: Cell culture
       :img-top: ./picture/microscope.png
       :link: cell_culture/index
-      :link-type: ref
 
 
 .. toctree::
