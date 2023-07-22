@@ -9,7 +9,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 .. grid::
 
     .. grid-item-card:: Cell culture
-      :img-top: ./picture/microscope.png
+      :img-top: ./picture/neuron1.png
       :link: cell_culture/index
 
       Cell culture protocol
