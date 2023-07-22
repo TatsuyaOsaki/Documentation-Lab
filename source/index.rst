@@ -12,9 +12,6 @@ Welcome to Documentation!
 
         B
 
-
-
-
 .. toctree::
   :maxdepth: 2
   :caption: List
