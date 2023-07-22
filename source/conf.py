@@ -67,7 +67,24 @@ html_theme_options = {
     "logo": {
         "text": "Tatsuya Osaki",
     },
-    "show_toc_level": 2
+    "show_toc_level": 2,
+    
+    "icon_links": [
+        {
+            "name": "PyData",
+            "url": "https://pydata.org",
+            "icon": "_static/pydata-logo-square.png",
+            "type": "local",
+            # Add additional attributes to the href link.
+            # The defaults of target, rel, class, title and href may be overwritten.
+            "attributes": {
+                "target" : "_blank",
+                "rel" : "noopener me",
+                "class": "nav-link custom-fancy-css"
+            }
+        },
+    ],
+    
 }
 favicons = [
     "favicon-16x16.png",
