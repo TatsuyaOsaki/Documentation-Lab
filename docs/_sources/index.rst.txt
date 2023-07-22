@@ -10,7 +10,7 @@ Welcome to Documentation!
       :link: cell_culture/index
       :link-type: ref
 
-      Bodyd
+      Body
 
     .. grid-item-card:: Genome editing
       :img-top: ./picture/dna.png
