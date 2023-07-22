@@ -50,7 +50,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 
     .. grid-item-card:: Others
       :padding: 3
-      :img-top: ./picture/laser2.png
+      :img-top: ./picture/others.png
       :link: cell_culture/index
 
 
