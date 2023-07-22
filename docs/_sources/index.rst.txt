@@ -41,7 +41,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 
     .. grid-item-card:: Optics
       :padding: 3
-      :img-top: ./picture/laser.png
+      :img-top: ./picture/laser2.png
       :link: optics/index
 
     .. grid-item-card:: Microfabrication
@@ -51,7 +51,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 
     .. grid-item-card:: Others
       :padding: 3
-      :img-top: ./picture/laser.png
+      :img-top: ./picture/laser2.png
       :link: cell_culture/index
 
 
