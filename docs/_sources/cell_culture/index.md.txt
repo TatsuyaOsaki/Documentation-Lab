@@ -26,5 +26,6 @@ This is a dictionary with `key: val` pairs that you can configure in various way
 :caption: Cell culture
 
 cell_culture
+cerbral_organoid
 
 ```
