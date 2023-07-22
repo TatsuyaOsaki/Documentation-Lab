@@ -6,13 +6,15 @@ Welcome to Documentation!
 .. grid::
 
     .. grid-item-card:: Cell culture
-      :img-bottom:  "./picture/microscope.png"
-      :link: cell_culture/cell_culture
+      :img-bottom: ./picture/microscope.png
+      :link: cell_culture/index
       :link-type: ref
 
       Body
 
-    .. grid-item-card:: Heading and body
+    .. grid-item-card:: Genome editing
+      :img-bottom: ./picture/dna.png
+      :link: genome_editing/index
 
         Content of the third card.
 
