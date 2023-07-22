@@ -63,13 +63,18 @@ n
 n
 ```
 ```{error}
+s
 ```
 ```{attention}
+s
 ```
 ```{tip}
+s
 ```
 ```{todo}
+s
 ```
 ```{warning}
+s
 ```
 
