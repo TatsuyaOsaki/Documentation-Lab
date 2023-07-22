@@ -43,38 +43,39 @@
    This depends on the number of different samples you are going to embed
    ```
 4. Fill one well (or the first of each row) with 30% sucrose solution
-    ```
-    Do not fill all the way, just enough to submerge the largest organoid
-    ```
+
+    | :exclamation:  This is very important   |
+    |-----------------------------------------|
+    **Note:** Do not fill all the way, just enough to submerge the largest organoid
+
 5.  Fill the next two wells (or the next two of each row) with OCT
-    ```
-    Do not fill all the way, just enough to submerge the largest organoid
-    ```
+> Do not fill all the way, just enough to submerge the largest organoid
+> 
 6. Label a cryomold with the following
        
 7. Fill the cryomold with OCT
     ```
     Do not overfill otherwise OCT will drip over the edges
     ```
-8. Make sure organoids in the sample tube are all free (none sticking to the bottom)
-9. Quickly dump organoids into the well filled with 30% sucrose
+8.  Make sure organoids in the sample tube are all free (none sticking to the bottom)
+9.  Quickly dump organoids into the well filled with 30% sucrose
     ```
     If an organoid gets stuck in the tube, take some sucrose from the well with a dropper, and place in tube to try to free the stuck organoid. Try to dump out the remaining organoid with the sucrose solution
     ```
-10.  After washing organoids in 30% sucrose, transfer each individually using microdissection forceps to the 1stwell filled with OCT
+10.   After washing organoids in 30% sucrose, transfer each individually using microdissection forceps to the 1stwell filled with OCT
         ```
         Do not pinch organoid with forceps, rather place forceps underneath and lift
         ```
-12.   Gently wrap organoids in OCT, ensuring all surfaces are covered
-13.  Move organoids to second OCT well and repeat
-14.  Use forceps to place each organoid into the sample plate
+11.    Gently wrap organoids in OCT, ensuring all surfaces are covered
+12.   Move organoids to second OCT well and repeat
+13.   Use forceps to place each organoid into the sample plate
         - Place organoids on the surface, avoiding touching forceps to OCT
         Do not place organoids too close to the edge
             ```
             Tip: place smaller organoids first as they sink slower, while bigger organoids sink faster and could reach the bottom of the plate too soon. Don’t put more than 10/12 organoids in each mold.
             ```
-15. Use forceps to push down appropriate organoids so that all organoids are on same plane
-16. Once all organoids are submerged (but not at bottom), place sample plate in -80C freezer
+14.  Use forceps to push down appropriate organoids so that all organoids are on same plane
+15. Once all organoids are submerged (but not at bottom), place sample plate in -80C freezer
     
 ---
 ## Cryosectioning
