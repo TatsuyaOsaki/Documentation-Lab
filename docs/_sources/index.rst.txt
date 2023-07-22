@@ -3,10 +3,8 @@ Welcome to Documentation!
 =============
 
 
-.. grid:: 2 2
+.. grid:: 2
   .. grid-item-card::  Title 1
-
-        A
 
   .. grid-item-card::  Title 2
 
