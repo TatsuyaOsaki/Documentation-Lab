@@ -3,8 +3,9 @@
 ## Organoid OCT embedding
 
 ### Substance
+ ``primary``
 
-- Sucrose (powder)
+ - Sucrose (powder)
 - OCT compunds
 
 ### Solution preparation
