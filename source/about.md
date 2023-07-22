@@ -24,9 +24,11 @@ pip install furo
 pip install pydata-sphinx-theme
 conda install pydata-sphinx-theme --channel conda-forge
 pip install sphinx-favicon
+pip install sphinx_design
+
 ```
 Then, set the theme
-```Bash
+```
 html_theme = "pydata_sphinx_theme"
 #html_theme = 'alabaster'
 #html_theme = 'sphinx_rtd_theme'

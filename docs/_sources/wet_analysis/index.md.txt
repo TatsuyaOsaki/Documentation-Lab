@@ -16,7 +16,6 @@ Make these customizations at your own risk, and pin versions if you're
 worried about breaking changes!
 ```
 
-
 ```{toctree}
 :caption: Protocol
 
