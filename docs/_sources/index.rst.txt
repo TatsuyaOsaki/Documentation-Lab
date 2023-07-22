@@ -59,7 +59,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       - Softlithography
       - 3D printing
 
-
     .. grid-item-card:: Others
       :padding: 3
       :img-top: ./picture/list.png
