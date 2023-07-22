@@ -6,6 +6,7 @@
 Welcome to Documentation!
 =============================================
 
+
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
@@ -18,7 +19,13 @@ Welcome to Documentation!
    room_and_equipment
    rathi_training
    development
-.. AMED_cancer
+
+.. tocrree::
+
+   :maxdepth: 2
+   :caption: Contents:
+   
+   AMED_cancer
 .. brainbow
 .. closed_loop_system
 
