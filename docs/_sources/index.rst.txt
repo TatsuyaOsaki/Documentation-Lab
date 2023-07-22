@@ -81,7 +81,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
   cell_culture/index
   genome_editing/index
   molecular_bio/index
-  otehrs/index
+  others/index
   development
 
 
