@@ -42,6 +42,7 @@
     > This depends on the number of different samples you are going to embed
 
 4. Fill one well (or the first of each row) with 30% sucrose solution
+
 :::note info
 Do not fill all the way, just enough to submerge the largest organoid
 :::
