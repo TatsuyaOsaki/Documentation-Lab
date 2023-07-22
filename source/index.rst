@@ -6,14 +6,14 @@ Welcome to Documentation!
 .. grid::
 
     .. grid-item-card:: Cell culture
-      :img-bottom: ./picture/microscope.png
+      :img-top: ./picture/microscope.png
       :link: cell_culture/index
       :link-type: ref
 
-      Body
+      Bodyd
 
     .. grid-item-card:: Genome editing
-      :img-bottom: ./picture/dna.png
+      :img-top: ./picture/dna.png
       :link: genome_editing/index
 
         Content of the third card.
