@@ -36,6 +36,10 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :img-top: ./picture/program.png
       :link: dry_analysis/index
 
+      - MATLAB
+      - Python
+      - R
+
 .. grid::
 
     .. grid-item-card:: Optics
@@ -43,10 +47,18 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :img-top: ./picture/laser2.png
       :link: optics/index
 
+      - Three-photon microscope
+      - Two-photon microscope
+
     .. grid-item-card:: Microfabrication
       :padding: 3
       :img-top: ./picture/3d-printer2.png
       :link: microfabrication/index
+
+      - Photolithography
+      - Softlithography
+      - 3D printing
+
 
     .. grid-item-card:: Others
       :padding: 3
