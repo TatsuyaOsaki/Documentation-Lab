@@ -11,79 +11,51 @@ Welcome to Documentation!
 `Q&A Support <https://stackoverflow.com/questions/tagged/pandas>`__ |
 `Mailing List <https://groups.google.com/g/pydata>`__
 
-:mod:`pandas` is an open source, BSD-licensed library providing high-performance,
-easy-to-use data structures and data analysis tools for the `Python <https://www.python.org/>`__
-programming language.
+.. grid::
 
-.. panels::
-    :card: + intro-card text-center
-    :column: col-lg-6 col-md-6 col-sm-6 col-xs-12 d-flex
+    .. grid-item-card:: Only heading
 
-    ---
-    :img-top: _static/index_getting_started.svg
+    .. grid-item-card::
 
-    Getting started
-    ^^^^^^^^^^^^^^^
+        Only body.
 
-    New to *pandas*? Check out the getting started guides. They contain an
-    introduction to *pandas'* main concepts and links to additional tutorials.
+        But with multiple text paragraphs.
 
-    +++
+    .. grid-item-card:: Heading and body
 
-    .. link-button:: getting_started
-            :type: ref
-            :text: To the getting started guides
-            :classes: btn-block btn-secondary stretched-link
+        Content of the third card.
 
-    ---
-    :img-top: _static/index_user_guide.svg
+        :bdg-primary:`example`
 
-    User guide
-    ^^^^^^^^^^
+.. grid::
 
-    The user guide provides in-depth information on the
-    key concepts of pandas with useful background information and explanation.
+    .. grid-item-card:: A card with a dropdown menu
 
-    +++
+        .. dropdown:: :fa:`eye me-1` third card
 
-    .. link-button:: user_guide
-            :type: ref
-            :text: To the user guide
-            :classes: btn-block btn-secondary stretched-link
+            Hidden content
 
-    ---
-    :img-top: _static/index_api.svg
+    .. grid-item-card:: A clickable card
+        :link: https://example.com
 
-    API reference
-    ^^^^^^^^^^^^^
+.. grid::
 
-    The reference guide contains a detailed description of
-    the pandas API. The reference describes how the methods work and which parameters can
-    be used. It assumes that you have an understanding of the key concepts.
+    .. grid-item-card::
 
-    +++
+        panel 1 header
+        ^^^^^^^^^^^^^^
+        panel 1 content
+        more content
+        ++++++++++++++
+        panel 1 footer
 
-    .. link-button:: api
-            :type: ref
-            :text: To the reference guide
-            :classes: btn-block btn-secondary stretched-link
+    .. grid-item-card::
 
-    ---
-    :img-top: _static/index_contribute.svg
-
-    Developer guide
-    ^^^^^^^^^^^^^^^
-
-    Saw a typo in the documentation? Want to improve
-    existing functionalities? The contributing guidelines will guide
-    you through the process of improving pandas.
-
-    +++
-
-    .. link-button:: development
-            :type: ref
-            :text: To the development guide
-            :classes: btn-block btn-secondary stretched-link
+        panel 2 header
+        ^^^^^^^^^^^^^^
+        panel 2 content
+        ++++++++++++++
+        panel 2 footer
 
 
 .. toctree::
