@@ -10,8 +10,9 @@
 ### Solution preparation
 
 - Prepare 30% sucrose solution:
+  
 | Reagent | Volume |
-| :----  | ----: |
+| :----  |----: |
 | DI water    | 350 g |
 | Sucrose     |  150 g |
 |
