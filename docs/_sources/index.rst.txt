@@ -35,25 +35,29 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 
 .. grid::
 
-    
-
     .. grid-item-card:: Microfabrication
       :img-top: ./picture/3d-printer.png
       :link: microfabrication/index
 
-      Cell culture protocol
+    .. grid-item-card:: TBD
+      :img-top: ./picture/3d-printer.png
+      :link: index
+    
+    .. grid-item-card:: TBD
+      :img-top: ./picture/3d-printer.png
+      :link: index
 
     .. grid-item-card:: Others
       :img-top: ./picture/laser.png
       :link: cell_culture/index
 
-      Cell culture protocol
 
     .. grid-item-card:: Development
       :img-top: ./picture/dev.png
       :link: development
 
-      Cell culture protocol
+      Development tips
+      
 .. toctree::
   :maxdepth: 3
   :caption: Contents
