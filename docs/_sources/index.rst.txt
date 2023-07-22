@@ -13,18 +13,14 @@ Welcome to Documentation!
 
    about
    cell_culture/index
-   genome_editing
+   genome_editing/index
    immunostaining
    cerebral_organoid
    room_and_equipment
    rathi_training
    development
 
-.. tocrree::
-   :maxdepth: 2
-   :caption: Contents:
-   
-   AMED_cancer
+..  AMED_cancer
 .. brainbow
 .. closed_loop_system
 

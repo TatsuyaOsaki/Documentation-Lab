@@ -6,7 +6,7 @@ myst:
       pydata-sphinx-theme.
 ---
 
-# Cell culture
+# Wet analysis
 
 You can configure the behavior, look, and feel of the theme in many ways.
 The remaining pages in the user guide cover various ways of doing so.
@@ -25,6 +25,5 @@ This is a dictionary with `key: val` pairs that you can configure in various way
 ```{toctree}
 :caption: Cell culture
 
-cell_culture
-
+immunostaining
 ```
