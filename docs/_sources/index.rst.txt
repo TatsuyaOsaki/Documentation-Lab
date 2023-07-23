@@ -63,7 +63,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/list.png
       :link: room_and_equipment
-      
+
       - Equipment
 
 
@@ -82,6 +82,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
   cell_culture/index
   genome_editing/index
   molecular_bio/index
+  dry_analysis/index
   others/index
   development
 

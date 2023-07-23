@@ -6,10 +6,9 @@ myst:
       pydata-sphinx-theme.
 ---
 
-# Computational anlysis
+# Others
 
-You can configure the behavior, look, and feel of the theme in many ways.
-The remaining pages in the user guide cover various ways of doing so.
+
 
 ```{danger}
 This theme is still under active development, and we make no promises
