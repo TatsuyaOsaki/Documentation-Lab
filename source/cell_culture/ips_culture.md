@@ -16,47 +16,59 @@
 ## Protocols
 
 ```{seealso}
-Document of mTeSR Plus for cell culture protocol
-- https://cdn.stemcell.com/media/files/manual/MADX23032-Maintenance_of_Human_Pluripotent_Stem_Cells_in_mTeSR_Plus.pdf
+[Document of mTeSR Plus for cell culture protocol](https://cdn.stemcell.com/media/files/manual/MADX23032-Maintenance_of_Human_Pluripotent_Stem_Cells_in_mTeSR_Plus.pdf)
 ```
 
 ``Thawing cells from freezing cells``
 
-1. (Optional) Coat new flask(s) with gelatin, and let sit for one hour in hood
-   - T75: 5mL
-   - 6 well plate: 1mL per well
-  
-2. Warm DMEM (+FBS) media.
-3. Thawing freezing vial of cells (from LN2 Tank) at 37C water bath
-4. Add 8 ml of medium into new 15 ml falcon tube.
+1. Thawing matrigel stock solution on ice (1.5 ml tube)
+2. Add __cold__ 10ml of DMEM/F12 into 15ml of falcon tube.
+
+```{important}
+Must use cold DMEM/F12
+```
+
+1. Add Matrigel solution into prepared 10ml of DMEM/F12 in 15 ml falcon tube
+2. Coat 6 well late with Matrigel , and incubator for one hour at RT
+   - 6 well plate: 1 mL per well
+
+```{important}
+Do not put into incucator
+```
+
+3. Thawing the cells in freezing vial (from LN2 Tank) at 37C water bath
+4. Add 4 ml of mTeSR plus new 15 ml falcon tube.
 5. Add 1 ml of cell suspention from freezing vial into 15 ml of falcon tube.
 6. Centrifuge 15ml of falcon tube at 1000 rpm for 3 min at RT.
-7. Aspirate supernatant
-8. Add 10ml of fresh clulture medium into 15 ml of falcon tube containing cell pelet. Pipette and mix for several times.
-9. Transfer cell suspensin to T75 flask (10 cm culture dish).
-10. Put T75 flask into incubator.
+7.  Aspirate supernatant
+8.  Add 2 ml of fresh mTeSR plus into 15 ml of falcon tube containing cell pelet. Pipette and mix for several times.
+
+```{important}
+Do not mix more than 5 times, use 5ml of pipette
+```
+
+9. Transfer cell suspension to 6 well plate
+10. Place 6 well plate into incubator.
 
 ``Medium change``
 
-1. Aspirate culture medium from T75 flask
-2. Add 10 ml of culture medium into T75 flask
+1. Aspirate mTeSR plus from 6 well plate
+2. Add 2 ml of mTeSR plus into 6 well plate
 
 ``Subculture``
 
-1. Aspirate culture medium from T75 flask
-2. Add 4 ml of DPBS into T75 flask
-3. Aspirate all DPBS from T75 flask
-4. After aspirating PBS, add 3mL of trypsin
-5. Add 3ml of TrypLE express into T75 flask
-6. Incubate and monitor for 3-5 min
-7. Add flesh 6 ml of culture medium, and then collect all soulstion into a 15mL falcon tube.
-8. Centrifuge 15ml of falcon tube at 1000 rpm for 3 min at RT.
-9. Aspirate supernatant
-10. Add 10ml of fresh clulture medium into 15 ml of falcon tube containing cell pelet. Pipette and mix for several times.
+1. Aspirate culture medium from 6 well plate
+2. After aspirating PBS, add 3mL of trypsin
+3. Add 3ml of TrypLE express into T75 flask
+4. Incubate and monitor for 3-5 min
+5. Add flesh 6 ml of culture medium, and then collect all soulstion into a 15mL falcon tube.
+6. Centrifuge 15ml of falcon tube at 1000 rpm for 3 min at RT.
+7. Aspirate supernatant
+8.  Add 10ml of fresh clulture medium into 15 ml of falcon tube containing cell pelet. Pipette and mix for several times.
 
-11. Add 2ml of cell suspension into new T75 flask (* 5, spilit ratio 1:5)
-12. Add fresh 8ml of culture medium into T75 flask.
-13. Put T75 flask into incubator.
+9.  Add 2ml of cell suspension into new T75 flask (* 5, spilit ratio 1:5)
+10. Add fresh 8ml of culture medium into T75 flask.
+11. Put T75 flask into incubator.
 
 ---
 
