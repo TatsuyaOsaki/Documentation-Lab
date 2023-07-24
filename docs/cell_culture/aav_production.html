@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
     <link href="../_static/favicon-16x16.png" rel="icon" type="image/png">
     <link href="../_static/favicon-32x32.png" rel="icon" type="image/png">
-    <title>Cell culture &#8212; Tatsuya Osaki 2.13 documentation</title>
+    <title>AAV production with HEK293T &#8212; Tatsuya Osaki 2.13 documentation</title>
   
   
   
@@ -41,12 +41,10 @@
     <script src="../_static/doctools.js"></script>
     <script src="../_static/sphinx_highlight.js"></script>
     <script src="../_static/design-tabs.js"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'cell_culture/index';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'cell_culture/aav_production';</script>
     <link rel="author" title="About these documents" href="../about.html" />
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Basic cell culture (HEK293T)" href="cell_culture.html" />
-    <link rel="prev" title="About" href="../about.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -143,8 +141,8 @@
                     </li>
                 
 
-                    <li class="nav-item current active">
-                      <a class="nav-link nav-internal" href="#">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="index.html">
                         Cell culture
                       </a>
                     </li>
@@ -284,7 +282,7 @@ document.write(`
   <div class="bd-container">
     <div class="bd-container__inner bd-page-width">
       
-      <div class="bd-sidebar-primary bd-sidebar">
+      <div class="bd-sidebar-primary bd-sidebar hide-on-wide">
         
 
   
@@ -309,8 +307,8 @@ document.write(`
                     </li>
                 
 
-                    <li class="nav-item current active">
-                      <a class="nav-link nav-internal" href="#">
+                    <li class="nav-item">
+                      <a class="nav-link nav-internal" href="index.html">
                         Cell culture
                       </a>
                     </li>
@@ -415,21 +413,6 @@ document.write(`
     
   </div>
   
-    <div class="sidebar-primary-items__start sidebar-primary__section">
-        <div class="sidebar-primary-item"><nav class="bd-docs-nav bd-links"
-     aria-label="Section Navigation">
-  <p class="bd-links__title" role="heading" aria-level="1">Section Navigation</p>
-  <div class="bd-toc-item navbar-nav"><p aria-level="2" class="caption" role="heading"><span class="caption-text">Cell culture</span></p>
-<ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="cell_culture.html">Basic cell culture (HEK293T)</a></li>
-<li class="toctree-l1"><a class="reference internal" href="ips_culture.html">iPS cell culture</a></li>
-<li class="toctree-l1"><a class="reference internal" href="lenti_production.html">Lenti virus production with HEK293T</a></li>
-<li class="toctree-l1"><a class="reference internal" href="cerebral_organoid.html">Differentiation of cerebral orgnaoid</a></li>
-</ul>
-</div>
-</nav></div>
-    </div>
-  
   
   <div class="sidebar-primary-items__end sidebar-primary__section">
   </div>
@@ -462,7 +445,7 @@ document.write(`
         <i class="fa-solid fa-home"></i>
       </a>
     </li>
-    <li class="breadcrumb-item active" aria-current="page">Cell culture</li>
+    <li class="breadcrumb-item active" aria-current="page">AAV production with HEK293T</li>
   </ul>
 </nav>
 </div>
@@ -479,40 +462,65 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="cell-culture">
-<h1>Cell culture<a class="headerlink" href="#cell-culture" title="Permalink to this heading">#</a></h1>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>This theme is still under active development</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="aav-production-with-hek293t">
+<h1>AAV production with HEK293T<a class="headerlink" href="#aav-production-with-hek293t" title="Permalink to this heading">#</a></h1>
+<section id="cell-lines">
+<h2>Cell lines<a class="headerlink" href="#cell-lines" title="Permalink to this heading">#</a></h2>
+<blockquote>
+<div><p>AAV 293 or HEK293T</p>
+</div></blockquote>
+</section>
+<section id="reagent">
+<h2>Reagent<a class="headerlink" href="#reagent" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Cell</p></li>
+<li><p>DMEM (high glucose without L-glutamine)</p></li>
+<li><p>Fetal bovine serum</p></li>
+<li><p>TrypLE Express</p></li>
+<li><p>Penicillin/Streptomycin (P/S)</p></li>
+<li><p>Cell cutlure medium</p></li>
+<li><p>DMEM +10% FBS + 1%P/S
+| Reagent | Volume |
+| :—-:  | :—-: |
+| DMEM    | 450 ml |
+| FBS     |  50 ml |
+| P/S     |   5 ml |
+|
+| Total   | 505 ml |</p></li>
+<li><p>AdDeltaF6</p></li>
+<li><p>AAV1/2</p></li>
+<li><p>AAV2/2</p></li>
+<li><p>retro AAV helper</p></li>
+<li><p>Transfer plasmid</p></li>
+</ul>
+</section>
+<hr class="docutils" />
+<section id="protocols">
+<h2>Protocols<a class="headerlink" href="#protocols" title="Permalink to this heading">#</a></h2>
+<p><code class="docutils literal notranslate"><span class="pre">Thawing</span> <span class="pre">cells</span> <span class="pre">from</span> <span class="pre">freezing</span> <span class="pre">cells</span></code></p>
+<ol class="simple">
+<li><p>Thaw AAV293 cells in 37°C waterbath.</p></li>
+<li><p>Add to 5 mL of 293T culture medium.</p></li>
+<li><p>Spin down 5 min at 1000 rpm</p></li>
+<li><p>Resuspend in 10 mL 293T culture medium.</p></li>
+<li><p>Plate in 75 cm 2 flask. No need for coating.</p></li>
+</ol>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>Change medium every day or every two days. If you don’t and the medium gets yellow, the cells will detach and die.</p>
 </div>
-<div class="toctree-wrapper compound">
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Cell culture</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="cell_culture.html">Basic cell culture (HEK293T)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="cell_culture.html#cell-lines">Cell lines</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cell_culture.html#reagent">Reagent</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cell_culture.html#protocols">Protocols</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="ips_culture.html">iPS cell culture</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="ips_culture.html#cell-lines">Cell lines</a></li>
-<li class="toctree-l2"><a class="reference internal" href="ips_culture.html#reagent">Reagent</a></li>
-<li class="toctree-l2"><a class="reference internal" href="ips_culture.html#protocols">Protocols</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lenti_production.html">Lenti virus production with HEK293T</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lenti_production.html#cell-lines">Cell lines</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lenti_production.html#reagent">Reagent</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lenti_production.html#protocols">Protocols</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="cerebral_organoid.html">Differentiation of cerebral orgnaoid</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="cerebral_organoid.html#reagent">Reagent</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cerebral_organoid.html#preparation">Preparation</a></li>
-</ul>
-</li>
-</ul>
-</div>
+<ol class="simple">
+<li><p>Once the cells are 90% confluent, split them 1 to 4 using trypsin:</p></li>
+<li><p>rince with PBS-</p></li>
+<li><p>5 minutes in trypsin (7 to 8 mL per flask)</p></li>
+<li><p>Resuspend in 7 mL medium per flask.</p></li>
+<li><p>NB: For cells to be transfected: dissociate: add 7 mL medium to the flask and pipet up and down
+projecting the cells on the wall of the flask for 15 times.</p></li>
+<li><p>Spin down 5 min at 1000 rpm</p></li>
+<li><p>Resuspend in 8 mL medium</p></li>
+<li><p>Plate 2 mL cells + 8 mL medium per flask to split ¼.</p></li>
+</ol>
+</section>
 </section>
 
 
@@ -526,24 +534,6 @@ document.write(`
   
     <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
-    <a class="left-prev"
-       href="../about.html"
-       title="previous page">
-      <i class="fa-solid fa-angle-left"></i>
-      <div class="prev-next-info">
-        <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">About</p>
-      </div>
-    </a>
-    <a class="right-next"
-       href="cell_culture.html"
-       title="next page">
-      <div class="prev-next-info">
-        <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Basic cell culture (HEK293T)</p>
-      </div>
-      <i class="fa-solid fa-angle-right"></i>
-    </a>
 </div></div>
   
 </div>
@@ -557,8 +547,20 @@ document.write(`
                 <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
   <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cell-lines">Cell lines</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reagent">Reagent</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#protocols">Protocols</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
   <div class="tocsection sourcelink">
-    <a href="../_sources/cell_culture/index.md.txt">
+    <a href="../_sources/cell_culture/aav_production.md.txt">
       <i class="fa-solid fa-file-lines"></i> Show Source
     </a>
   </div>

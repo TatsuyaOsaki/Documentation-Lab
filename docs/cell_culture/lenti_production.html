@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
     <link href="../_static/favicon-16x16.png" rel="icon" type="image/png">
     <link href="../_static/favicon-32x32.png" rel="icon" type="image/png">
-    <title>Cell culture &#8212; Tatsuya Osaki 2.13 documentation</title>
+    <title>Lenti virus production with HEK293T &#8212; Tatsuya Osaki 2.13 documentation</title>
   
   
   
@@ -41,12 +41,12 @@
     <script src="../_static/doctools.js"></script>
     <script src="../_static/sphinx_highlight.js"></script>
     <script src="../_static/design-tabs.js"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'cell_culture/index';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'cell_culture/lenti_production';</script>
     <link rel="author" title="About these documents" href="../about.html" />
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Basic cell culture (HEK293T)" href="cell_culture.html" />
-    <link rel="prev" title="About" href="../about.html" />
+    <link rel="next" title="Differentiation of cerebral orgnaoid" href="cerebral_organoid.html" />
+    <link rel="prev" title="iPS cell culture" href="ips_culture.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -144,7 +144,7 @@
                 
 
                     <li class="nav-item current active">
-                      <a class="nav-link nav-internal" href="#">
+                      <a class="nav-link nav-internal" href="index.html">
                         Cell culture
                       </a>
                     </li>
@@ -310,7 +310,7 @@ document.write(`
                 
 
                     <li class="nav-item current active">
-                      <a class="nav-link nav-internal" href="#">
+                      <a class="nav-link nav-internal" href="index.html">
                         Cell culture
                       </a>
                     </li>
@@ -420,10 +420,10 @@ document.write(`
      aria-label="Section Navigation">
   <p class="bd-links__title" role="heading" aria-level="1">Section Navigation</p>
   <div class="bd-toc-item navbar-nav"><p aria-level="2" class="caption" role="heading"><span class="caption-text">Cell culture</span></p>
-<ul class="nav bd-sidenav">
+<ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="cell_culture.html">Basic cell culture (HEK293T)</a></li>
 <li class="toctree-l1"><a class="reference internal" href="ips_culture.html">iPS cell culture</a></li>
-<li class="toctree-l1"><a class="reference internal" href="lenti_production.html">Lenti virus production with HEK293T</a></li>
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Lenti virus production with HEK293T</a></li>
 <li class="toctree-l1"><a class="reference internal" href="cerebral_organoid.html">Differentiation of cerebral orgnaoid</a></li>
 </ul>
 </div>
@@ -462,7 +462,10 @@ document.write(`
         <i class="fa-solid fa-home"></i>
       </a>
     </li>
-    <li class="breadcrumb-item active" aria-current="page">Cell culture</li>
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">Cell culture</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page">Lenti virus production with HEK293T</li>
   </ul>
 </nav>
 </div>
@@ -479,40 +482,55 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="cell-culture">
-<h1>Cell culture<a class="headerlink" href="#cell-culture" title="Permalink to this heading">#</a></h1>
-<div class="admonition note">
-<p class="admonition-title">Note</p>
-<p>This theme is still under active development</p>
-</div>
-<div class="toctree-wrapper compound">
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Cell culture</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="cell_culture.html">Basic cell culture (HEK293T)</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="cell_culture.html#cell-lines">Cell lines</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cell_culture.html#reagent">Reagent</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cell_culture.html#protocols">Protocols</a></li>
+  <section class="tex2jax_ignore mathjax_ignore" id="lenti-virus-production-with-hek293t">
+<h1>Lenti virus production with HEK293T<a class="headerlink" href="#lenti-virus-production-with-hek293t" title="Permalink to this heading">#</a></h1>
+<section id="cell-lines">
+<h2>Cell lines<a class="headerlink" href="#cell-lines" title="Permalink to this heading">#</a></h2>
+<blockquote>
+<div><p>HEK293T</p>
+</div></blockquote>
+</section>
+<section id="reagent">
+<h2>Reagent<a class="headerlink" href="#reagent" title="Permalink to this heading">#</a></h2>
+<ul class="simple">
+<li><p>Cell</p></li>
+<li><p>DMEM (high glucose without L-glutamine)</p></li>
+<li><p>Fetal bovine serum</p></li>
+<li><p>TrypLE Express</p></li>
+<li><p>Penicillin/Streptomycin (P/S)</p></li>
+<li><p>Cell cutlure medium</p></li>
+<li><p>DMEM +10% FBS + 1%P/S
+| Reagent | Volume |
+| :—-:  | :—-: |
+| DMEM    | 450 ml |
+| FBS     |  50 ml |
+| P/S     |   5 ml |
+|
+| Total   | 505 ml |</p></li>
 </ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="ips_culture.html">iPS cell culture</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="ips_culture.html#cell-lines">Cell lines</a></li>
-<li class="toctree-l2"><a class="reference internal" href="ips_culture.html#reagent">Reagent</a></li>
-<li class="toctree-l2"><a class="reference internal" href="ips_culture.html#protocols">Protocols</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="lenti_production.html">Lenti virus production with HEK293T</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="lenti_production.html#cell-lines">Cell lines</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lenti_production.html#reagent">Reagent</a></li>
-<li class="toctree-l2"><a class="reference internal" href="lenti_production.html#protocols">Protocols</a></li>
-</ul>
-</li>
-<li class="toctree-l1"><a class="reference internal" href="cerebral_organoid.html">Differentiation of cerebral orgnaoid</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="cerebral_organoid.html#reagent">Reagent</a></li>
-<li class="toctree-l2"><a class="reference internal" href="cerebral_organoid.html#preparation">Preparation</a></li>
-</ul>
-</li>
-</ul>
-</div>
+</section>
+<hr class="docutils" />
+<section id="protocols">
+<h2>Protocols<a class="headerlink" href="#protocols" title="Permalink to this heading">#</a></h2>
+<p><code class="docutils literal notranslate"><span class="pre">Thawing</span> <span class="pre">cells</span> <span class="pre">from</span> <span class="pre">freezing</span> <span class="pre">cells</span></code></p>
+<p>Plate 4 75 cm3 flasks of 293T cells.
+Day 1: Once they are confluent, prepare 6 10 cm 3 plates, 5.10 6 to 5.10 7 cells per plate.
+Day 2 (or later): once the cells are 80% confluent, transfection:</p>
+<ol class="simple">
+<li><p>Add 240 uL Extreme 9 to 3 mL of DME (serum free). Incubate at RT for 5 min.</p></li>
+<li><p>Add the following amount of DNA to 600 uL of DME (serum free) and mix:
+30 ug gene of interest
+30 ug VgV
+30 ug CMV delta7871
+Add the mix from step 2 to the Extreme gene 9/DME mix from Step 1. Mix well and incubate at
+RT for 15 min.
+Refresh the medium of the 293T culture.
+Add Fugen DNA mix drop by drop to the culture (0.5 mL per plate).
+Day 3: nothing
+Day 4: Harvest the medium. Filter with 0.45 um filter. Centrifugate at 23000 rpm for 1:45.
+Resuspend in 1 mL of PBS- or HBSS per centrifuge tube. Freeze 200 uL aliquots.</p></li>
+</ol>
+</section>
 </section>
 
 
@@ -527,20 +545,20 @@ document.write(`
     <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
-       href="../about.html"
+       href="ips_culture.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">About</p>
+        <p class="prev-next-title">iPS cell culture</p>
       </div>
     </a>
     <a class="right-next"
-       href="cell_culture.html"
+       href="cerebral_organoid.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Basic cell culture (HEK293T)</p>
+        <p class="prev-next-title">Differentiation of cerebral orgnaoid</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -557,8 +575,20 @@ document.write(`
                 <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
   <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cell-lines">Cell lines</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reagent">Reagent</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#protocols">Protocols</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
   <div class="tocsection sourcelink">
-    <a href="../_sources/cell_culture/index.md.txt">
+    <a href="../_sources/cell_culture/lenti_production.md.txt">
       <i class="fa-solid fa-file-lines"></i> Show Source
     </a>
   </div>
