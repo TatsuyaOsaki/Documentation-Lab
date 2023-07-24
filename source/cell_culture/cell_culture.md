@@ -11,9 +11,6 @@
 - Fetal bovine serum
 - TrypLE Express
 - Penicillin/Streptomycin (P/S)
-- Knockout Serum Replacement
-- DMEM /F12
-- Neurobasal medium
 - Cell cutlure medium
 
 - DMEM +10% FBS + 1%P/S
