@@ -4,7 +4,7 @@
 >
 > Tatsuya's cell line list
 
-### Reagent
+## Reagent
 
 - Cell
 - DMEM (high glucose without L-glutamine)
@@ -14,8 +14,7 @@
 - Knockout Serum Replacement
 - DMEM /F12
 - Neurobasal medium
-
-### Cell cutlure medium
+- Cell cutlure medium
 
 - DMEM +10% FBS + 1%P/S
 | Reagent | Volume |
@@ -27,7 +26,7 @@
 | Total   | 505 ml |
 ---
 
-### Protocols
+## Protocols
 ``Thawing cells from freezing cells``
 
 1. (Optional) Coat new flask(s) with gelatin, and let sit for one hour in hood
