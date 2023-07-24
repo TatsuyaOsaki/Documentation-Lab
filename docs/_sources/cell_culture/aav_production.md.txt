@@ -53,3 +53,8 @@ projecting the cells on the wall of the flask for 15 times.
 13. Plate 2 mL cells + 8 mL medium per flask to split ¼.
 
 ``Transfection``
+
+
+``Collection``
+
+``Purification``
