@@ -54,7 +54,7 @@
 5. Add 3ml of TrypLE express into T75 flask
 6. Incubate and monitor for 3-5 min
 7. Add flesh 6 ml of culture medium, and then collect all soulstion into a 15mL falcon tube.
-8. Centrifuge 15ml of falcon tube at 1000 rpm for 3 min at RT.
+8. Centrifuge 15 ml of falcon tube at 1000 rpm for 3 min at RT.
 9. Aspirate supernatant
 10. Add 10ml of fresh clulture medium into 15 ml of falcon tube containing cell pelet. Pipette and mix for several times.
 
@@ -63,4 +63,3 @@
 13. Put T75 flask into incubator.
 
 ---
-
