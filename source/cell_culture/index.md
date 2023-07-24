@@ -17,5 +17,6 @@ This theme is still under active development
 :caption: Cell culture
 
 cell_culture
+ips_culture
 cerebral_organoid
 ```
