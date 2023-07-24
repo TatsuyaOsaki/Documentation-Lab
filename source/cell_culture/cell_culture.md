@@ -1,10 +1,8 @@
-# Protocol
+# Basic cell culture (HEK293T)
 
 ## Cell lines
 >
 > Tatsuya's cell line list
-
-## Basic of cell culture, HEK293T
 
 ### Reagent
 
