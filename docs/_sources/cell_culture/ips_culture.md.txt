@@ -40,8 +40,8 @@ Do not put into incucator
 4. Add 4 ml of mTeSR plus new 15 ml falcon tube.
 5. Add 1 ml of cell suspention from freezing vial into 15 ml of falcon tube.
 6. Centrifuge 15ml of falcon tube at 1000 rpm for 3 min at RT.
-7.  Aspirate supernatant
-8.  Add 2 ml of fresh mTeSR plus into 15 ml of falcon tube containing cell pelet. Pipette and mix for several times.
+7. Aspirate supernatant
+8. Add 2 ml of fresh mTeSR plus into 15 ml of falcon tube containing cell pelet. Pipette and mix for several times.
 
 ```{important}
 Do not mix more than 5 times, use 5 ml of pipette
@@ -68,4 +68,3 @@ Do not mix more than 5 times, use 5 ml of pipette
 9. Place 6 well plate on incubator.
 
 ---
-
