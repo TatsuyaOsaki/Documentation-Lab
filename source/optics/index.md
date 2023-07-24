@@ -6,7 +6,7 @@ myst:
       pydata-sphinx-theme.
 ---
 
-# Computational anlysis
+# Optics
 
 
 ```{attention}

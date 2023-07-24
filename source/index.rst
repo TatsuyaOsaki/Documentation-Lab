@@ -83,6 +83,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
   genome_editing/index
   molecular_bio/index
   dry_analysis/index
+  optics/index
   others/index
   development
 

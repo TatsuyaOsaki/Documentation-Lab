@@ -10,7 +10,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
     <link href="../_static/favicon-16x16.png" rel="icon" type="image/png">
     <link href="../_static/favicon-32x32.png" rel="icon" type="image/png">
-    <title>Optics &#8212; Tatsuya Osaki 2.14 documentation</title>
+    <title>Multiphoton microscope &#8212; Tatsuya Osaki 2.14 documentation</title>
   
   
   
@@ -41,12 +41,12 @@
     <script src="../_static/doctools.js"></script>
     <script src="../_static/sphinx_highlight.js"></script>
     <script src="../_static/design-tabs.js"></script>
-    <script>DOCUMENTATION_OPTIONS.pagename = 'optics/index';</script>
+    <script>DOCUMENTATION_OPTIONS.pagename = 'optics/multiphoton';</script>
     <link rel="author" title="About these documents" href="../about.html" />
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="Multiphoton microscope" href="multiphoton.html" />
-    <link rel="prev" title="Computational anlysis" href="../dry_analysis/index.html" />
+    <link rel="next" title="Others" href="../others/index.html" />
+    <link rel="prev" title="Optics" href="index.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -177,7 +177,7 @@
                 <div class="dropdown-menu">
                     
                     <li class="nav-item current active">
-                      <a class="nav-link nav-internal" href="#">
+                      <a class="nav-link nav-internal" href="index.html">
                         Optics
                       </a>
                     </li>
@@ -350,7 +350,7 @@ document.write(`
                 <div class="dropdown-menu">
                     
                     <li class="nav-item current active">
-                      <a class="nav-link nav-internal" href="#">
+                      <a class="nav-link nav-internal" href="index.html">
                         Optics
                       </a>
                     </li>
@@ -434,8 +434,8 @@ document.write(`
      aria-label="Section Navigation">
   <p class="bd-links__title" role="heading" aria-level="1">Section Navigation</p>
   <div class="bd-toc-item navbar-nav"><p aria-level="2" class="caption" role="heading"><span class="caption-text">Multi-photon microscope setup &amp; Use</span></p>
-<ul class="nav bd-sidenav">
-<li class="toctree-l1"><a class="reference internal" href="multiphoton.html">Multiphoton microscope</a></li>
+<ul class="current nav bd-sidenav">
+<li class="toctree-l1 current active"><a class="current reference internal" href="#">Multiphoton microscope</a></li>
 </ul>
 </div>
 </nav></div>
@@ -473,7 +473,10 @@ document.write(`
         <i class="fa-solid fa-home"></i>
       </a>
     </li>
-    <li class="breadcrumb-item active" aria-current="page">Optics</li>
+    
+    <li class="breadcrumb-item"><a href="index.html" class="nav-link">Optics</a></li>
+    
+    <li class="breadcrumb-item active" aria-current="page">Multiphoton microscope</li>
   </ul>
 </nav>
 </div>
@@ -490,23 +493,51 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="optics">
-<h1>Optics<a class="headerlink" href="#optics" title="Permalink to this heading">#</a></h1>
-<div class="admonition attention">
-<p class="admonition-title">Attention</p>
-<p>This page is still under active development.</p>
+  <section class="tex2jax_ignore mathjax_ignore" id="multiphoton-microscope">
+<h1>Multiphoton microscope<a class="headerlink" href="#multiphoton-microscope" title="Permalink to this heading">#</a></h1>
+<div class="admonition note">
+<p class="admonition-title">Note</p>
+<p>This page is still under active development</p>
 </div>
-<div class="toctree-wrapper compound">
-<p aria-level="2" class="caption" role="heading"><span class="caption-text">Multi-photon microscope setup &amp; Use</span></p>
-<ul>
-<li class="toctree-l1"><a class="reference internal" href="multiphoton.html">Multiphoton microscope</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="multiphoton.html#p2">2P2</a></li>
-<li class="toctree-l2"><a class="reference internal" href="multiphoton.html#p3">2P3</a></li>
-<li class="toctree-l2"><a class="reference internal" href="multiphoton.html#p1">3P1</a></li>
-</ul>
-</li>
-</ul>
-</div>
+<section id="p2">
+<h2>2P2<a class="headerlink" href="#p2" title="Permalink to this heading">#</a></h2>
+<p>2P2 is a very flexible and custom-made system which has a Mai Tai
+imaging laser between 690-1040 nm manipulated by a galvo-galvo scanner
+OR a resonant-resonant scanner. Compared to InsightX3+ and DeepSee
+laser on 2P3 or 2P4, laser power is relatively low, but it is great
+enough to see GCaMP/GFP  and GECO/ tdTomato at the 0-500um deep
+inside.
+You can use up to three Hamamatsu GaAsP PMTs at the same time or two
+GaAsP PMTs/stimulation lightpaths through objective for optogenetics.
+I am typically using BFP/EGFP/tdTomato recording by 720/920 nm
+wavelength or GCaMP6f + wide field optical stimulation with
+yellow-orange Laser, and 700 nm excitation with BFP emission filter
+for NADH recording. But you can change the filter combination as you
+like.</p>
+<p>One interesting feature of 2P2 is that you can swing the objective
+between +-45 degree range (but I never used it). Also, I have set up
+an environmental chamber to keep 37C and 5% CO2 inside for live cells
+or brain slices.</p>
+<p>Disadvantage of 2P2 compared to 2P3 or 2P4 is you need to operate with
+Scanimage software, which is not user friendly like PrairieView. And
+you cannot change some of the parameters through the software, etc,
+PMT voltages and Pockel’s. Also there are no eye-piece, which is bad
+when you find the focus, although it has a camera.</p>
+<p>Lastly, I would recommend 2P3 or 2P4 as the primary choice to meet
+most of the imaging needs from imaging quality’s and UI’s point of
+view, but if you need extra setup, I am happy to show you and help
+with the setup.</p>
+</section>
+<section id="p3">
+<h2>2P3<a class="headerlink" href="#p3" title="Permalink to this heading">#</a></h2>
+<p>2P3 has an Insight X3+ imaging laser that not only performs well at traditional wavelengths used for GCaMP/GFP, but performs better at higher wavelengths (960-1300 nm) than the older Mai Tai models. In addition, 2P3 has a Mai Tai laser and both laser are aligned through the imaging path allowing dual wavelength imaging if desired. To achieve this, we sacrificed the capability to do 2P uncaging. Thanks to a recent upgrade, both lasers and their Pockel’s are controllable through the PrairieView software. Please check with me if you’d like to be trained on this feature. Additionally, the Insight X3+ has a fixed wavelength output that is not in use (Do not open this shutter!). The microscope has attachments for optogenetics with an opto laser and built in LEDs. Make sure that  your opto stimulation effectively triggers the PMT shutters before using to prevent damage to the PMTs. Both lasers have tunable dispersion compensation.</p>
+<p>2P4 has a Mai Tai DeepSee for the imaging laser that was recently refurbished. It also has a traditional Mai Tai (the old 2P4 imaging laser) in the uncaging path (these two lasers currently use separate Mai Tai software labeled on the desktop). This means that 2P4 can be used for targeted 2P optogenetics and for uncaging. It technically has a module that allows it to switch between uncaging and dual wavelength imaging, but according to Grayson this does not work well. Thomas aligned the laser for uncaging, but no one has used it yet so it may require debugging/optimizing or at the very least some pilots before beginning. It also has an attachment option for opto lasers.</p>
+<p>In conclusion, 2P3 is great for applications requiring higher wavelengths or multiple wavelengths for imaging. 2P4 is the only laser currently capable of targeted 2P opto or uncaging. For everything else, these two microscope are equivalently good and I would advise planning your experiments for whatever scope is being underutilized, or even making your rig/code easily transferrable between the two if you are just starting out (and join their respective Slack channels!).</p>
+<p>For any questions, training, or before utilizing a feature you are unfamiliar with be sure to reach out to Jen (2P4) or me (2P3).</p>
+</section>
+<section id="p1">
+<h2>3P1<a class="headerlink" href="#p1" title="Permalink to this heading">#</a></h2>
+</section>
 </section>
 
 
@@ -521,20 +552,20 @@ document.write(`
     <div class="footer-article-item"><!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
-       href="../dry_analysis/index.html"
+       href="index.html"
        title="previous page">
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">Computational anlysis</p>
+        <p class="prev-next-title">Optics</p>
       </div>
     </a>
     <a class="right-next"
-       href="multiphoton.html"
+       href="../others/index.html"
        title="next page">
       <div class="prev-next-info">
         <p class="prev-next-subtitle">next</p>
-        <p class="prev-next-title">Multiphoton microscope</p>
+        <p class="prev-next-title">Others</p>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
@@ -551,8 +582,20 @@ document.write(`
                 <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
   <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> On this page
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#p2">2P2</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#p3">2P3</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#p1">3P1</a></li>
+</ul>
+  </nav></div>
+
+  <div class="sidebar-secondary-item">
   <div class="tocsection sourcelink">
-    <a href="../_sources/optics/index.md.txt">
+    <a href="../_sources/optics/multiphoton.md.txt">
       <i class="fa-solid fa-file-lines"></i> Show Source
     </a>
   </div>
