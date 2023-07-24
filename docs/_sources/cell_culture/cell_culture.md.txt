@@ -4,7 +4,7 @@
 >
 > Tatsuya's cell line list
 
-## Basic of cell culture, HEK293T cells for AAV packaging
+## Basic of cell culture, HEK293T
 
 ### Reagent
 
@@ -46,12 +46,12 @@
 9. Transfer cell suspensin to T75 flask (10 cm culture dish).
 10. Put T75 flask into incubator.
 
-``Medium change`
+``Medium change``
 
 1. Aspirate culture medium from T75 flask
 2. Add 10 ml of culture medium into T75 flask
 
-``Subculture`
+``Subculture``
 
 1. Aspirate culture medium from T75 flask
 2. Add 4 ml of DPBS into T75 flask
