@@ -84,6 +84,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
   molecular_bio/index
   dry_analysis/index
   optics/index
+  microfabrication/index
   others/index
   development
 
