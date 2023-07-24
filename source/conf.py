@@ -22,7 +22,7 @@ copyright = '2022, Tatsuya Osaki'
 author = 'Tatsuya Osaki'
 
 # The full version, including alpha/beta/rc tags
-release = '2.14'
+release = '2.15'
 
 
 # -- General configuration ---------------------------------------------------
