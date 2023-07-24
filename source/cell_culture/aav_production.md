@@ -51,3 +51,5 @@ projecting the cells on the wall of the flask for 15 times.
 11. Spin down 5 min at 1000 rpm
 12. Resuspend in 8 mL medium
 13. Plate 2 mL cells + 8 mL medium per flask to split ¼.
+
+``Transfection``
