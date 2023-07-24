@@ -18,7 +18,7 @@ This theme is still under active development
 
 cell_culture
 ips_culture
-aav_pruduction
+aav_production
 lenti_production
 cerebral_organoid
 ```
