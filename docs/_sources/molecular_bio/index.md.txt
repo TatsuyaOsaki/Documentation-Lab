@@ -19,5 +19,10 @@ worried about breaking changes!
 ```{toctree}
 :caption: Protocol
 
-immunostaining
+dna_isolation
+rna_isolation
+rt_pcr
+cryosectioning
+flowcytometry
+
 ```

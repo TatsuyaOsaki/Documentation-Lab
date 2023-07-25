@@ -1,4 +1,4 @@
-# Immunostaining
+# RNA isolation 
 
 ## Materials & Reagents
 

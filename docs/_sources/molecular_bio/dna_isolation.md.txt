@@ -1,4 +1,4 @@
-# Immunostaining
+# DNA isolation 
 
 ## Materials & Reagents
 

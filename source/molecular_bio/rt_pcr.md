@@ -1,4 +1,4 @@
-# Immunostaining
+# RT-PCR
 
 ## Materials & Reagents
 
