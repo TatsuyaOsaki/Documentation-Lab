@@ -1,4 +1,4 @@
-# RNA isolation 
+# RNA isolation
 
 ## Materials & Reagents
 
