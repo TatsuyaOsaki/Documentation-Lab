@@ -1,8 +1,14 @@
-# RT-PCR
+# RT-PCR, from total RNA
+
+## Equipments
+
+- Quantstudio 3 (Applied biosystems) 
 
 ## Materials & Reagents
 
-- Sucrose (powder)
-- OCT compunds
-
+- Superscript VILO cDNA syntheses Kit (Thermofisher)
+- Total RNA or poly A RNA, mRNA,
+- Takara TB Green Premix Ex Taq II (Takara)
+- Primer
+- 
 ## Protocol
