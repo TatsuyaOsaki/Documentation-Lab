@@ -36,20 +36,22 @@ Culture medium
 |         |        |
 |  Total  | 500 ml |
 
-
 ---
 
 ## Protocols
+
 ``Thawing cells from freezing cells``
 
 1. Thaw AAV293 cells in 37°C waterbath.
 2. Add to 5 mL of 293T culture medium.
 3. Spin down for 5 min at 1000 rpm
 4. Resuspend the cells with 10 mL 293T culture medium.
-5. Plate in 150 cm culture dish. 
+5. Plate in 150 cm culture dish.
+
 ```{important}
 Change medium every day or every two days. If you don’t and the medium gets yellow, the cells will detach and die.
 ```
+
 6. Once the cells are 90% confluent, split them 1 to 4 using TrypLE express:
 7. Rince with DPBS--
 8. Add 5 ml of TrypLE express and incubator for 5-7 min
@@ -59,21 +61,32 @@ Change medium every day or every two days. If you don’t and the medium gets ye
 
 ``Transfection``
 
-
-
 ### Option 1
+
 ``Collection``
-Preparation of AAV extract solution
+
+```{important}
+The protocol below describes purification of AAV particles from producer cells in one T225 flask or four 10 cm dishes.
+```
+```{seealso}
+https://takara.co.kr/file/manual/pdf/6675_6675S_e.v2001Da.pdf
+```
+
+#### VI-1 Preparation of AAV extract solution
+
 1. Detach the AAV-producing cells by adding 1/80 volume of 0.5 M EDTA (pH 8.0)
 to the culture medium; incubate at room temperature for 10 min.
 2. Collect the cells in a centrifuge tube from the flask.
 3. Centrifuge at 1,700 - 2,000g for 10 min at 4℃ and discard the supernatant.
 4. Centrifuge again at 1,700 - 2,000g for 1 min at 4℃ and remove the supernatant completely.
+
 ```{note}
 Be sure to completely remove the supernatant, because remaining
 supernatant could impair virus purification.
 ```
+
 5. Loosen the cell pellet well by tapping or vortexing.
+
 ```{note}
 If the cell pellet is not loosened sufficiently, the purification efficiency
 can be decreased. Make sure there are no cell clumps before
@@ -108,13 +121,17 @@ When AAV Extraction Solution B is added, the color of the solution
 may turn pink in some cases; this does not affect performance.
 ```
 
+#### VI-2. Purification and concentration of AAV particles
+
 ``Purification``
 
-VI-2. Purification and concentration of AAV particles
+```{note}
 Note: Use swing bucket rotors for steps VI-2-5, VI-2-6, and VI-2-7.
+```
+
 1. Add 1/100 volume of Cryonase Cold-active Nuclease to the virus suspension
 at step VI-1-10, and then incubate at 37℃ for 1 hr.
-1. Add 1/10 volume of Precipitator A, vortex for 10 sec, incubate at 37℃ for
+2. Add 1/10 volume of Precipitator A, vortex for 10 sec, incubate at 37℃ for
 30 min, and vortex again for 10 sec.
 
 ```{note}
@@ -131,17 +148,20 @@ a problem. Proceed to the next step.
 
 3. Add 1/20 volume of Precipitator B to the mixture at the step above, vortex
 quickly for 10 sec, and then centrifuge at 5,000 - 9,000g for 5 min at 4℃.
-Note: A precipitate may be formed after adding Precipitator B, but
-proceed to centrifugation.
+
+```{note}
+A precipitate may be formed after adding Precipitator B, but proceed to centrifugation.
+```
+
 4. Filter the supernatant using Millex-HV 0.45 μm.
-5. Transfer the filtrate containing AAV vector into a filter device of Amicon Ultra-4,
-100 kDa. Centrifuge at 2,000g for 5 min at 15℃, and then confirm that the
+5. Transfer the filtrate containing AAV vector into a filter device of Amicon Ultra-4, 100 kDa. Centrifuge at 2,000g for 5 min at 15℃, and then confirm that the
 AAV solution in the filter device is <0.4 ml.
+
 ```{note}
 If the volume of the solution is >0.4 ml, continue to centrifuge.
 ```
 
-6.  After removing the filtrate, add 1 ml of Suspension Buffer in the filter device
+6. After removing the filtrate, add 1 ml of Suspension Buffer in the filter device
 of the Amicon Ultra-4 and mix the solution uniformly by pipetting. Centrifuge
 at 2,000g for 5 min at 15℃, and then confirm that the AAV solution inside the
 filter device device is <0.4 ml.
@@ -150,13 +170,11 @@ filter device device is <0.4 ml.
 If the volume of the solution is >0.4 ml, continue to centrifuge.
 ```
 
-7. Repeat step VI-2-6 4 times (total 5 times) to obtain an appropriate volume of
-solution.
-1. After discarding the filtrate, resuspend the solution inside of the cup of the
-Amicon Ultra-4, 100 kDa filter device by pipetting or vortexing for 30 sec and
-transfer the virus suspension to a new tube.
+7. Repeat step VI-2-6 4 times (total 5 times) to obtain an appropriate volume of solution.
+8. After discarding the filtrate, resuspend the solution inside of the cup of the Amicon Ultra-4, 100 kDa filter device by pipetting or vortexing for 30 sec and transfer the virus suspension to a new tube.
 
 ### Option 2
+
 ``Collection``
 
 ``Purification``
