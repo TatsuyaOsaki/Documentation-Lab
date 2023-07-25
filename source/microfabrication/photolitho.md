@@ -27,7 +27,7 @@ This page is still under active development
 
 4. Soft bake the wafer for 10 min at 65 °C and for 40 min at 95 °C on a hot plate.
 
-```{imporatnt}
+```{important}
 Keep the coated wafers level. Although different combinations of photoresist, spin parameters and baking time can be used to generate a layer with a given thickness, we recommend the specific SU-8 photoresist formulations and spin rates that we report here, which have been optimized. I The procedure for spin-coating photoresist, photolithography, and wafer development is dependent on the specific equipment used and the process parameters (e.g., humidity, temperature, gas pressure, and UV intensity).
 ```
 

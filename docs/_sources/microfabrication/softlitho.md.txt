@@ -17,7 +17,7 @@
 2. Mix the solution using a spatula
 3. Degas in the desiccator until the bubbles are removed completely. 
 
-```{impartant}
+```{important}
 Sylgard 184 is a thermal curable elastomer, which comes as a two-component kit consisting of the base and the curing agent. It is not necessary to weigh the base and curing agent with accuracy >5%, as a small variation in the amount of either component will not affect the performance of resultant PDMS stamps.
 ```
 
@@ -25,7 +25,7 @@ Sylgard 184 is a thermal curable elastomer, which comes as a two-component kit c
 5. Pour the mixed solution into the mold to the desired thickness and degas to remove air bubbles trapped in the patterns. 
 6. Cure the solution in an oven at 80 °C for 4 h. 
 
-```{impartant}
+```{important}
 It is important to complete this step after pouring the mixed PDMS onto the master so that no bubbles will be trapped at the interface between the master and PDMS. Also, be sure to eliminate all the bubbles trapped in the PDMS liquid mixture before proceeding to the next step.
 ```
 
