@@ -8,29 +8,34 @@ This page is still under active development
 
 > AAV 293 or HEK293T
 
-## Reagent
+## Materials & Reagents
 
 - Cell
 - DMEM (high glucose without L-glutamine)
-- Fetal bovine serum
+- Fetal bovine serum (FBS)
 - TrypLE Express
 - Penicillin/Streptomycin (P/S)
-- Cell cutlure medium
+- AdDeltaF6 (Addgene, [#112867](https://www.addgene.org/112867/))
+- AAV2/1 (Addgene, [#112862](https://www.addgene.org/112862/))
+- AAV2/1 (Addgene, [#104964](https://www.addgene.org/104964/))
+- AAV retrohelper (Addgene, [#81070](https://www.addgene.org/81070/))
+- Transfer plasmid (ITR-ITR)
+- Lipofectamine 3000
+- Opti-MEM
+- AAVpro Purification Kit Midi (All Serotypes) Takara
+- 0.5 M EDTA (pH 8.0)
 
-- DMEM +10% FBS + 1%P/S
+Culture medium
+: DMEM +10% FBS + 1%P/S
+
 | Reagent | Volume |
-| :----:  | :----: |
-| DMEM    | 450 ml |
-| FBS     |  50 ml |
-| P/S     |   5 ml |
-|
-| Total   | 505 ml |
+|:-------:|:------:|
+|  DMEM   | 445 ml |
+|   FBS   | 50 ml  |
+|   P/S   |  5 ml  |
+|         |        |
+|  Total  | 500 ml |
 
-- AdDeltaF6
-- AAV1/2
-- AAV2/2
-- retro AAV helper
-- Transfer plasmid
 
 ---
 
@@ -39,26 +44,119 @@ This page is still under active development
 
 1. Thaw AAV293 cells in 37°C waterbath.
 2. Add to 5 mL of 293T culture medium.
-3. Spin down 5 min at 1000 rpm
-4. Resuspend in 10 mL 293T culture medium.
-5. Plate in 75 cm 2 flask. No need for coating.
+3. Spin down for 5 min at 1000 rpm
+4. Resuspend the cells with 10 mL 293T culture medium.
+5. Plate in 150 cm culture dish. 
 ```{important}
 Change medium every day or every two days. If you don’t and the medium gets yellow, the cells will detach and die.
 ```
-6. Once the cells are 90% confluent, split them 1 to 4 using trypsin:
-7. rince with PBS-
-8. 5 minutes in trypsin (7 to 8 mL per flask)
-9. Resuspend in 7 mL medium per flask.
-10. NB: For cells to be transfected: dissociate: add 7 mL medium to the flask and pipet up and down
-projecting the cells on the wall of the flask for 15 times.
-
-11. Spin down 5 min at 1000 rpm
-12. Resuspend in 8 mL medium
-13. Plate 2 mL cells + 8 mL medium per flask to split ¼.
+6. Once the cells are 90% confluent, split them 1 to 4 using TrypLE express:
+7. Rince with DPBS--
+8. Add 5 ml of TrypLE express and incubator for 5-7 min
+9. Spin down for 5 min at 1000 rpm, then aspirate supernatant
+10. Resuspend in 8 mL medium per flask.
+11. Plate 2 mL cell suspension + 8 mL of fresh medium per flask to split ¼.
 
 ``Transfection``
 
 
+
+### Option 1
+``Collection``
+Preparation of AAV extract solution
+1. Detach the AAV-producing cells by adding 1/80 volume of 0.5 M EDTA (pH 8.0)
+to the culture medium; incubate at room temperature for 10 min.
+2. Collect the cells in a centrifuge tube from the flask.
+3. Centrifuge at 1,700 - 2,000g for 10 min at 4℃ and discard the supernatant.
+4. Centrifuge again at 1,700 - 2,000g for 1 min at 4℃ and remove the supernatant completely.
+```{note}
+Be sure to completely remove the supernatant, because remaining
+supernatant could impair virus purification.
+```
+5. Loosen the cell pellet well by tapping or vortexing.
+```{note}
+If the cell pellet is not loosened sufficiently, the purification efficiency
+can be decreased. Make sure there are no cell clumps before
+proceeding to the next step.
+```
+
+6. Add 2 ml of AAV Extraction Solution A plus.
+7. Resuspend by vortexing for 15 sec.
+
+```{note}
+Continue to vortex until there are no remaining cell clumps.
+```
+
+8. Incubate for 5 min at room temperature and then vortex again for 15 sec
+9. Centrifuge at 4,000 - 9,000g for 10 min at 4℃
+Note: In some cases, the virus recovery can be improved by repeating
+steps 7 - 9.
+10. Transfer the supernatant in a new sterile centrifuge tube using a pipet to
+avoid contamination. Add 1/10 volume of AAV Extraction Solution B to the
+supernatant.
+
+```{note}
+The virus suspension can be stored at -80℃. Alternatively,
+promptly proceed to step VI-2-1. If the virus suspension is stored
+at -80℃, thaw in a 37℃ incubator before using. Be sure to use a
+tube that is resistant to freezing and centrifugation when a virus
+suspension is stored at -80℃.
+```
+
+```{note}
+When AAV Extraction Solution B is added, the color of the solution
+may turn pink in some cases; this does not affect performance.
+```
+
+``Purification``
+
+VI-2. Purification and concentration of AAV particles
+Note: Use swing bucket rotors for steps VI-2-5, VI-2-6, and VI-2-7.
+1. Add 1/100 volume of Cryonase Cold-active Nuclease to the virus suspension
+at step VI-1-10, and then incubate at 37℃ for 1 hr.
+1. Add 1/10 volume of Precipitator A, vortex for 10 sec, incubate at 37℃ for
+30 min, and vortex again for 10 sec.
+
+```{note}
+Precipitator A may produce a white precipitate at low temperature,
+however this does not affect the quality or performance of this
+reagent. If a precipitate is present, dissolve it completely at 37℃
+before use.
+```
+
+```{note}
+Although a precipitate may form during the incubation, this is not
+a problem. Proceed to the next step.
+```
+
+3. Add 1/20 volume of Precipitator B to the mixture at the step above, vortex
+quickly for 10 sec, and then centrifuge at 5,000 - 9,000g for 5 min at 4℃.
+Note: A precipitate may be formed after adding Precipitator B, but
+proceed to centrifugation.
+4. Filter the supernatant using Millex-HV 0.45 μm.
+5. Transfer the filtrate containing AAV vector into a filter device of Amicon Ultra-4,
+100 kDa. Centrifuge at 2,000g for 5 min at 15℃, and then confirm that the
+AAV solution in the filter device is <0.4 ml.
+```{note}
+If the volume of the solution is >0.4 ml, continue to centrifuge.
+```
+
+6.  After removing the filtrate, add 1 ml of Suspension Buffer in the filter device
+of the Amicon Ultra-4 and mix the solution uniformly by pipetting. Centrifuge
+at 2,000g for 5 min at 15℃, and then confirm that the AAV solution inside the
+filter device device is <0.4 ml.
+
+```{note}
+If the volume of the solution is >0.4 ml, continue to centrifuge.
+```
+
+7. Repeat step VI-2-6 4 times (total 5 times) to obtain an appropriate volume of
+solution.
+1. After discarding the filtrate, resuspend the solution inside of the cup of the
+Amicon Ultra-4, 100 kDa filter device by pipetting or vortexing for 30 sec and
+transfer the virus suspension to a new tube.
+
+### Option 2
 ``Collection``
 
 ``Purification``

@@ -14,6 +14,7 @@
 - Cell cutlure medium
 
 - DMEM +10% FBS + 1%P/S
+- 
 | Reagent | Volume |
 | :----:  | :----: |
 | DMEM    | 450 ml |
