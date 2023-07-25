@@ -1,8 +1,4 @@
-# Photolithgraphy 
-
-```{note}
-This page is still under active development
-```
+# Softlithgraphy 
 
 ## Equipments
 
