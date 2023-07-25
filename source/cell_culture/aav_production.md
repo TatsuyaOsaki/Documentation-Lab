@@ -89,9 +89,7 @@ supernatant could impair virus purification.
 5. Loosen the cell pellet well by tapping or vortexing.
 
 ```{note}
-If the cell pellet is not loosened sufficiently, the purification efficiency
-can be decreased. Make sure there are no cell clumps before
-proceeding to the next step.
+If the cell pellet is not loosened sufficiently, the purification efficiency can be decreased. Make sure there are no cell clumps before proceeding to the next step.
 ```
 
 6. Add 2 ml of AAV Extraction Solution A plus.
@@ -103,23 +101,19 @@ Continue to vortex until there are no remaining cell clumps.
 
 8. Incubate for 5 min at room temperature and then vortex again for 15 sec
 9. Centrifuge at 4,000 - 9,000g for 10 min at 4℃
-Note: In some cases, the virus recovery can be improved by repeating
-steps 7 - 9.
-10. Transfer the supernatant in a new sterile centrifuge tube using a pipet to
-avoid contamination. Add 1/10 volume of AAV Extraction Solution B to the
+```{note}
+In some cases, the virus recovery can be improved by repeating steps 7 - 9.
+```
+10. Transfer the supernatant in a new sterile centrifuge tube using a pipet to avoid contamination. Add 1/10 volume of AAV Extraction Solution B to the
 supernatant.
 
 ```{note}
-The virus suspension can be stored at -80℃. Alternatively,
-promptly proceed to step VI-2-1. If the virus suspension is stored
-at -80℃, thaw in a 37℃ incubator before using. Be sure to use a
-tube that is resistant to freezing and centrifugation when a virus
-suspension is stored at -80℃.
+The virus suspension can be stored at -80℃. Alternatively, promptly proceed to step VI-2-1. 
+If the virus suspension is stored at -80℃, thaw in a 37℃ incubator before using. Be sure to use a tube that is resistant to freezing and centrifugation when a virus suspension is stored at -80℃.
 ```
 
 ```{note}
-When AAV Extraction Solution B is added, the color of the solution
-may turn pink in some cases; this does not affect performance.
+When AAV Extraction Solution B is added, the color of the solution may turn pink in some cases; this does not affect performance.
 ```
 
 #### VI-2. Purification and concentration of AAV particles
@@ -127,18 +121,14 @@ may turn pink in some cases; this does not affect performance.
 ``Purification``
 
 ```{note}
-Note: Use swing bucket rotors for steps VI-2-5, VI-2-6, and VI-2-7.
+Use swing bucket rotors for steps VI-2-5, VI-2-6, and VI-2-7.
 ```
 
-1. Add 1/100 volume of Cryonase Cold-active Nuclease to the virus suspension
-at step VI-1-10, and then incubate at 37℃ for 1 hr.
-2. Add 1/10 volume of Precipitator A, vortex for 10 sec, incubate at 37℃ for
-30 min, and vortex again for 10 sec.
+1. Add 1/100 volume of Cryonase Cold-active Nuclease to the virus suspension at step VI-1-10, and then incubate at 37℃ for 1 hr.
+2. Add 1/10 volume of Precipitator A, vortex for 10 sec, incubate at 37℃ for 30 min, and vortex again for 10 sec.
 
 ```{note}
-Precipitator A may produce a white precipitate at low temperature,
-however this does not affect the quality or performance of this
-reagent. If a precipitate is present, dissolve it completely at 37℃
+Precipitator A may produce a white precipitate at low temperature, however this does not affect the quality or performance of this reagent. If a precipitate is present, dissolve it completely at 37℃
 before use.
 ```
 
@@ -147,25 +137,20 @@ Although a precipitate may form during the incubation, this is not
 a problem. Proceed to the next step.
 ```
 
-3. Add 1/20 volume of Precipitator B to the mixture at the step above, vortex
-quickly for 10 sec, and then centrifuge at 5,000 - 9,000g for 5 min at 4℃.
+3. Add 1/20 volume of Precipitator B to the mixture at the step above, vortex quickly for 10 sec, and then centrifuge at 5,000 - 9,000g for 5 min at 4℃.
 
 ```{note}
 A precipitate may be formed after adding Precipitator B, but proceed to centrifugation.
 ```
 
 4. Filter the supernatant using Millex-HV 0.45 μm.
-5. Transfer the filtrate containing AAV vector into a filter device of Amicon Ultra-4, 100 kDa. Centrifuge at 2,000g for 5 min at 15℃, and then confirm that the
-AAV solution in the filter device is <0.4 ml.
+5. Transfer the filtrate containing AAV vector into a filter device of Amicon Ultra-4, 100 kDa. Centrifuge at 2,000g for 5 min at 15℃, and then confirm that the AAV solution in the filter device is <0.4 ml.
 
 ```{note}
 If the volume of the solution is >0.4 ml, continue to centrifuge.
 ```
 
-6. After removing the filtrate, add 1 ml of Suspension Buffer in the filter device
-of the Amicon Ultra-4 and mix the solution uniformly by pipetting. Centrifuge
-at 2,000g for 5 min at 15℃, and then confirm that the AAV solution inside the
-filter device device is <0.4 ml.
+6. After removing the filtrate, add 1 ml of Suspension Buffer in the filter device of the Amicon Ultra-4 and mix the solution uniformly by pipetting. Centrifuge at 2,000g for 5 min at 15℃, and then confirm that the AAV solution inside the filter device device is <0.4 ml.
 
 ```{note}
 If the volume of the solution is >0.4 ml, continue to centrifuge.
