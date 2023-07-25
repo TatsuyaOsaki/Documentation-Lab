@@ -185,7 +185,7 @@
 
                     <li class="nav-item">
                       <a class="nav-link nav-internal" href="../microfabrication/index.html">
-                        Computational anlysis
+                        Micro fabrication
                       </a>
                     </li>
                 
@@ -365,7 +365,7 @@ document.write(`
 
                     <li class="nav-item">
                       <a class="nav-link nav-internal" href="../microfabrication/index.html">
-                        Computational anlysis
+                        Micro fabrication
                       </a>
                     </li>
                 
@@ -532,37 +532,180 @@ document.write(`
 <li><p>TrypLE Express</p></li>
 <li><p>Penicillin/Streptomycin (P/S)</p></li>
 <li><p>Cell cutlure medium</p></li>
-<li><p>DMEM +10% FBS + 1%P/S
-| Reagent | Volume |
-| :—-:  | :—-: |
-| DMEM    | 450 ml |
-| FBS     |  50 ml |
-| P/S     |   5 ml |
-|
-| Total   | 505 ml |</p></li>
+<li><p>PEI, 1 mg/mL</p></li>
+<li><p>0.22 μm polyethersulfone (PES) filter</p></li>
+<li><p>0.45 μm PES filter</p></li>
+<li><p>psPAX2 (Addgene, <a class="reference external" href="https://www.addgene.org/12260/">#12260</a>)</p></li>
+<li><p>pMD2.G (Addgene, <a class="reference external" href="https://www.addgene.org/12259/">#12259</a>)</p></li>
+<li><p>pRSV-REV (Addgene, <a class="reference external" href="https://www.addgene.org/12253/">#12253</a>)</p></li>
+<li><p>pMDLg/pRRE  (Addgene, <a class="reference external" href="https://www.addgene.org/2251/">#12251</a>)</p></li>
+<li><p>Transfecr plasmid</p></li>
 </ul>
+<p>Culture medium
+: DMEM +10% FBS + 1%P/S</p>
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th style="text-align: center;">Reagent</th>
+<th style="text-align: center;">Volume</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">DMEM</td>
+<td style="text-align: center;">450 ml</td>
+</tr>
+<tr>
+<td style="text-align: center;">FBS</td>
+<td style="text-align: center;">50 ml</td>
+</tr>
+<tr>
+<td style="text-align: center;">P/S</td>
+<td style="text-align: center;">5 ml</td>
+</tr>
+<tr>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr>
+<td style="text-align: center;">Total</td>
+<td style="text-align: center;">505 ml</td>
+</tr>
+</tbody>
+</table>
 </section>
 <hr class="docutils" />
 <section id="protocols">
 <h2>Protocols<a class="headerlink" href="#protocols" title="Permalink to this heading">#</a></h2>
-<p><code class="docutils literal notranslate"><span class="pre">Thawing</span> <span class="pre">cells</span> <span class="pre">from</span> <span class="pre">freezing</span> <span class="pre">cells</span></code></p>
-<p>Plate 4 75 cm3 flasks of 293T cells.
-Day 1: Once they are confluent, prepare 6 10 cm 3 plates, 5.10 6 to 5.10 7 cells per plate.
-Day 2 (or later): once the cells are 80% confluent, transfection:</p>
+<section id="thawing-cells-from-freezing-cells">
+<h3>Thawing cells from freezing cells<a class="headerlink" href="#thawing-cells-from-freezing-cells" title="Permalink to this heading">#</a></h3>
 <ol class="simple">
-<li><p>Add 240 uL Extreme 9 to 3 mL of DME (serum free). Incubate at RT for 5 min.</p></li>
-<li><p>Add the following amount of DNA to 600 uL of DME (serum free) and mix:
-30 ug gene of interest
-30 ug VgV
-30 ug CMV delta7871
-Add the mix from step 2 to the Extreme gene 9/DME mix from Step 1. Mix well and incubate at
-RT for 15 min.
-Refresh the medium of the 293T culture.
-Add Fugen DNA mix drop by drop to the culture (0.5 mL per plate).
-Day 3: nothing
-Day 4: Harvest the medium. Filter with 0.45 um filter. Centrifugate at 23000 rpm for 1:45.
-Resuspend in 1 mL of PBS- or HBSS per centrifuge tube. Freeze 200 uL aliquots.</p></li>
+<li><p>Seed 293T packaging cells at 3.8×106 cells per plate in DMEM complete in 10 cm tissue culture plates.</p></li>
+<li><p>Incubate the cells at 37 ℃, 5% CO2 for ~20 hours.</p></li>
+<li><p>Prepare a mixture of the 3 transfection plasmids:</p></li>
 </ol>
+<p>2nd generation lenti virus
+: 3 plasmid system</p>
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th style="text-align: center;">Reagent</th>
+<th style="text-align: center;">Amount per 10 cm dish</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">psPAX2</td>
+<td style="text-align: center;">1.3 pmol</td>
+</tr>
+<tr>
+<td style="text-align: center;">pMD2.G</td>
+<td style="text-align: center;">0.72 pmol</td>
+</tr>
+<tr>
+<td style="text-align: center;">Transfer Plasmid*</td>
+<td style="text-align: center;">1.64 pmol</td>
+</tr>
+<tr>
+<td style="text-align: center;">OptiPro SFM to total volume</td>
+<td style="text-align: center;">500 μL</td>
+</tr>
+</tbody>
+</table>
+<p>3rd generation lenti virus
+: 4 plasmid system</p>
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th style="text-align: center;">Reagent</th>
+<th style="text-align: center;">Amount per 10 cm dish</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">pMDLg/pRRE</td>
+<td style="text-align: center;">1.3 pmol</td>
+</tr>
+<tr>
+<td style="text-align: center;">pRSV-REV</td>
+<td style="text-align: center;">0.72 pmol</td>
+</tr>
+<tr>
+<td style="text-align: center;">pMD2.G</td>
+<td style="text-align: center;">0.72 pmol</td>
+</tr>
+<tr>
+<td style="text-align: center;">Transfer Plasmid*</td>
+<td style="text-align: center;">1.64 pmol</td>
+</tr>
+<tr>
+<td style="text-align: center;">OptiPro SFM to total volume</td>
+<td style="text-align: center;">500 μL</td>
+</tr>
+</tbody>
+</table>
+<div class="admonition important">
+<p class="admonition-title">Important</p>
+<p>Endotoxins can inhibit transfection, therefore, plasmid DNA purification should include an endotoxin removal step. For high quality plasmid DNA, the plasimd should also be propagated in an endonuclease negative E. coli strain such as NEB stable.</p>
+</div>
+<ol class="simple">
+<li><p>Dilute the above 500 μL mixture into 500 μL PEI-OptiPro SFM with enough PEI such that the ratio of μg DNA:μg PEI is 1:3 (1000 μL total per 10 cm dish).</p></li>
+<li></li>
+</ol>
+<table border="1" class="docutils">
+<thead>
+<tr>
+<th style="text-align: center;">Ratio of DNA:PEI</th>
+<th style="text-align: center;">μg of DNA</th>
+<th style="text-align: center;">μL of 1 mg/mL PEI</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: center;">1:1</td>
+<td style="text-align: center;">18.9</td>
+<td style="text-align: center;">18.9</td>
+</tr>
+<tr>
+<td style="text-align: center;">1:2</td>
+<td style="text-align: center;">18.9</td>
+<td style="text-align: center;">37.8</td>
+</tr>
+<tr>
+<td style="text-align: center;">1:3</td>
+<td style="text-align: center;">18.9</td>
+<td style="text-align: center;">56.7</td>
+</tr>
+<tr>
+<td style="text-align: center;">1:4</td>
+<td style="text-align: center;">18.9</td>
+<td style="text-align: center;">75.6</td>
+</tr>
+<tr>
+<td style="text-align: center;">1:5</td>
+<td style="text-align: center;">18.9</td>
+<td style="text-align: center;">94.5</td>
+</tr>
+<tr>
+<td style="text-align: center;">1:6</td>
+<td style="text-align: center;">18.9</td>
+<td style="text-align: center;">113.4</td>
+</tr>
+</tbody>
+</table>
+<ol class="simple">
+<li><p>Gently add the diluted PEI to the diluted DNA. Add the diluted PEI dropwise while gently flicking the diluted DNA tube.</p></li>
+<li><p>Incubate the mixture 15-20 min at room temperature.</p></li>
+<li><p>Carefully transfer the transfection mix to the Lenti-X 293T packaging cells. Add the transfection mix dropwise being careful not to dislodge the cells.</p></li>
+<li><p>Incubate the cells for 18 hours, or until the following morning.
+The following morning, carefully aspirate the media. Replace the media with 15 mL of DMEM complete or OptiPro SFM.</p></li>
+<li><p>Incubate the cells.</p></li>
+<li><p>Virus can be harvested at 48, 72, and 96 hours post transfection in individual harvests or a combined harvest where all the individual harvests are pooled. If pooling harvests, transfer the harvested media to a polypropylene storage tube and store at 4 ℃ between harvest.</p></li>
+<li><p>Centrifuge the viral supernatant at ~500 x g for 5 minutes to pellet any packaging cells that were collected during harvesting.</p></li>
+<li><p>Filter supernatant through a 0.45 μm PES filter.</p></li>
+<li><p>The viral supernatant can be stored at 4 ℃ for several hours but should be aliquotted and snap frozen in liquid nitrogen and stored at -80 ℃ as soon as possible to avoid loss of titer.</p></li>
+</ol>
+</section>
 </section>
 </section>
 
@@ -615,7 +758,10 @@ Resuspend in 1 mL of PBS- or HBSS per centrifuge tube. Freeze 200 uL aliquots.</
     <ul class="visible nav section-nav flex-column">
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#cell-lines">Cell lines</a></li>
 <li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#reagent">Reagent</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#protocols">Protocols</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#protocols">Protocols</a><ul class="visible nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#thawing-cells-from-freezing-cells">Thawing cells from freezing cells</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
