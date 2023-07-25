@@ -29,7 +29,7 @@ Culture medium
 : DMEM +10% FBS + 1%P/S
 
 | Reagent | Volume |
-| :----:  | :----: |
+| :---- | ----: |
 | DMEM    | 450 ml |
 | FBS     |  50 ml |
 | P/S     |   5 ml |
@@ -49,7 +49,7 @@ Culture medium
 : 3 plasmid system
 
 |           Reagent           | Amount per 10 cm dish |
-|:---------------------------:|:---------------------:|
+|-----------------------------|---------------------:|
 |           psPAX2            |       1.3 pmol        |
 |           pMD2.G            |       0.72 pmol       |
 |      Transfer Plasmid*      |       1.64 pmol       |
@@ -59,7 +59,7 @@ Culture medium
 : 4 plasmid system
 
 |           Reagent           | Amount per 10 cm dish |
-|:---------------------------:|:---------------------:|
+|:---------------------------|--------------------:|
 |           pMDLg/pRRE        |       1.3 pmol        |
 |           pRSV-REV          |       0.72 pmol       |
 |           pMD2.G            |       0.72 pmol       |
@@ -70,8 +70,8 @@ Culture medium
 Endotoxins can inhibit transfection, therefore, plasmid DNA purification should include an endotoxin removal step. For high quality plasmid DNA, the plasimd should also be propagated in an endonuclease negative E. coli strain such as NEB stable.
 ```
 
-4. Dilute the above 500 μL mixture into 500 μL PEI-OptiPro SFM with enough PEI such that the ratio of μg DNA:μg PEI is 1:3 (1000 μL total per 10 cm dish).
-5. 
+1. Dilute the above 500 μL mixture into 500 μL PEI-OptiPro SFM with enough PEI such that the ratio of μg DNA:μg PEI is 1:3 (1000 μL total per 10 cm dish).
+2. 
    ```{tips}
    There can be batch to batch variation when making the PEI working stock, therefore the ratio of μg DNA:μg PEI needs to be empirically determined. Once a batch of PEI is prepared, transfect cells with a fluorescent plasmid using a variety of ratios. Check the cells 1-2 days after transfection to determine what ratio gives the highest percentage of GFP positive cells.
    ```
