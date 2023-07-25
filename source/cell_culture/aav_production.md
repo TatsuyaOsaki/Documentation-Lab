@@ -158,6 +158,4 @@ If the volume of the solution is >0.4 ml, continue to centrifuge.
 
 ### Option 2
 
-``Collection``
-
-``Purification``
+#### 
