@@ -17,6 +17,7 @@ This page is still under active development.
 
 ```{toctree}
 :caption: Microfabrication
+:maxdepth: 3
 
 photolitho
 softlitho
