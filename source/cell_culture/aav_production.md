@@ -40,7 +40,7 @@ Culture medium
 
 ## Protocols
 
-``Thawing cells from freezing cells``
+### Thawing cells from freezing cells``
 
 1. Thaw AAV293 cells in 37°C waterbath.
 2. Add to 5 mL of 293T culture medium.
@@ -59,11 +59,9 @@ Change medium every day or every two days. If you don’t and the medium gets ye
 10. Resuspend in 8 mL medium per flask.
 11. Plate 2 mL cell suspension + 8 mL of fresh medium per flask to split ¼.
 
-``Transfection``
+### Transfection
 
-### Option 1
-
-``Collection``
+### Collection Option 1
 
 ```{important}
 The protocol below describes purification of AAV particles from producer cells in one T225 flask or four 10 cm dishes.
@@ -91,7 +89,6 @@ supernatant could impair virus purification.
 ```{note}
 If the cell pellet is not loosened sufficiently, the purification efficiency can be decreased. Make sure there are no cell clumps before proceeding to the next step.
 ```
-
 6. Add 2 ml of AAV Extraction Solution A plus.
 7. Resuspend by vortexing for 15 sec.
 
