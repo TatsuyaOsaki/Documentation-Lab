@@ -25,6 +25,7 @@ pip install pydata-sphinx-theme
 conda install pydata-sphinx-theme --channel conda-forge
 pip install sphinx-favicon
 pip install sphinx_design
+pip install sphinx-markdown-tables
 
 ```
 Then, set the theme
