@@ -25,6 +25,8 @@ This is a dictionary with `key: val` pairs that you can configure in various way
 :caption: Others
 
 room_and_equipment
+Brian2
+Helen_rotation
 rathi_training
 
 ```
