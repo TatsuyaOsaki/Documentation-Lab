@@ -7,7 +7,7 @@
 
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.18.1: http://docutils.sourceforge.net/" />
     <link href="../_static/favicon-16x16.png" rel="icon" type="image/png">
     <link href="../_static/favicon-32x32.png" rel="icon" type="image/png">
     <title>Cryosectioning &#8212; Tatsuya Osaki 2.2 documentation</title>
@@ -20,12 +20,12 @@
   </script>
   
   <!-- Loaded before other Sphinx assets -->
-  <link href="../_static/styles/theme.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/bootstrap.css?digest=e353d410970836974a52" rel="stylesheet" />
-<link href="../_static/styles/pydata-sphinx-theme.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../_static/styles/theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+<link href="../_static/styles/bootstrap.css?digest=ac02cc09edc035673794" rel="stylesheet" />
+<link href="../_static/styles/pydata-sphinx-theme.css?digest=ac02cc09edc035673794" rel="stylesheet" />
 
   
-  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=e353d410970836974a52" rel="stylesheet" />
+  <link href="../_static/vendor/fontawesome/6.1.2/css/all.min.css?digest=ac02cc09edc035673794" rel="stylesheet" />
   <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-solid-900.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-brands-400.woff2" />
 <link rel="preload" as="font" type="font/woff2" crossorigin href="../_static/vendor/fontawesome/6.1.2/webfonts/fa-regular-400.woff2" />
@@ -34,8 +34,9 @@
     <link rel="stylesheet" type="text/css" href="../_static/design-style.1e8bd061cd6da7fc9cf755528e8ffc24.min.css" />
   
   <!-- Pre-loaded scripts that we'll load fully later -->
-  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=e353d410970836974a52" />
-<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52" />
+  <link rel="preload" as="script" href="../_static/scripts/bootstrap.js?digest=ac02cc09edc035673794" />
+<link rel="preload" as="script" href="../_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794" />
+  <script src="../_static/vendor/fontawesome/6.1.2/js/all.min.js?digest=ac02cc09edc035673794"></script>
 
     <script data-url_root="../" id="documentation_options" src="../_static/documentation_options.js"></script>
     <script src="../_static/doctools.js"></script>
@@ -46,7 +47,7 @@
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
     <link rel="next" title="Flowcytometry &amp; cell sorting" href="flowcytometry.html" />
-    <link rel="prev" title="RT-PCR" href="rt_pcr.html" />
+    <link rel="prev" title="RT-PCR, from total RNA" href="rt_pcr.html" />
   <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <meta name="docsearch:language" content="en"/>
   </head>
@@ -57,6 +58,15 @@
   
   
   <a class="skip-link" href="#main-content">Skip to main content</a>
+  
+  <div id="pst-scroll-pixel-helper"></div>
+
+  
+  <button type="button" class="btn rounded-pill" id="pst-back-to-top">
+    <i class="fa-solid fa-arrow-up"></i>
+    Back to top
+  </button>
+
   
   <input type="checkbox"
           class="sidebar-toggle"
@@ -97,7 +107,8 @@
     <span class="fa-solid fa-bars"></span>
   </label>
   
-  <div class="navbar-header-items__start">
+  
+  <div class="col-lg-3 navbar-header-items__start">
     
       <div class="navbar-item">
   
@@ -121,7 +132,6 @@
 </a></div>
     
   </div>
-  
   
   <div class="col-lg-9 navbar-header-items">
     
@@ -170,41 +180,41 @@
                       </a>
                     </li>
                 
-            <div class="nav-item dropdown">
-                <button class="btn dropdown-toggle nav-item" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <li class="nav-item dropdown">
+                <button class="btn dropdown-toggle nav-item" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-controls="pst-header-nav-more-links">
                     More
                 </button>
-                <div class="dropdown-menu">
+                <ul id="pst-header-nav-more-links" class="dropdown-menu">
                     
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../optics/index.html">
+                      <a class="nav-link dropdown-item nav-internal" href="../optics/index.html">
                         Optics
                       </a>
                     </li>
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../microfabrication/index.html">
+                      <a class="nav-link dropdown-item nav-internal" href="../microfabrication/index.html">
                         Microfabrication, microfludic device
                       </a>
                     </li>
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../others/index.html">
+                      <a class="nav-link dropdown-item nav-internal" href="../others/index.html">
                         Others
                       </a>
                     </li>
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../development.html">
+                      <a class="nav-link dropdown-item nav-internal" href="../development.html">
                         Development
                       </a>
                     </li>
                 
-                </div>
-            </div>
+                </ul>
+            </li>
             
   </ul>
 </nav></div>
@@ -216,23 +226,25 @@
       
         <div class="navbar-item navbar-persistent--container">
           
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
         </div>
       
       
         <div class="navbar-item">
 <script>
 document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
   </button>
 `);
 </script></div>
@@ -265,8 +277,8 @@ document.write(`
           
           
           
-          <a href="https://github.com/TatsuyaOsaki/Documentation-Lab" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-github"></i></span>
-            <label class="sr-only">GitHub</label></a>
+          <a href="https://github.com/TatsuyaOsaki/Documentation-Lab" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-github fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">GitHub</span></a>
         </li>
 </ul></div>
       
@@ -276,18 +288,20 @@ document.write(`
   
   
     <div class="navbar-persistent--mobile">
-<script>
-document.write(`
-  <button class="btn btn-sm navbar-btn search-button search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
+ <script>
+ document.write(`
+   <button class="btn navbar-btn search-button-field search-button__button" title="Search" aria-label="Search" data-bs-placement="bottom" data-bs-toggle="tooltip">
     <i class="fa-solid fa-magnifying-glass"></i>
-  </button>
-`);
-</script>
+    <span class="search-button__default-text">Search</span>
+    <span class="search-button__kbd-shortcut"><kbd class="kbd-shortcut__modifier">Ctrl</kbd>+<kbd class="kbd-shortcut__modifier">K</kbd></span>
+   </button>
+ `);
+ </script>
     </div>
   
 
   
-    <label class="sidebar-toggle secondary-toggle" for="__secondary">
+    <label class="sidebar-toggle secondary-toggle" for="__secondary" tabindex="0">
       <span class="fa-solid fa-outdent"></span>
     </label>
   
@@ -350,41 +364,41 @@ document.write(`
                       </a>
                     </li>
                 
-            <div class="nav-item dropdown">
-                <button class="btn dropdown-toggle nav-item" type="button" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            <li class="nav-item dropdown">
+                <button class="btn dropdown-toggle nav-item" type="button" data-bs-toggle="dropdown" aria-expanded="false" aria-controls="pst-header-nav-more-links">
                     More
                 </button>
-                <div class="dropdown-menu">
+                <ul id="pst-header-nav-more-links" class="dropdown-menu">
                     
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../optics/index.html">
+                      <a class="nav-link dropdown-item nav-internal" href="../optics/index.html">
                         Optics
                       </a>
                     </li>
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../microfabrication/index.html">
+                      <a class="nav-link dropdown-item nav-internal" href="../microfabrication/index.html">
                         Microfabrication, microfludic device
                       </a>
                     </li>
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../others/index.html">
+                      <a class="nav-link dropdown-item nav-internal" href="../others/index.html">
                         Others
                       </a>
                     </li>
                 
 
                     <li class="nav-item">
-                      <a class="nav-link nav-internal" href="../development.html">
+                      <a class="nav-link dropdown-item nav-internal" href="../development.html">
                         Development
                       </a>
                     </li>
                 
-                </div>
-            </div>
+                </ul>
+            </li>
             
   </ul>
 </nav></div>
@@ -398,10 +412,10 @@ document.write(`
           <div class="navbar-item">
 <script>
 document.write(`
-  <button class="theme-switch-button btn btn-sm btn-outline-primary navbar-btn rounded-circle" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
-    <span class="theme-switch" data-mode="light"><i class="fa-solid fa-sun"></i></span>
-    <span class="theme-switch" data-mode="dark"><i class="fa-solid fa-moon"></i></span>
-    <span class="theme-switch" data-mode="auto"><i class="fa-solid fa-circle-half-stroke"></i></span>
+  <button class="btn btn-sm navbar-btn theme-switch-button" title="light/dark" aria-label="light/dark" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="theme-switch nav-link" data-mode="light"><i class="fa-solid fa-sun fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="dark"><i class="fa-solid fa-moon fa-lg"></i></span>
+    <span class="theme-switch nav-link" data-mode="auto"><i class="fa-solid fa-circle-half-stroke fa-lg"></i></span>
   </button>
 `);
 </script></div>
@@ -434,8 +448,8 @@ document.write(`
           
           
           
-          <a href="https://github.com/TatsuyaOsaki/Documentation-Lab" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-github"></i></span>
-            <label class="sr-only">GitHub</label></a>
+          <a href="https://github.com/TatsuyaOsaki/Documentation-Lab" title="GitHub" class="nav-link" rel="noopener" target="_blank" data-bs-toggle="tooltip" data-bs-placement="bottom"><span><i class="fa-brands fa-square-github fa-lg" aria-hidden="true"></i></span>
+            <span class="sr-only">GitHub</span></a>
         </li>
 </ul></div>
         
@@ -451,9 +465,10 @@ document.write(`
 <ul class="current nav bd-sidenav">
 <li class="toctree-l1"><a class="reference internal" href="dna_isolation.html">DNA isolation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="rna_isolation.html">RNA isolation</a></li>
-<li class="toctree-l1"><a class="reference internal" href="rt_pcr.html">RT-PCR</a></li>
+<li class="toctree-l1"><a class="reference internal" href="rt_pcr.html">RT-PCR, from total RNA</a></li>
 <li class="toctree-l1 current active"><a class="current reference internal" href="#">Cryosectioning</a></li>
 <li class="toctree-l1"><a class="reference internal" href="flowcytometry.html">Flowcytometry &amp; cell sorting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="immunostaining.html">Immunostaining</a></li>
 </ul>
 </div>
 </nav></div>
@@ -483,8 +498,8 @@ document.write(`
 
 
 
-<nav aria-label="Breadcrumbs">
-  <ul class="bd-breadcrumbs" role="navigation" aria-label="Breadcrumb">
+<nav aria-label="Breadcrumb">
+  <ul class="bd-breadcrumbs">
     
     <li class="breadcrumb-item breadcrumb-home">
       <a href="../index.html" class="nav-link" aria-label="Home">
@@ -511,7 +526,7 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-  <section class="tex2jax_ignore mathjax_ignore" id="cryosectioning">
+  <section id="cryosectioning">
 <h1>Cryosectioning<a class="headerlink" href="#cryosectioning" title="Permalink to this heading">#</a></h1>
 <section id="materials-reagents">
 <h2>Materials &amp; Reagents<a class="headerlink" href="#materials-reagents" title="Permalink to this heading">#</a></h2>
@@ -527,22 +542,22 @@ document.write(`
 </ul>
 <table class="table">
 <thead>
-<tr class="row-odd"><th class="head text-align:left"><p>Reagent</p></th>
-<th class="head text-align:right"><p>Volume</p></th>
+<tr class="row-odd"><th class="head text-left"><p>Reagent</p></th>
+<th class="head text-right"><p>Volume</p></th>
 </tr>
 </thead>
 <tbody>
-<tr class="row-even"><td class="text-align:left"><p>DI water</p></td>
-<td class="text-align:right"><p>350 g</p></td>
+<tr class="row-even"><td class="text-left"><p>DI water</p></td>
+<td class="text-right"><p>350 g</p></td>
 </tr>
-<tr class="row-odd"><td class="text-align:left"><p>Sucrose</p></td>
-<td class="text-align:right"><p>150 g</p></td>
+<tr class="row-odd"><td class="text-left"><p>Sucrose</p></td>
+<td class="text-right"><p>150 g</p></td>
 </tr>
-<tr class="row-even"><td class="text-align:left"><p></p></td>
-<td class="text-align:right"><p></p></td>
+<tr class="row-even"><td class="text-left"><p></p></td>
+<td class="text-right"><p></p></td>
 </tr>
-<tr class="row-odd"><td class="text-align:left"><p>Total</p></td>
-<td class="text-align:right"><p>500 ml</p></td>
+<tr class="row-odd"><td class="text-left"><p>Total</p></td>
+<td class="text-right"><p>500 ml</p></td>
 </tr>
 </tbody>
 </table>
@@ -584,7 +599,7 @@ document.write(`
 <h2>Protocol<a class="headerlink" href="#protocol" title="Permalink to this heading">#</a></h2>
 <section id="organoid-preparation-sucrose-gradient">
 <h3>Organoid preparation (sucrose gradient)<a class="headerlink" href="#organoid-preparation-sucrose-gradient" title="Permalink to this heading">#</a></h3>
-<ol>
+<ol class="arabic">
 <li><p>Incubate fixed organoids in sucrose 20% overnight</p></li>
 <li><p>Incubate in sucrose 30% for &gt; 1h</p></li>
 <li><p>Take either a 6 or 12 well plate
@@ -648,7 +663,7 @@ Manual: https://www.americaninstrument.com/pdf/1779E-CRYOSTAT.pdf</p>
 </pre></div>
 </div>
 <p>Preparing cryostat:</p>
-<ol>
+<ol class="arabic">
 <li><p>Place sample on flat surface inside cryostat (such as quick freeze surface (8)) while setting up</p></li>
 <li><p>Place blade and Flip knife guard (if not done so already)</p></li>
 <li><p>Rotate lever located directly right of stage to loosen blade holder</p></li>
@@ -687,7 +702,7 @@ Trim 2-4 times between taking samples</p></li>
 </ul>
 <hr class="docutils" />
 <p>Cleaning</p>
-<ol class="simple">
+<ol class="arabic simple">
 <li><p>Remove specimen disk and remaining specimen and let thaw on paper towel</p></li>
 <li><p>Remove specimen from disk and clean disk with 70% EtOH</p></li>
 <li><p>Dry and place back inside cryostat</p></li>
@@ -702,7 +717,7 @@ Trim 2-4 times between taking samples</p></li>
 <hr class="docutils" />
 <section id="immunostaining-protocol">
 <h3>Immunostaining Protocol<a class="headerlink" href="#immunostaining-protocol" title="Permalink to this heading">#</a></h3>
-<ol>
+<ol class="arabic">
 <li><p>Prepare TBS-T + 3% BSA solution</p>
 <ul class="simple">
 <li><p>6g of BSA in 200mL of TBS-T 1x (BSA powder, Millipore Sigma A7906-100G, stored in iPSC 4C fridge)</p></li>
@@ -776,11 +791,10 @@ Trim 2-4 times between taking samples</p></li>
               
               
               
-                <footer class="bd-footer-article">
-                  
-<div class="footer-article-items footer-article__inner">
-  
-    <div class="footer-article-item"><!-- Previous / next buttons -->
+              
+              
+                <footer class="prev-next-footer">
+                  <!-- Previous / next buttons -->
 <div class="prev-next-area">
     <a class="left-prev"
        href="rt_pcr.html"
@@ -788,7 +802,7 @@ Trim 2-4 times between taking samples</p></li>
       <i class="fa-solid fa-angle-left"></i>
       <div class="prev-next-info">
         <p class="prev-next-subtitle">previous</p>
-        <p class="prev-next-title">RT-PCR</p>
+        <p class="prev-next-title">RT-PCR, from total RNA</p>
       </div>
     </a>
     <a class="right-next"
@@ -800,10 +814,7 @@ Trim 2-4 times between taking samples</p></li>
       </div>
       <i class="fa-solid fa-angle-right"></i>
     </a>
-</div></div>
-  
 </div>
-
                 </footer>
               
             </div>
@@ -850,8 +861,8 @@ Trim 2-4 times between taking samples</p></li>
   </div>
   
   <!-- Scripts loaded after <body> so the DOM is not blocked -->
-  <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
-<script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
+  <script src="../_static/scripts/bootstrap.js?digest=ac02cc09edc035673794"></script>
+<script src="../_static/scripts/pydata-sphinx-theme.js?digest=ac02cc09edc035673794"></script>
 
   <footer class="bd-footer">
 <div class="bd-footer__inner bd-page-width">
@@ -877,10 +888,11 @@ Trim 2-4 times between taking samples</p></li>
     </div>
   
   
+  
     <div class="footer-items__end">
       
         <div class="footer-item"><p class="theme-version">
-  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.13.3.
+  Built with the <a href="https://pydata-sphinx-theme.readthedocs.io/en/stable/index.html">PyData Sphinx Theme</a> 0.14.1.
 </p></div>
       
     </div>
