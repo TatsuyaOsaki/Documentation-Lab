@@ -11,8 +11,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
     .. grid-item-card:: Cell culture
       :img-top: ./picture/neuron1.png
       :link: cell_culture/index
-      :gutter: 4
-      :columns: 1 1 4 4
+
 
       - Cell culture
       - iPS cell culture
@@ -21,8 +20,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
     .. grid-item-card:: Genome editing
       :img-top: ./picture/dna-color.png
       :link: genome_editing/index
-      :gutter: 4
-      :columns: 1 1 4 4
+
 
       - Plasmid cloning
       - Transfection
@@ -31,8 +29,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
     .. grid-item-card:: Molecular biology
       :img-top: ./picture/biology.png
       :link: molecular_bio/index
-      :gutter: 4
-      :columns: 1 1 4 4
 
       - Gene expression
       - Immunostaining
@@ -42,8 +38,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
     .. grid-item-card:: Computation
       :img-top: ./picture/program.png
       :link: dry_analysis/index
-      :gutter: 4
-      :columns: 1 1 4 4
 
       - scRNA-seq
       - MATLAB
@@ -55,7 +49,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
     .. grid-item-card:: Optics
       :padding: 3
       :img-top: ./picture/laser2.png
-      :link: optics/index      :gutter: 4
+      :link: optics/index
       :columns: 1 1 4 4
 
       - Three-photon microscope
@@ -65,7 +59,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/3d-printer2.png
       :link: microfabrication/index
-      :gutter: 4
       :columns: 1 1 4 4
 
       - Photolithography
@@ -76,7 +69,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/list.png
       :link: room_and_equipment
-      :gutter: 4
       :columns: 1 1 4 4
 
       - Equipment
@@ -86,7 +78,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/dev.png
       :link: development
-      :gutter: 4
       :columns: 1 1 4 4
       :class-card: h-100
 
@@ -95,7 +86,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
     .. grid-item-card:: Development
       :padding: 3
       :link: development
-      :gutter: 4
       :columns: 1 1 4 4
       :class-card: h-100
       - Development tips
@@ -103,7 +93,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
     .. grid-item-card:: Development
       :padding: 3
       :link: development
-      :gutter: 4
       :columns: 1 1 4 4
       :class-card: h-100
 .. toctree::
