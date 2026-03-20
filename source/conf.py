@@ -12,14 +12,18 @@
 #
 import os
 import sys
+from datetime import datetime
+
 sys.path.insert(0, os.path.abspath('.'))
 
 
 # -- Project information -----------------------------------------------------
 
 project = 'Osaki Lab'
-copyright = '2022, Tatsuya Osaki'
+#copyright = '2022, Tatsuya Osaki'
 author = 'Tatsuya Osaki'
+copyright = f"{datetime.now().year}, {author}"
+
 
 # The full version, including alpha/beta/rc tags
 release = '2.3'
@@ -71,12 +75,11 @@ html_theme_options = {
     },
     "show_toc_level": 2,
     
-    
     "icon_links": [
         {
             "name": "PyData",
             "url": "https://pydata.org",
-            "icon": "https://pydata-sphinx-theme.readthedocs.io/en/stable/_static/pydata-logo.png",
+            "icon": "https://pydata-sphinx-theme.readthedocs.io/en/v0.11.0/_static/pydata-logo.png",
             "type": "url",
             # Add additional attributes to the href link.
             # The defaults of target, rel, class, title and href may be overwritten.
