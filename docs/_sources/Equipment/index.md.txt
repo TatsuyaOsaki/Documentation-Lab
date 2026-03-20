@@ -1,4 +1,4 @@
-# Sur Lab room and equipment
+# Equipment
 
 ## Cell culture room (46-6296, PCLM Wet Lab)
 ```
