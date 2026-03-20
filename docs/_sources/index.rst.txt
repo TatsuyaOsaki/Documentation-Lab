@@ -1,5 +1,5 @@
 
-Welcome to Documentation!
+Welcome to Osaki Lab Documentation!
 =============
 
 This is the Personal documentaion for Osaki Lab
@@ -72,7 +72,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :img-top: ./picture/dev.png
       :link: development
 
-      Development tips
+      - Development tips
 
 .. toctree::
   :maxdepth: 3
