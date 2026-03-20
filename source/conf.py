@@ -67,7 +67,7 @@ html_static_path = []
 html_logo = "./picture/logo_documentation.png"
 html_theme_options = {
     "logo": {
-        "text": "Tatsuya Osaki",
+        "text": "Osaki Lab",
     },
     "show_toc_level": 2,
     
