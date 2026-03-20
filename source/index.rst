@@ -76,7 +76,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 
     .. grid-item-card:: Development
       :padding: 3
-      :img-top: ./picture/dev.png
       :link: development
 
       - Development tips
