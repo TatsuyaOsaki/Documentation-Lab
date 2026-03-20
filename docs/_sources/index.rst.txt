@@ -14,7 +14,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :link: Equipment/index
 
       - Equipment
-      
+
     .. grid-item-card:: Cell culture
       :padding: 3
       :img-top: ./picture/neuron1.png
@@ -54,8 +54,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       - MATLAB
       - Python
       - R
-
-.. grid::
 
     .. grid-item-card:: Optics
       :padding: 3
