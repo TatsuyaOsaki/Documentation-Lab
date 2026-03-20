@@ -36,6 +36,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       - WesternBlotting
 
     .. grid-item-card:: Computation
+      :padding: 3
       :img-top: ./picture/program.png
       :link: dry_analysis/index
 
@@ -98,7 +99,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 .. toctree::
   :maxdepth: 3
   :caption: Contents
-
 
   Equipment/index
   cell_culture/index
