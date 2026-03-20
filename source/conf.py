@@ -107,7 +107,7 @@ favicons = [
 ]
 
 html_sidebars = {
-    "**": ["sidebar-nav-bs", "sidebar-ethical-ads"],
+    #"**": ["sidebar-nav-bs", "sidebar-ethical-ads"],
     
     # ...
     #"secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink"]
