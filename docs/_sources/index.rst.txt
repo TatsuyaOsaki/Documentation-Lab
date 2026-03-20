@@ -119,7 +119,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
   :maxdepth: 3
   :caption: Contents
 
-  about
+
   Equipment/index
   cell_culture/index
   genome_editing/index
@@ -129,7 +129,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
   microfabrication/index
   others/index
   development
-
+  about
 
 ..  AMED_cancer
 .. brainbow
