@@ -12,7 +12,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/neuron1.png
       :link: cell_culture/index
-
       - Cell culture
       - iPS cell culture
       - Organoids
@@ -21,7 +20,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/dna-color.png
       :link: genome_editing/index
-
       - Plasmid cloning
       - Transfection
       - CRISPR/Cas9
@@ -30,7 +28,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/biology.png
       :link: molecular_bio/index
-
       - Immunostaining
       - RT-PCR
       - WesternBlotting
@@ -39,7 +36,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/program.png
       :link: dry_analysis/index
-
       - MATLAB
       - Python
       - R
