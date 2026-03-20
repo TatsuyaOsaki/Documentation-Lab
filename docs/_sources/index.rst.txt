@@ -8,6 +8,13 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 
 .. grid::
 
+    .. grid-item-card:: Equipment
+      :padding: 3
+      :img-top: ./picture/list.png
+      :link: Equipment/index
+
+      - Equipment
+      
     .. grid-item-card:: Cell culture
       :padding: 3
       :img-top: ./picture/neuron1.png
@@ -54,7 +61,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/laser2.png
       :link: optics/index
-      :columns: 1 1 4 4
 
       - Three-photon microscope
       - Two-photon microscope
@@ -63,19 +69,10 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/3d-printer2.png
       :link: microfabrication/index
-      :columns: 1 1 4 4
 
       - Photolithography
       - Softlithography
       - 3D printing
-
-    .. grid-item-card:: Others
-      :padding: 3
-      :img-top: ./picture/list.png
-      :link: room_and_equipment
-      :columns: 1 1 4 4
-
-      - Equipment
 
 
     .. grid-item-card:: Development
@@ -83,7 +80,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :img-top: ./picture/dev.png
       :link: development
       :columns: 1 1 4 4
-      :class-card: h-100
 
       - Development tips
 
@@ -92,7 +88,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :link: development
       :columns: 1 1 4 4
       :class-card: h-100
-      - Development tips
 
     .. grid-item-card:: Development
       :padding: 3
