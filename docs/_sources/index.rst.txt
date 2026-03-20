@@ -13,7 +13,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :link: cell_culture/index
       :gutter: 4
       :columns: 1 1 4 4
-      :class-card: h-100
 
       - Cell culture
       - iPS cell culture
@@ -24,7 +23,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :link: genome_editing/index
       :gutter: 4
       :columns: 1 1 4 4
-      :class-card: h-100
 
       - Plasmid cloning
       - Transfection
@@ -35,10 +33,8 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :link: molecular_bio/index
       :gutter: 4
       :columns: 1 1 4 4
-      :class-card: h-100
 
       - Gene expression
-
       - Immunostaining
       - RT-PCR
       - WesternBlotting
@@ -48,10 +44,8 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :link: dry_analysis/index
       :gutter: 4
       :columns: 1 1 4 4
-      :class-card: h-100
 
       - scRNA-seq
-
       - MATLAB
       - Python
       - R
@@ -63,7 +57,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :img-top: ./picture/laser2.png
       :link: optics/index      :gutter: 4
       :columns: 1 1 4 4
-      :class-card: h-100
 
       - Three-photon microscope
       - Two-photon microscope
@@ -74,7 +67,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :link: microfabrication/index
       :gutter: 4
       :columns: 1 1 4 4
-      :class-card: h-100
 
       - Photolithography
       - Softlithography
@@ -86,7 +78,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :link: room_and_equipment
       :gutter: 4
       :columns: 1 1 4 4
-      :class-card: h-100
 
       - Equipment
 
