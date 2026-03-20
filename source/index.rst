@@ -9,6 +9,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
 .. grid::
 
     .. grid-item-card:: Cell culture
+      :padding: 3
       :img-top: ./picture/neuron1.png
       :link: cell_culture/index
 
@@ -18,6 +19,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       - Organoids
 
     .. grid-item-card:: Genome editing
+      :padding: 3
       :img-top: ./picture/dna-color.png
       :link: genome_editing/index
 
@@ -27,6 +29,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       - CRISPR/Cas9
 
     .. grid-item-card:: Molecular biology
+      :padding: 3
       :img-top: ./picture/biology.png
       :link: molecular_bio/index
 
