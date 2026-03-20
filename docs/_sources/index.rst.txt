@@ -1,6 +1,6 @@
 
 Welcome to Osaki Lab Documentation!
-=============
+------------------------------------
 
 This is the Personal documentaion for Osaki Lab
 
@@ -83,7 +83,7 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
     .. grid-item-card:: Development
       :padding: 3
       :link: development
-      
+
 .. toctree::
   :maxdepth: 3
   :caption: Contents
