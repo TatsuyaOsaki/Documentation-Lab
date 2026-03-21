@@ -100,6 +100,8 @@ html_theme_options = {
         
     ],
     
+    "secondary_sidebar_items": []
+    
 }
 favicons = [
     "favicon-16x16.png",
@@ -107,10 +109,10 @@ favicons = [
 ]
 
 html_sidebars = {
-    #"**": ["sidebar-nav-bs", "sidebar-ethical-ads"],
+    "**": ["sidebar-nav-bs", "sidebar-ethical-ads"]
     
     # ...
     #"secondary_sidebar_items": ["page-toc", "edit-this-page", "sourcelink"]
-    "secondary_sidebar_items": [],
+    
     # ...
 }
