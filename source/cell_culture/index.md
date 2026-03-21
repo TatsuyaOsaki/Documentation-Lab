@@ -9,7 +9,7 @@ myst:
 # Cell culture
 
 ```{note}
-This theme is still under active development
+This theme is under active development
 ```
 
 ```{toctree}
