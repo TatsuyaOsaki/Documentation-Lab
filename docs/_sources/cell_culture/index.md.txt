@@ -13,7 +13,7 @@ This theme is under active development
 ```
 
 ```{toctree}
-:maxdepth: 3
+:maxdepth: 1
 :caption: Cell culture
 
 cell_culture
