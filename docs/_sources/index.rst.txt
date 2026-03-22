@@ -1,12 +1,10 @@
 
-# Welcome to Osaki Lab Documentation!
+Welcome to Osaki Lab Documentation!
 ------------------------------------
 
 This is the Personal documentaion for Osaki Lab
 
 To edit this documentation, you need sphinx pyhon package and markdown format. Please follow these instruction to set up the enviroment for editing markdown and sphinx document convertion.
-
-
 
 
 .. grid::
@@ -23,7 +21,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :img-top: ./picture/neuron1.png
       :link: cell_culture/index
 
-
       - Cell culture
       - iPS cell culture
       - Organoids
@@ -32,7 +29,6 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :padding: 3
       :img-top: ./picture/dna-color.png
       :link: genome_editing/index
-
 
       - Plasmid cloning
       - Transfection
