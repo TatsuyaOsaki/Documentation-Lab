@@ -11,10 +11,7 @@ myst:
 
 
 ```{danger}
-This theme is still under active development, and we make no promises
-about the stability of any specific HTML structure, CSS variables, etc.
-Make these customizations at your own risk, and pin versions if you're
-worried about breaking changes!
+This theme is still under active development
 ```
 
 There are a number of options for configuring your site's look and feel.

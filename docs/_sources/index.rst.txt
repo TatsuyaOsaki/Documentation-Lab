@@ -92,8 +92,9 @@ To edit this documentation, you need sphinx pyhon package and markdown format. P
       :link: development
       :columns: 1 1 4 4
       :class-card: h-100
+
 .. toctree::
-  :maxdepth: 3
+  :maxdepth: 1
   :caption: Contents
 
   Equipment/index

@@ -1,7 +1,7 @@
 # Equipment
 
 ```{toctree}
-:maxdepth: 1s
+:maxdepth: 1
 :caption: Equipment
 
 PILM
